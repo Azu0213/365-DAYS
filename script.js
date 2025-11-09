@@ -220,7 +220,7 @@ function createMaterialCard(material) {
                 <span class="waterproof-icon">💧</span>
                 <span class="waterproof-text">100% WATERPROOF GUARANTEED</span>
             </div>
-            <img src="${material.image}" alt="${material.name}" class="material-image" loading="lazy">
+            <img src="${material.images?.sample || material.images?.label || 'catalog/images/placeholder.jpg'}" alt="${material.name}" class="material-image" loading="lazy">
         </div>
         <div class="material-info">
             <h3 class="material-name">${material.name}</h3>
@@ -231,6 +231,11 @@ function createMaterialCard(material) {
             <span class="material-id">${material.id}</span>
         </div>
     `;
+    
+    // Add click handler for material detail modal
+    card.addEventListener('click', () => showMaterialDetail(material));
+    card.style.cursor = 'pointer';
+    
     return card;
 }
 
@@ -252,7 +257,7 @@ function showMaterialDetail(material) {
                 </div>
             </div>`;
     } else {
-        const imageUrl = material.image || 'catalog/placeholders/sample-tiny.jpg';
+        const imageUrl = material.images?.sample || material.images?.label || 'catalog/images/placeholder.jpg';
         modalImageHTML = `<img src="${imageUrl}" alt="${material.name}" class="modal-image">`;
     }
 
