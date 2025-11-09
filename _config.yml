@@ -1,0 +1,24 @@
+# GitHub Pages Configuration for 365 Days Flooring
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-relative-links
+
+include:
+  - styles.css
+  - script.js
+  - catalog.html
+  - index.html
+  - data/
+  - catalog/
+
+exclude:
+  - README.md
+  - .gitignore
+
+# Enable all files to be served
+keep_files:
+  - .
+
+# Ensure proper MIME types
