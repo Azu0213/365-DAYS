@@ -163,6 +163,7 @@ function showErrorState(message) {
 function renderCatalog(materials) {
     const container = document.getElementById('material-grid');
     if (!container) return;
+    
     materialsData = materials;
     container.innerHTML = '';
     materials.forEach((material) => {
