@@ -1,0 +1,77 @@
+# Development files
+*.zip
+*.tmp
+*.log
+
+# 365 Days Catalog - Git Ignore
+
+# Temporary processing files
+extracted_photos/
+temp_images/
+*.tmp
+
+# Development files
+script-old.js
+*-test.html
+*-debug.*
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Logs
+*.log
+logs/
+
+# Runtime
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Ignore large catalog images in git (uncomment if repo gets too large)
+# catalog/images/*.jpg
+# catalog/images/*.jpeg
+# catalog/images/*.png
+
+# Keep structure but ignore content
+catalog/images/.gitkeep
+!catalog/images/placeholder.jpg
+
+# Development directories
+dev/
+temp/
+backup/
+
+# Node modules (if any)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
