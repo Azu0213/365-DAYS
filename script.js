@@ -222,7 +222,7 @@ function createMaterialCard(material) {
                 <span class="waterproof-icon">💧</span>
                 <span class="waterproof-text">100% WATERPROOF GUARANTEED</span>
             </div>
-            <img src="${(material.images && material.images.sample) || (material.images && material.images.label) || 'catalog/images/placeholder.jpg'}" alt="${material.name}" class="material-image" loading="lazy">
+            <img src="${material.images.sample}" alt="${material.name}" class="material-image" loading="lazy" onerror="this.src='${material.images.label}'">
         </div>
         <div class="material-info">
             <h3 class="material-name">${material.name}</h3>
