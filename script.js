@@ -132,6 +132,7 @@ async function loadCatalog() {
         if (!materials.length) return showEmptyState();
         renderCatalog(materials);
     } catch (error) {
+        console.error('Error loading catalog:', error);
         showErrorState(error.message);
     }
 }
@@ -186,12 +187,12 @@ function createMaterialCard(material) {
     const card = document.createElement('div');
     card.className = 'material-card';
     card.dataset.style = material.style || '';
-    card.dataset.thickness = material.specifications?.thickness || '';
+    card.dataset.thickness = (material.specifications && material.specifications.thickness) || '';
     card.dataset.materialType = material.type || '';
     card.dataset.collection = material.collection || '';
 
     let featuresHTML = '';
-    if (material.features?.length) {
+    if (material.features && material.features.length) {
         featuresHTML = `
             <div class="material-features">
                 ${material.features.map(feature => `<span class="feature-badge">${feature}</span>`).join('')}
@@ -220,7 +221,7 @@ function createMaterialCard(material) {
                 <span class="waterproof-icon">💧</span>
                 <span class="waterproof-text">100% WATERPROOF GUARANTEED</span>
             </div>
-            <img src="${material.images?.sample || material.images?.label || 'catalog/images/placeholder.jpg'}" alt="${material.name}" class="material-image" loading="lazy">
+            <img src="${(material.images && material.images.sample) || (material.images && material.images.label) || 'catalog/images/placeholder.jpg'}" alt="${material.name}" class="material-image" loading="lazy">
         </div>
         <div class="material-info">
             <h3 class="material-name">${material.name}</h3>
@@ -244,7 +245,7 @@ function showMaterialDetail(material) {
     modal.className = 'material-modal';
 
     let modalImageHTML = '';
-    if (material.images?.label && material.images?.sample) {
+    if (material.images && material.images.label && material.images.sample) {
         modalImageHTML = `
             <div class="modal-images dual">
                 <div class="modal-image-item">
@@ -257,7 +258,7 @@ function showMaterialDetail(material) {
                 </div>
             </div>`;
     } else {
-        const imageUrl = material.images?.sample || material.images?.label || 'catalog/images/placeholder.jpg';
+        const imageUrl = (material.images && material.images.sample) || (material.images && material.images.label) || 'catalog/images/placeholder.jpg';
         modalImageHTML = `<img src="${imageUrl}" alt="${material.name}" class="modal-image">`;
     }
 
