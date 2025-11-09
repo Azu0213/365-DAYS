@@ -3,66 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-  <!-- SEO Meta Tags -->
-  <title>365 Days Flooring — Premium Waterproof Flooring Solutions | Home Renovation</title>
-  <meta name="description" content="Discover 175+ premium waterproof flooring options at 365 Days Flooring. LVP, hardwood, laminate with lifetime warranties. Professional installation available." />
-  <meta name="keywords" content="waterproof flooring, LVP flooring, luxury vinyl plank, laminate flooring, hardwood flooring, home renovation, flooring installation" />
-  <meta name="author" content="365 Days Flooring" />
-  
-  <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://365daysflooring.com/" />
-  <meta property="og:title" content="365 Days Flooring — Premium Waterproof Flooring Solutions" />
-  <meta property="og:description" content="Discover 175+ premium waterproof flooring options with lifetime warranties. Professional installation available." />
-  <meta property="og:image" content="https://365daysflooring.com/catalog/images/hero-flooring.jpg" />
-  
-  <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://365daysflooring.com/" />
-  <meta property="twitter:title" content="365 Days Flooring — Premium Waterproof Flooring Solutions" />
-  <meta property="twitter:description" content="Discover 175+ premium waterproof flooring options with lifetime warranties. Professional installation available." />
-  <meta property="twitter:image" content="https://365daysflooring.com/catalog/images/hero-flooring.jpg" />
-  
-  <!-- Business Schema.org Structured Data -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "365 Days Flooring",
-    "description": "Premium waterproof flooring solutions with over 175 material options and professional installation services.",
-    "url": "https://365daysflooring.com",
-    "telephone": "+1-XXX-XXX-XXXX",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Your City",
-      "addressRegion": "Your State",
-      "postalCode": "Your ZIP",
-      "addressCountry": "US"
-    },
-    "openingHours": "Mo-Fr 08:00-17:00, Sa 09:00-16:00",
-    "priceRange": "$$",
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Flooring Catalog",
-      "itemListElement": [
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Product",
-            "name": "Waterproof LVP Flooring",
-            "category": "Home Improvement"
-          }
-        }
-      ]
-    }
-  }
-  </script>
-  
-  <!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  
+  <title>365 Days Flooring — Home Renovation</title>
+
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -203,24 +145,6 @@
   <footer class="site-footer">
     <p>© <span id="year"></span> 365 Days Flooring · All rights reserved.</p>
   </footer>
-
-  <script>
-    // Set current year
-    document.getElementById('year').textContent = new Date().getFullYear();
-    
-    // Register service worker for offline functionality
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
-          .then(registration => {
-            console.log('✅ Service Worker registered successfully');
-          })
-          .catch(error => {
-            console.log('❌ Service Worker registration failed:', error);
-          });
-      });
-    }
-  </script>
 </body>
 </html>
 

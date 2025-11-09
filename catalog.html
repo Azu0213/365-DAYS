@@ -1,77 +1,228 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>365 Days Flooring Catalog</title>
-  <meta name="description" content="Browse our complete collection of premium waterproof flooring materials.">
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catalog — 365 Days Flooring</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+  <script src="script.js"></script>
+
+  <!-- Page-scoped: ensure opener is skipped here -->
+  <style>
+    body.catalog .site-header,
+    body.catalog .site { opacity: 1 !important; transform: none !important; }
+  </style>
+
+  <noscript>
+    <style>.site-header,.site{opacity:1!important;transform:none!important}</style>
+  </noscript>
 </head>
-<body>
+<body class="catalog">
   <!-- Header -->
-  <header class="header">
-    <div class="container">
-      <div class="header-content">
-        <div class="logo">
-          <h1>365 Days Flooring</h1>
-          <p>Premium Waterproof Solutions</p>
-        </div>
-        <nav class="main-nav">
-          <a href="index.html">Home</a>
-          <a href="catalog.html" class="active">Catalog</a>
-          <a href="tel:+1234567890" class="cta-btn">Call Now</a>
-        </nav>
-      </div>
-    </div>
+  <header class="site-header">
+    <a class="site-logo" href="index.html"><span class="brand-365">365</span> Days Flooring</a>
+    <nav class="site-nav">
+      <a href="index.html#about">About</a>
+      <a href="index.html#services">Services</a>
+      <a href="index.html#adu">ADU & Real Estate</a>
+      <a href="catalog.html" aria-current="page">Catalog</a>
+      <a class="phone" href="tel:18188001358">818.800.1358</a>
+    </nav>
   </header>
 
-  <!-- Main Content -->
-  <main class="main-content">
-    <div class="container">
-      <!-- Page Header -->
-      <section class="page-header">
-        <h2>Flooring Catalog</h2>
-        <p>Browse our premium flooring collection</p>
-      </section>
-
-      <!-- Search and Filters -->
-      <section class="filters">
-        <div class="filter-bar">
-          <input type="text" id="search-input" placeholder="Search materials..." class="search-input">
-          <select id="type-filter" class="filter-select">
-            <option value="">All Types</option>
-          </select>
-          <span id="results-count">Loading...</span>
-        </div>
-      </section>
-
-      <!-- Materials Grid -->
-      <section class="catalog-section">
-        <div id="material-grid" class="material-grid">
-          <div class="loading">Loading materials...</div>
-        </div>
-      </section>
-    </div>
-  </main>
-
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-content">
-        <div class="footer-info">
-          <h3>365 Days Flooring</h3>
-          <p>Premium waterproof flooring solutions</p>
-        </div>
-        <div class="footer-contact">
-          <p>Call us today: <a href="tel:+1234567890">+1 (234) 567-8900</a></p>
+  <!-- Main Site Content -->
+  <div class="site">
+    <!-- Hero Section -->
+    <section class="section">
+      <div class="hero__content">
+        <div class="hero__title">
+          <h1>Material <span class="brand-365">Catalog</span></h1>
+          <p class="hero__subtitle">
+            Premium flooring materials for your project. Browse our extensive collection of luxury vinyl planks, laminates, and more.
+          </p>
         </div>
       </div>
-      <div class="footer-bottom">
-        <p>&copy; <span id="year">2025</span> 365 Days Flooring. All rights reserved.</p>
-      </div>
-    </div>
-  </footer>
+    </section>
 
-  <script src="script.js"></script>
+    <!-- Search & Filter Section -->
+    <section class="section">
+      <div class="search-filter-container">
+        <!-- Main Search -->
+        <div class="search-wrapper">
+          <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Search by material name, ID, or type..." 
+            class="search-input"
+          />
+          <div id="search-suggestions" class="search-suggestions"></div>
+        </div>
+
+        <!-- Quick Filter Tags -->
+        <div class="quick-filters">
+          <button class="quick-filter active" data-filter="all">All Materials</button>
+          <button class="quick-filter" data-filter="waterproof">💧 Waterproof</button>
+          <button class="quick-filter" data-filter="lifetime">🏆 Lifetime Warranty</button>
+          <button class="quick-filter" data-filter="commercial">🏢 Commercial Grade</button>
+        </div>
+
+        <!-- Advanced Filters -->
+        <div class="advanced-filters" id="advanced-filters">
+          <div class="filter-group">
+            <label for="material-type">Material Type</label>
+            <select id="material-type">
+              <option value="">All Types</option>
+              <option value="Luxury Vinyl Plank">Luxury Vinyl Plank</option>
+              <option value="Laminate">Laminate</option>
+              <option value="SPC Flooring">SPC Flooring</option>
+              <option value="Engineered Hardwood">Engineered Hardwood</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="collection-filter">Collection</label>
+            <select id="collection-filter">
+              <option value="">All Collections</option>
+              <option value="Premium">Premium</option>
+              <option value="Classic">Classic Series</option>
+              <option value="Modern">Modern Collection</option>
+              <option value="Signature">Signature</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="style-filter">Style</label>
+            <select id="style-filter">
+              <option value="">All Styles</option>
+              <option value="Traditional">Traditional</option>
+              <option value="Modern">Modern</option>
+              <option value="Rustic">Rustic</option>
+              <option value="Classic">Classic</option>
+              <option value="Versatile">Versatile</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="thickness-filter">Thickness</label>
+            <select id="thickness-filter">
+              <option value="">All Thicknesses</option>
+              <option value="6mm">6mm</option>
+              <option value="7mm">7mm</option>
+              <option value="8mm">8mm</option>
+              <option value="9mm+">9mm+</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Filter Toggle -->
+        <button class="filter-toggle" id="filter-toggle">
+          <span>🔍 Advanced Filters</span>
+          <span class="toggle-icon">▼</span>
+        </button>
+
+        <!-- Results Summary -->
+        <div class="results-summary" id="results-summary">
+          <span id="results-count">175</span> materials found
+          <button class="clear-filters" id="clear-filters">Clear All Filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Material Grid -->
+    <section class="section">
+      <div id="material-grid" class="material-grid">
+        <!-- Materials will be loaded here by JavaScript -->
+      </div>
+      
+      <!-- No Results Message -->
+      <div id="no-results-message" class="no-results-message" style="display: none;">
+        <div class="no-results-content">
+          <h3>🔍 No Materials Found</h3>
+          <p>Sorry, we don't currently have materials matching your search criteria.</p>
+          <p class="coming-soon">New materials <span class="gold-text">coming soon!</span></p>
+          <button onclick="clearAllFilters()" class="btn-clear-all">Clear All Filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="section" style="margin-top: 4rem; text-align: center; color: var(--muted);">
+      <p>&copy; <span id="year">2025</span> 365 Days Flooring. All rights reserved.</p>
+      <p>
+        <a href="tel:18188001358" style="color: var(--gold);">818.800.1358</a> | 
+        <strong>Julian Jimenez</strong> | Licensed & Insured
+      </p>
+    </footer>
+  </div>
+
+  <!-- Material Detail Modal (populated by JavaScript) -->
+  <div id="material-modal" class="material-modal" style="display: none;"></div>
+
+  <!-- Estimate: floating bar + modal -->
+  <style>
+    .estimate-bar{position:fixed;right:24px;bottom:24px;display:none;background:#0d0d0d;color:#f4f3ef;border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:12px 14px;gap:10px;align-items:center;z-index:50}
+    .estimate-pill{background:#1a1a1a;border:1px solid rgba(255,255,255,.08);padding:6px 10px;border-radius:999px;font:600 12px/1 Inter}
+    .btn{appearance:none;border:1px solid rgba(255,255,255,.08);background:#131313;color:#f4f3ef;padding:10px 12px;border-radius:12px;cursor:pointer;font:600 13px/1 Inter}
+    .btn.gold{background:linear-gradient(180deg,#f7d774,#d4af37);color:#111;border:none}
+    .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;z-index:60}
+    .estimate-modal{width:min(720px,92vw);background:#0d0d0d;border:1px solid rgba(255,255,255,.08);border-radius:20px;overflow:hidden}
+    .estimate-modal header,.estimate-modal footer{padding:16px 18px;border-bottom:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;align-items:center}
+    .estimate-modal footer{border-top:1px solid rgba(255,255,255,.08);border-bottom:none;justify-content:flex-end;gap:10px}
+    .estimate-modal h2{font:800 18px/1 Inter;color:#f4f3ef;margin:0}
+    .estimate-content{padding:18px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    .estimate-content .full{grid-column:1/-1}
+    .field{display:flex;flex-direction:column;gap:6px}
+    .field label{font:600 12px/1 Inter;color:#c5bfae}
+    .field input,.field textarea{background:#121212;border:1px solid rgba(255,255,255,.08);border-radius:12px;color:#f4f3ef;padding:10px 12px;font:400 14px/1.2 Inter}
+    .items-box{background:#0f0f0f;border:1px dashed rgba(255,255,255,.12);border-radius:12px;padding:10px;max-height:220px;overflow:auto;font:400 12px/1.4 Inter;color:#e6e4dc}
+    .add-estimate-btn,.remove-estimate-btn{margin-top:10px}
+  </style>
+
+  <div class="estimate-bar" id="estimateBar" aria-live="polite">
+    <span class="estimate-pill" id="estimateCount">0 selected</span>
+    <button class="btn" id="viewEstimateBtn" type="button">View</button>
+    <button class="btn gold" id="requestEstimateBtn" type="button">Request Estimate</button>
+  </div>
+
+  <div class="modal-backdrop" id="estimateModalBackdrop" aria-hidden="true">
+    <div class="estimate-modal" role="dialog" aria-modal="true" aria-labelledby="estimateTitle">
+      <header>
+        <h2 id="estimateTitle">Request Estimate</h2>
+        <button class="btn" id="closeEstimateModalBtn" type="button">Close</button>
+      </header>
+      <div class="estimate-content">
+        <div class="field">
+          <label for="custName">Name</label>
+          <input id="custName" placeholder="Your full name" />
+        </div>
+        <div class="field">
+          <label for="custEmail">Email</label>
+          <input id="custEmail" placeholder="you@example.com" />
+        </div>
+        <div class="field">
+          <label for="custPhone">Phone</label>
+          <input id="custPhone" placeholder="(xxx) xxx-xxxx" />
+        </div>
+        <div class="field full">
+          <label>Selected Materials</label>
+          <div class="items-box" id="estimateItemsList"></div>
+        </div>
+        <div class="field full">
+          <label for="custNotes">Notes</label>
+          <textarea id="custNotes" rows="4" placeholder="Room sizes, timeline, removal/install needs, etc."></textarea>
+        </div>
+      </div>
+      <footer>
+        <button class="btn" id="clearEstimateBtn" type="button">Clear</button>
+        <button class="btn" id="emailEstimateBtn" type="button">Send</button>
+      </footer>
+    </div>
+  </div>
 </body>
 </html>
