@@ -4,8 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>365 Days Flooring Catalog</title>
-  <meta name="description" content="Browse our complete collection of premium waterproof flooring materials.">
+  <meta name="description" content="Browse our complete collection of premium waterproof flooring materials. LVP, laminate, and hardwood options with lifetime warranty.">
+  <meta name="keywords" content="flooring catalog, waterproof flooring, LVP materials, laminate flooring, hardwood">
   <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
   <!-- Header -->
@@ -31,24 +33,38 @@
       <!-- Page Header -->
       <section class="page-header">
         <h2>Flooring Catalog</h2>
-        <p>Browse our premium flooring collection</p>
+        <p>Explore our complete collection of premium flooring materials</p>
       </section>
 
-      <!-- Search and Filters -->
+      <!-- Filters -->
       <section class="filters">
         <div class="filter-bar">
-          <input type="text" id="search-input" placeholder="Search materials..." class="search-input">
-          <select id="type-filter" class="filter-select">
-            <option value="">All Types</option>
-          </select>
-          <span id="results-count">Loading...</span>
+          <div class="search-box">
+            <input 
+              type="text" 
+              id="search-input" 
+              placeholder="Search materials..." 
+              class="search-input"
+            >
+          </div>
+          <div class="filter-group">
+            <select id="type-filter" class="filter-select">
+              <option value="">All Types</option>
+            </select>
+          </div>
+          <div class="results-info">
+            <span id="results-count">Loading materials...</span>
+          </div>
         </div>
       </section>
 
       <!-- Materials Grid -->
       <section class="catalog-section">
         <div id="material-grid" class="material-grid">
-          <div class="loading">Loading materials...</div>
+          <!-- Materials will be loaded here -->
+          <div class="loading-state">
+            <p>Loading materials...</p>
+          </div>
         </div>
       </section>
     </div>
@@ -60,10 +76,11 @@
       <div class="footer-content">
         <div class="footer-info">
           <h3>365 Days Flooring</h3>
-          <p>Premium waterproof flooring solutions</p>
+          <p>Premium waterproof flooring solutions with lifetime warranty</p>
         </div>
         <div class="footer-contact">
-          <p>Call us today: <a href="tel:+1234567890">+1 (234) 567-8900</a></p>
+          <p>📞 Call us today for a free consultation</p>
+          <a href="tel:+1234567890" class="phone-link">+1 (234) 567-8900</a>
         </div>
       </div>
       <div class="footer-bottom">
