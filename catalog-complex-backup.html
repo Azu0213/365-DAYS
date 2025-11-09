@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- SEO Meta Tags -->
+  <title>Flooring Catalog — 175+ Waterproof Materials | 365 Days Flooring</title>
+  <meta name="description" content="Browse our complete catalog of 175+ waterproof flooring materials. LVP, laminate, hardwood with advanced search, filtering and instant estimates." />
+  <meta name="keywords" content="flooring catalog, waterproof flooring options, LVP materials, laminate flooring, hardwood samples, flooring comparison" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://365daysflooring.com/catalog.html" />
+  <meta property="og:title" content="Flooring Catalog — 175+ Waterproof Materials | 365 Days Flooring" />
+  <meta property="og:description" content="Browse our complete catalog of 175+ waterproof flooring materials with advanced search and filtering." />
+  <meta property="og:image" content="https://365daysflooring.com/catalog/images/catalog-preview.jpg" />
+  
+  <!-- Product Catalog Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "365 Days Flooring Catalog",
+    "description": "Complete catalog of premium waterproof flooring materials",
+    "numberOfItems": "175+",
+    "itemListElement": [
+      {
+        "@type": "Product",
+        "name": "Waterproof LVP Flooring Collection",
+        "category": "Luxury Vinyl Plank",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+  <script src="script.js"></script>
+
+  <!-- Page-scoped: ensure opener is skipped here -->
+  <style>
+    body.catalog .site-header,
+    body.catalog .site { opacity: 1 !important; transform: none !important; }
+  </style>
+
+  <noscript>
+    <style>.site-header,.site{opacity:1!important;transform:none!important}</style>
+  </noscript>
+</head>
+<body class="catalog">
+  <!-- Header -->
+  <header class="site-header">
+    <a class="site-logo" href="index.html"><span class="brand-365">365</span> Days Flooring</a>
+    <nav class="site-nav">
+      <a href="index.html#about">About</a>
+      <a href="index.html#services">Services</a>
+      <a href="index.html#adu">ADU & Real Estate</a>
+      <a href="catalog.html" aria-current="page">Catalog</a>
+      <a class="phone" href="tel:18188001358">818.800.1358</a>
+    </nav>
+  </header>
+
+  <!-- Main Site Content -->
+  <div class="site">
+    <!-- Hero Section -->
+    <section class="section">
+      <div class="hero__content">
+        <div class="hero__title">
+          <h1>Material <span class="brand-365">Catalog</span></h1>
+          <p class="hero__subtitle">
+            Premium flooring materials for your project. Browse our extensive collection of luxury vinyl planks, laminates, and more.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Search & Filter Section -->
+    <section class="section">
+      <div class="search-filter-container">
+        <!-- Main Search -->
+        <div class="search-wrapper">
+          <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Search by material name, ID, or type..." 
+            class="search-input"
+          />
+          <div id="search-suggestions" class="search-suggestions"></div>
+        </div>
+
+        <!-- Quick Filter Tags -->
+        <div class="quick-filters">
+          <button class="quick-filter active" data-filter="all">All Materials</button>
+          <button class="quick-filter" data-filter="waterproof">💧 Waterproof</button>
+          <button class="quick-filter" data-filter="lifetime">🏆 Lifetime Warranty</button>
+          <button class="quick-filter" data-filter="commercial">🏢 Commercial Grade</button>
+        </div>
+
+        <!-- Room Square Footage Calculator -->
+        <div class="room-calculator" id="room-calculator">
+          <button class="calculator-toggle" id="calculator-toggle">
+            📐 Room Calculator
+          </button>
+          <div class="calculator-panel" id="calculator-panel" style="display: none;">
+            <h3>Calculate Room Square Footage</h3>
+            <div class="calculator-content">
+              <div class="room-inputs">
+                <div class="input-group">
+                  <label for="room-length">Length (ft)</label>
+                  <input type="number" id="room-length" placeholder="12" min="1" step="0.1">
+                </div>
+                <div class="input-group">
+                  <label for="room-width">Width (ft)</label>
+                  <input type="number" id="room-width" placeholder="10" min="1" step="0.1">
+                </div>
+                <div class="calculator-result">
+                  <span class="result-label">Total:</span>
+                  <span class="result-value" id="calculated-sqft">0 sq ft</span>
+                </div>
+              </div>
+              <div class="calculator-tips">
+                <h4>💡 Pro Tips:</h4>
+                <ul>
+                  <li>Add 5-10% extra for waste and cuts</li>
+                  <li>Measure twice, order once</li>
+                  <li>Consider room shape and obstacles</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Advanced Filters -->
+        <div class="advanced-filters" id="advanced-filters">
+          <div class="filter-group">
+            <label for="material-type">Material Type</label>
+            <select id="material-type">
+              <option value="">All Types</option>
+              <option value="Luxury Vinyl Plank">Luxury Vinyl Plank</option>
+              <option value="Laminate">Laminate</option>
+              <option value="SPC Flooring">SPC Flooring</option>
+              <option value="Engineered Hardwood">Engineered Hardwood</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="collection-filter">Collection</label>
+            <select id="collection-filter">
+              <option value="">All Collections</option>
+              <option value="Premium">Premium</option>
+              <option value="Classic">Classic Series</option>
+              <option value="Modern">Modern Collection</option>
+              <option value="Signature">Signature</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="style-filter">Style</label>
+            <select id="style-filter">
+              <option value="">All Styles</option>
+              <option value="Traditional">Traditional</option>
+              <option value="Modern">Modern</option>
+              <option value="Rustic">Rustic</option>
+              <option value="Classic">Classic</option>
+              <option value="Versatile">Versatile</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="thickness-filter">Thickness</label>
+            <select id="thickness-filter">
+              <option value="">All Thicknesses</option>
+              <option value="6mm">6mm</option>
+              <option value="7mm">7mm</option>
+              <option value="8mm">8mm</option>
+              <option value="9mm+">9mm+</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Filter Toggle -->
+        <button class="filter-toggle" id="filter-toggle">
+          <span>🔍 Advanced Filters</span>
+          <span class="toggle-icon">▼</span>
+        </button>
+
+        <!-- Results Summary -->
+        <div class="results-summary" id="results-summary">
+          <span id="results-count">175</span> materials found
+          <button class="clear-filters" id="clear-filters">Clear All Filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Material Grid -->
+    <section class="section">
+      <div id="material-grid" class="material-grid">
+        <!-- Materials will be loaded here by JavaScript -->
+      </div>
+      
+      <!-- No Results Message -->
+      <div id="no-results-message" class="no-results-message" style="display: none;">
+        <div class="no-results-content">
+          <h3>🔍 No Materials Found</h3>
+          <p>Sorry, we don't currently have materials matching your search criteria.</p>
+          <p class="coming-soon">New materials <span class="gold-text">coming soon!</span></p>
+          <button onclick="clearAllFilters()" class="btn-clear-all">Clear All Filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="section" style="margin-top: 4rem; text-align: center; color: var(--muted);">
+      <p>&copy; <span id="year">2025</span> 365 Days Flooring. All rights reserved.</p>
+      <p>
+        <a href="tel:18188001358" style="color: var(--gold);">818.800.1358</a> | 
+        <strong>Julian Jimenez</strong> | Licensed & Insured
+      </p>
+    </footer>
+  </div>
+
+  <!-- Material Detail Modal (populated by JavaScript) -->
+  <div id="material-modal" class="material-modal" style="display: none;"></div>
+
+    </section>
+
+  <!-- Lead Capture Forms -->
+  <div class="lead-capture-forms">
+    <!-- Consultation Modal -->
+    <div class="modal-backdrop" id="consultationModalBackdrop" style="display: none;">
+      <div class="lead-modal" role="dialog" aria-modal="true">
+        <header class="lead-modal-header">
+          <h2>Schedule Free Consultation</h2>
+          <button class="btn" id="closeConsultationModalBtn" type="button">✕</button>
+        </header>
+        <form class="lead-form" id="consultationForm">
+          <div class="form-grid">
+            <div class="field">
+              <label for="consult-name">Full Name *</label>
+              <input type="text" id="consult-name" required>
+            </div>
+            <div class="field">
+              <label for="consult-email">Email Address *</label>
+              <input type="email" id="consult-email" required>
+            </div>
+            <div class="field">
+              <label for="consult-phone">Phone Number *</label>
+              <input type="tel" id="consult-phone" required>
+            </div>
+            <div class="field">
+              <label for="consult-location">Project Location</label>
+              <input type="text" id="consult-location" placeholder="City, State">
+            </div>
+          </div>
+          <div class="form-grid">
+            <div class="field">
+              <label for="consult-date">Preferred Date</label>
+              <input type="date" id="consult-date">
+            </div>
+            <div class="field">
+              <label for="consult-time">Preferred Time</label>
+              <select id="consult-time">
+                <option value="">Select time</option>
+                <option value="morning">Morning (9AM-12PM)</option>
+                <option value="afternoon">Afternoon (12PM-5PM)</option>
+                <option value="evening">Evening (5PM-8PM)</option>
+              </select>
+            </div>
+          </div>
+          <div class="field full">
+            <label for="project-type">Project Type</label>
+            <select id="project-type">
+              <option value="">Select project type</option>
+              <option value="residential">Residential - Home</option>
+              <option value="commercial">Commercial - Business</option>
+              <option value="renovation">Renovation/Remodel</option>
+              <option value="new-construction">New Construction</option>
+            </select>
+          </div>
+          <div class="field full">
+            <label for="project-size">Estimated Square Footage</label>
+            <input type="number" id="project-size" placeholder="e.g., 1200">
+          </div>
+          <div class="field full">
+            <label for="consult-notes">Project Details</label>
+            <textarea id="consult-notes" rows="3" placeholder="Tell us about your project, timeline, budget range..."></textarea>
+          </div>
+          <div class="form-actions">
+            <button type="button" class="btn" onclick="closeConsultationModal()">Cancel</button>
+            <button type="submit" class="btn gold">Schedule Consultation</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating Action Buttons -->
+  <div class="floating-actions">
+    <button class="fab sample-fab" onclick="showSampleModal()" title="Request Free Samples">
+      📦 Samples
+    </button>
+    <button class="fab consultation-fab" onclick="showConsultationModal()" title="Schedule Consultation">
+      📅 Consult
+    </button>
+  </div>
+
+  <!-- Material Comparison Tool -->
+  <div class="comparison-bar" id="comparisonBar" style="display: none;">
+    <div class="comparison-content">
+      <span class="comparison-count" id="comparisonCount">0 materials to compare</span>
+      <button class="btn comparison-btn" id="viewComparisonBtn" type="button">Compare</button>
+      <button class="btn clear-comparison" id="clearComparisonBtn" type="button">Clear</button>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="comparisonModalBackdrop" style="display: none;">
+    <div class="comparison-modal" role="dialog" aria-modal="true">
+      <header class="comparison-header">
+        <h2>Material Comparison</h2>
+        <button class="btn" id="closeComparisonModalBtn" type="button">✕</button>
+      </header>
+      <div class="comparison-table-container" id="comparisonTableContainer">
+        <!-- Dynamic comparison table will be inserted here -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Estimate: floating bar + modal -->
+  <style>
+    .estimate-bar{position:fixed;right:24px;bottom:24px;display:none;background:#0d0d0d;color:#f4f3ef;border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:12px 14px;gap:10px;align-items:center;z-index:50}
+    .estimate-pill{background:#1a1a1a;border:1px solid rgba(255,255,255,.08);padding:6px 10px;border-radius:999px;font:600 12px/1 Inter}
+    .btn{appearance:none;border:1px solid rgba(255,255,255,.08);background:#131313;color:#f4f3ef;padding:10px 12px;border-radius:12px;cursor:pointer;font:600 13px/1 Inter}
+    .btn.gold{background:linear-gradient(180deg,#f7d774,#d4af37);color:#111;border:none}
+    .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;z-index:60}
+    .estimate-modal{width:min(720px,92vw);background:#0d0d0d;border:1px solid rgba(255,255,255,.08);border-radius:20px;overflow:hidden}
+    .estimate-modal header,.estimate-modal footer{padding:16px 18px;border-bottom:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;align-items:center}
+    .estimate-modal footer{border-top:1px solid rgba(255,255,255,.08);border-bottom:none;justify-content:flex-end;gap:10px}
+    .estimate-modal h2{font:800 18px/1 Inter;color:#f4f3ef;margin:0}
+    .estimate-content{padding:18px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    .estimate-content .full{grid-column:1/-1}
+    .field{display:flex;flex-direction:column;gap:6px}
+    .field label{font:600 12px/1 Inter;color:#c5bfae}
+    .field input,.field textarea{background:#121212;border:1px solid rgba(255,255,255,.08);border-radius:12px;color:#f4f3ef;padding:10px 12px;font:400 14px/1.2 Inter}
+    .items-box{background:#0f0f0f;border:1px dashed rgba(255,255,255,.12);border-radius:12px;padding:10px;max-height:220px;overflow:auto;font:400 12px/1.4 Inter;color:#e6e4dc}
+    .add-estimate-btn,.remove-estimate-btn{margin-top:10px}
+  </style>
+
+  <div class="estimate-bar" id="estimateBar" aria-live="polite">
+    <span class="estimate-pill" id="estimateCount">0 selected</span>
+    <button class="btn" id="viewEstimateBtn" type="button">View</button>
+    <button class="btn gold" id="requestEstimateBtn" type="button">Request Estimate</button>
+  </div>
+
+  <div class="modal-backdrop" id="estimateModalBackdrop" aria-hidden="true">
+    <div class="estimate-modal" role="dialog" aria-modal="true" aria-labelledby="estimateTitle">
+      <header>
+        <h2 id="estimateTitle">Request Estimate</h2>
+        <button class="btn" id="closeEstimateModalBtn" type="button">Close</button>
+      </header>
+      <div class="estimate-content">
+        <div class="field">
+          <label for="custName">Name</label>
+          <input id="custName" placeholder="Your full name" />
+        </div>
+        <div class="field">
+          <label for="custEmail">Email</label>
+          <input id="custEmail" placeholder="you@example.com" />
+        </div>
+        <div class="field">
+          <label for="custPhone">Phone</label>
+          <input id="custPhone" placeholder="(xxx) xxx-xxxx" />
+        </div>
+        <div class="field full">
+          <label>Selected Materials</label>
+          <div class="items-box" id="estimateItemsList"></div>
+        </div>
+        <div class="field full">
+          <label for="custNotes">Notes</label>
+          <textarea id="custNotes" rows="4" placeholder="Room sizes, timeline, removal/install needs, etc."></textarea>
+        </div>
+      </div>
+      <footer>
+        <button class="btn" id="clearEstimateBtn" type="button">Clear</button>
+        <button class="btn" id="emailEstimateBtn" type="button">Send</button>
+      </footer>
+    </div>
+  </div>
+
+  <script>
+    // Register service worker for offline functionality
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(registration => {
+            console.log('✅ Service Worker registered successfully');
+          })
+          .catch(error => {
+            console.log('❌ Service Worker registration failed:', error);
+          });
+      });
+    }
+  </script>
+</body>
+</html>
