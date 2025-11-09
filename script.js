@@ -4,6 +4,14 @@
 // ==============================
 
 // ==============================
+// GLOBAL VARIABLES
+// ==============================
+let allMaterials = [];
+let filteredMaterials = [];
+let comparisonList = [];
+let materialsData = [];
+
+// ==============================
 // PERFORMANCE OPTIMIZATIONS
 // ==============================
 
@@ -204,10 +212,20 @@ async function loadCatalog() {
         if (!response.ok) throw new Error(`Failed to load materials: ${response.status}`);
         const materials = await response.json();
         if (!materials.length) return showEmptyState();
+        
+        // Store materials globally
+        allMaterials = materials;
+        filteredMaterials = [...materials];
+        
         renderCatalog(materials);
     } catch (error) {
         showErrorState(error.message);
     }
+}
+
+// Alias for backward compatibility
+async function loadMaterials() {
+    return loadCatalog();
 }
 
 function showEmptyState() {
@@ -490,7 +508,6 @@ function clearAllFilters() {
 // MATERIAL COMPARISON TOOL
 // ==============================
 
-let comparisonList = [];
 const MAX_COMPARISON = 3;
 
 function initializeComparison() {
@@ -3016,5 +3033,4 @@ window.manualClearEstimate = function() {
   attach();
 })();
 
-// Globals used by catalog
-let materialsData = [];
+// Globals used by catalog - now defined at top
