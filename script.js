@@ -187,7 +187,7 @@ function renderCatalog(materials) {
 function setupInitialFilterState() {
     document.querySelectorAll('.quick-filter').forEach(btn => btn.classList.remove('active'));
     document.querySelector('.quick-filter[data-filter="all"]')?.classList.add('active');
-    currentFilters = { search: '', quickFilter: 'all', materialType: '', collection: '', style: '', thickness: '' };
+    currentFilters = { search: '', quickFilter: 'all' };
     const materialGrid = document.getElementById('material-grid');
     const noResultsEl = document.getElementById('no-results-message');
     if (materialGrid) materialGrid.style.display = 'grid';
@@ -307,7 +307,7 @@ function showMaterialDetail(material) {
 }
 
 // Enhanced Search & Filter System
-let currentFilters = { search: '', quickFilter: 'all', materialType: '', collection: '', style: '', thickness: '' };
+let currentFilters = { search: '', quickFilter: 'all' };
 
 function updateResultsCount(count) {
     const el = document.getElementById('results-count');
@@ -316,7 +316,6 @@ function updateResultsCount(count) {
 
 function initializeSearch() {
     const searchInput = document.getElementById('search-input');
-    const filterToggle = document.getElementById('filter-toggle');
     const clearFilters = document.getElementById('clear-filters');
     if (searchInput) {
         searchInput.addEventListener('input', handleSearch);
@@ -324,25 +323,14 @@ function initializeSearch() {
         searchInput.addEventListener('blur', hideSearchSuggestions);
     }
     document.querySelectorAll('.quick-filter').forEach(btn => btn.addEventListener('click', handleQuickFilter));
-    document.getElementById('material-type')?.addEventListener('change', handleAdvancedFilter);
-    document.getElementById('collection-filter')?.addEventListener('change', handleAdvancedFilter);
-    document.getElementById('style-filter')?.addEventListener('change', handleAdvancedFilter);
-    document.getElementById('thickness-filter')?.addEventListener('change', handleAdvancedFilter);
-    filterToggle?.addEventListener('click', toggleAdvancedFilters);
     clearFilters?.addEventListener('click', clearAllFilters);
 }
 
 function handleSearch(e) { currentFilters.search = e.target.value.toLowerCase(); applyAllFilters(); updateSearchSuggestions(e.target.value); }
 function handleQuickFilter(e) {
     document.querySelectorAll('.quick-filter').forEach(btn => btn.classList.remove('active'));
-    e.target.classList.add('active'); currentFilters.quickFilter = e.target.dataset.filter; applyAllFilters();
-}
-function handleAdvancedFilter(e) {
-    const id = e.target.id, v = e.target.value;
-    if (id === 'material-type') currentFilters.materialType = v;
-    if (id === 'collection-filter') currentFilters.collection = v;
-    if (id === 'style-filter') currentFilters.style = v;
-    if (id === 'thickness-filter') currentFilters.thickness = v;
+    e.target.classList.add('active'); 
+    currentFilters.quickFilter = e.target.dataset.filter; 
     applyAllFilters();
 }
 
@@ -372,12 +360,11 @@ function applyAllFilters() {
                 if (!match) show = false;
             }
             if (currentFilters.quickFilter !== 'all') {
-                if (currentFilters.quickFilter === 'premium' && !isPremiumMaterial(material)) show = false;
+                if (currentFilters.quickFilter === 'light' && material.color_tone !== 'light') show = false;
+                if (currentFilters.quickFilter === 'dark' && material.color_tone !== 'dark') show = false;
+                if (currentFilters.quickFilter === 'modern' && material.style_category !== 'modern') show = false;
+                if (currentFilters.quickFilter === 'classic' && material.style_category !== 'classic') show = false;
             }
-            if (currentFilters.materialType && !material.type.toLowerCase().includes(currentFilters.materialType.toLowerCase())) show = false;
-            if (currentFilters.collection && !material.collection.toLowerCase().includes(currentFilters.collection.toLowerCase())) show = false;
-            if (currentFilters.style && !material.style.toLowerCase().includes(currentFilters.style.toLowerCase())) show = false;
-            if (currentFilters.thickness && !material.specifications.thickness.toLowerCase().includes(currentFilters.thickness.toLowerCase())) show = false;
             card.style.display = show ? 'flex' : 'none';
             if (show) visible++;
         });
@@ -416,13 +403,6 @@ function updateSearchSuggestions(query) {
 function selectSuggestion(s) { const i = document.getElementById('search-input'); if (i) i.value = s; currentFilters.search = s.toLowerCase(); hideSearchSuggestions(); applyAllFilters(); }
 function showSearchSuggestions() { const i = document.getElementById('search-input'); if (i?.value.length >= 2) updateSearchSuggestions(i.value); }
 function hideSearchSuggestions() { setTimeout(()=>{ const b=document.getElementById('search-suggestions'); if (b) b.style.display='none'; },200); }
-function toggleAdvancedFilters() { document.getElementById('advanced-filters')?.classList.toggle('show'); document.getElementById('filter-toggle')?.classList.toggle('active'); }
-
-// SIMPLE & ACCURATE FILTER SYSTEM  
-function isPremiumMaterial(material) {
-    // Premium = Solid Hardwood and premium engineered products
-    return material._metadata && material._metadata.is_premium;
-}
 
 function handleImageError(imgElement, fallbackSrc, materialId) {
     // Try the label image first
@@ -443,9 +423,8 @@ function handleImageError(imgElement, fallbackSrc, materialId) {
 }
 
 function clearAllFilters() {
-    currentFilters = { search: '', quickFilter: 'all', materialType: '', collection: '', style: '', thickness: '' };
+    currentFilters = { search: '', quickFilter: 'all' };
     const i = document.getElementById('search-input'); if (i) i.value = '';
-    ['material-type','collection-filter','style-filter','thickness-filter'].forEach(id => { const el = document.getElementById(id); if (el) el.value = ''; });
     document.querySelectorAll('.quick-filter').forEach(btn => btn.classList.remove('active'));
     document.querySelector('.quick-filter[data-filter="all"]')?.classList.add('active');
     applyAllFilters();

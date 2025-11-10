@@ -1,95 +1,132 @@
 [
   {
     "id": "MAT-001",
-    "name": "Material 001",
+    "name": "Material 1",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_001_label.jpg",
       "sample": "catalog/images/material_001_sample.jpg"
-    }
+    },
+    "raw_text": "x eid oe ee eed] \u2018 e \u201c - : genie : a . \u00b0. 4 haane cat pierasrlinienatinini \u2018 \u00bb 2 , 2 : \u2018 ; a \u2018 < \u2019 Seem on 7 Ne wea . me sao s. . \u00ab \u2018 nents tibaiia tas BN NS =. i 4 = mesh a : \u201cy : Ba ee neneerineenes i sages z rem isie didn ~ * \u2018 \u2018 \u201c \u201c* . i Ra ~~ eter son eoenemegeee paneer wee \u2014 - 2 Renee omen ame EE eee i 8 ~ og = oF = =i + ties Y E S S = ; = \u00a7 \u2018 3 Ai. mea cree ~ iy x : Say pees te \\) 0 = : Q is) Ss . p. + Ss = 7 o > : , : \u00a3 \u2018 in im - 3 = 4 $ Ey \u2018 . 5s : @ a \u2018 \u2018 ype > \u00ab ve . \u2018A 4 \u00a2 \u2018 4 oe C 4 3 \u2018 si iy AS \u00ab \u2018 a e \u201c4 1 \u2018 * \u201c OT a . - : ee : as nn re NEN ott ato = spe 5 | ee a + Vaan ee an a sara 58> AS og \u2014\u2014\u2014 tram o = = . ue . ne ehaihieesbeneeneeaitinene a = \u2014_\u2014\u2014 \u2014_\u2014 5; \u00a2 \u2018 = i 4 bes ~\u2014",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-002",
-    "name": "Material 002",
+    "name": "Material 2",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "2mm",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_002_label.jpg",
       "sample": "catalog/images/material_002_sample.jpg"
-    }
+    },
+    "raw_text": ". (8+2mm IXPE) < Se oes \u2014 SE ne Oe a __ oe / O oe a ie) Pinal Li. 3S) oO. m ao fo) fo) ry Ou 4 Lu ON (60\u201dX10mm Q 395 wd",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-003",
-    "name": "Material 003",
+    "name": "Material 3",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_003_label.jpg",
       "sample": "catalog/images/material_003_sample.jpg"
-    }
+    },
+    "raw_text": "| : } i ft ij byt thy Te if fhe] Pree f . new al . 1 : ; t : im iit j ; tiaiit 34 ; rs el ; : : ; 14 i Fe 18 bee A Pte . at \u2014 de S - (adx| wwz+g) \u201cONINOO14 9dS JOONdHNSLVM %001 WINOL :NOILdINOSaa ce WOES \u2018MSAVINVEM xoqnjbsecg'zz ae WWOLX..09X..6 -3ZIS Me",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-004",
-    "name": "Material 004",
+    "name": "Material 4",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_004_label.jpg",
       "sample": "catalog/images/material_004_sample.jpg"
-    }
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-005",
-    "name": "Material 005",
+    "name": "Material 5",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "10mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -97,19 +134,27 @@
     "images": {
       "label": "catalog/images/material_005_label.jpg",
       "sample": "catalog/images/material_005_sample.jpg"
-    }
+    },
+    "raw_text": "ORING. (\u00e9 _ li \u201c eae a ae Dehnes ease =\u2014 \u2014\u2014 = he pone en ag a pbemeene ene reer ae 3 : IF SPC FLO WRESTR Pies aay, SOMIL 10MM 100% WATERPROO a rece 9\u201dX60\u201dX10mm 22.53sqft/Ibox WEARLAYER = . Qo. SS es \u00a9 = Lu = Y) a",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-006",
-    "name": "Material 006",
+    "name": "Material 6",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "2mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -117,159 +162,223 @@
     "images": {
       "label": "catalog/images/material_006_label.jpg",
       "sample": "catalog/images/material_006_sample.jpg"
-    }
+    },
+    "raw_text": "rm | } | \u2018 t ' } a oe . j * r + mena oa . \u2014 RRP ES SS = ae \u2014= CESRESTESLESS as S RP ERERE ET I ST i <n = LEAEVTIT TS | a manne - ~ AAEREEVET PLT ae neste aie \u2014 ~ \u2014\u2014 SASCCEAE PRBS F i amgrenonnn creat owe - \u2014 a - pons \u2014\u2014 NP - \u2014- ~ See ee eel a d, \u2014\u2014 vt \u2014\u2014\u2014 en He \u2014 - ad a a = \u2014 \u2014\u2014_\u2014_\u2014 ou r aatied oxmese on neuen gn nom ans : Nisa = nee oer = ~ \u2014_ ROOF SPC FLOORING. (8+2mm IXPE) 3OMIL 10MM 100% WATERP 9\u201dX60\u201dX10mm 22.53sqftibox WEARLAYER DESCRIPTION SIZE r",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-007",
-    "name": "Material 007",
+    "name": "Material 7",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_007_label.jpg",
       "sample": "catalog/images/material_007_sample.jpg"
-    }
+    },
+    "raw_text": "qPSZ91S QP SZ Oll ON S8PPlN IV (3dx[6uipnjouj)wiwoy, WIWg WIWG/\"0/[1WU0E WWOLX,,09X..6 cV [UOIJONPUOD puNOS sUIOGJIy :uUOI}ONPUOD puNoOs joOeEduy| :POpI9eN UOIEWI|DOY ON :SJ9A97] UOIE]]e}SU] \u2018SSOUYIIU] [EJOL 7SSOUYIIY] 9109 -10AC7] JEOAA \u2018SUOISUDWIG YURI, 1OJOD",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-008",
-    "name": "Material 008",
+    "name": "Material 8",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_008_label.jpg",
       "sample": "catalog/images/material_008_sample.jpg"
-    }
+    },
+    "raw_text": "en a i \\ | \\ rv pearl ry. \u201c(axl Loe wz+g) \u2018ONIMOO1d DdS JOONdALVM %001 WINOL :NOLLdINOSaG = 7IWoe :USAVT VAM xoqnbses'zz WWOLX..09X..6 :azIS ene",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-009",
-    "name": "Material 009",
+    "name": "Material 9",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "10mm",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_009_label.jpg",
       "sample": "catalog/images/material_009_sample.jpg"
-    }
+    },
+    "raw_text": "iu Qo. xs & E N ee sod 6 & mw '@) \u00a9 scl Li. \u00a9 a @ Lit. @) Se) aa =o S oa = ae | = = = = 8\u201dX60\u201d\"X10mm 22.53sqftibox WEARLAYER DESCRIPTION SIZE",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-010",
-    "name": "Material 010",
+    "name": "Material 10",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_010_label.jpg",
       "sample": "catalog/images/material_010_sample.jpg"
-    }
+    },
+    "raw_text": "a a oe | aa Bd Py cemeitdae i ee ee Stee Oe See eT ae a use | a Be ek a SSS SSS (3dXI WWZ+8) \u201cONINOO14 dS AJOONdYALVM %001 WIND! :\u2018NOLLdINOSaa : TWAOE (YSAVIYEVAM xXoarbs\u00a2es'zz WWOLX..09X..6 *AZIS OV",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-011",
-    "name": "Material 011",
+    "name": "Material 11",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_011_label.jpg",
       "sample": "catalog/images/material_011_sample.jpg"
-    }
+    },
+    "raw_text": "fi a ONES z paceman, Plank Thickness Packing ee e-5 SS = : e. = om \u2014 \u2014\u2014 6336 = = Bu Oo & N a | i) 7 O oa 1S] Plank Length SKU Number Plank Width int tg tts ORLA LOLA ATOR rE Scipemieertainesae anette ie Sct vera co sera ae i arth RON IIA TENE I: (bain RRS cence Tae NN nena OO al pra SANSA sporenneenic Sai eo Nh AEE NOEEL ee sihtaaporpeamnsoserecnesssipiipersssopsspseiie yactasinitiacsaiie tie Sat pate A camaigentir 4 wre : 5 SSA \u2014 ee",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-012",
-    "name": "Material 012",
+    "name": "Material 12",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_012_label.jpg",
       "sample": "catalog/images/material_012_sample.jpg"
-    }
+    },
+    "raw_text": "we\u201d oa ae NI, ey. paces haar: ee \u00e9: ~ not f DESCRII",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-013",
-    "name": "Material 013",
+    "name": "Material 13",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_013_label.jpg",
       "sample": "catalog/images/material_013_sample.jpg"
-    }
+    },
+    "raw_text": "xog/ybs Z1'77 \u2018Huryoed wwg :sseuydI4y) YUCld ,vZ'09 :4yHue7 4uUeld 190'6 \u2018UIPIM AUeld EOLAM 42qQWINN NYS $9110S Huli0o|4 OdS Fa SS Fy [| fe ME Tn cL CE Diy & he, fit I = a a 1 TTaL aa SP r\u2014\u2014rr 0S",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-014",
-    "name": "Material 014",
+    "name": "Material 14",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -277,176 +386,248 @@
     "images": {
       "label": "catalog/images/material_014_label.jpg",
       "sample": "catalog/images/material_014_sample.jpg"
-    }
+    },
+    "raw_text": "Series : WY801 9.06\u201d 60.24\" ing SKU Number Plank Width Mm SPC Floor Plank Length RPROOF SPC FLOORING ATE 7 | W 22.72 sqft/box Packing \u2014 _ a ee ann eS a Sage Tp pr a Sern Paap ie meee i ea a = serene Bs eee \u201c cee cated = paar ala ee oe en een : ae \u2014\u2014\u2014\u2014\u2014 \u2014 Se ne enamine = ae * i a mer ta cal em sateen eS ee e - apsbirnsnSSS 3 nena : \u2014 = ~ ee ro eS nee om annem \u2014 meena",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-015",
-    "name": "Material 015",
+    "name": "Material 15",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_015_label.jpg",
       "sample": "catalog/images/material_015_sample.jpg"
-    }
+    },
+    "raw_text": "4 i \u2018 \u2019 , ; ; 7 i i | t : : ' j '; xogsybs Z71'7Z :Bupjoeg 7 | / Wlg :SSEUyOIYL YULId 1) uh@'09 :yBue7 yueIg +290\u00b06 \u201cUIPIM yueIq aati neem os r ; i a . 4 i | ; i i 5 s xe t 1 3 \u2018 \u2018 a bi; \u2018 ) Ge 4 \u2018 u \u2018",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-016",
-    "name": "Material 016",
+    "name": "Material 16",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_016_label.jpg",
       "sample": "catalog/images/material_016_sample.jpg"
-    }
+    },
+    "raw_text": "Manistee rarer ine te ese rt Bee So ee ~\u2014 ATEN rapt MU ree ete SS - aaa aoe | Sea ee",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-017",
-    "name": "Material 017",
+    "name": "Material 17",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_017_label.jpg",
       "sample": "catalog/images/material_017_sample.jpg"
-    }
+    },
+    "raw_text": "e \u00e9s = \u2014 ~ NaS T I SANE 2 Sa SS Ce ee ee \u2014\u2014 2 xoq/usbs CL'\u00b07Z :Buryoeg wig :ssauyoiy 1 yuelg u2'09 :yx6u97 yuelg 1906 \u201cUAPIM uel a \u201c \u2014 90LAM \u2018sequiny ns ue pai | ; ae =) Wy | Slag Bulsoo}4 %dS 2 Ct: INTHOOTA DdS AOOUANALVM, .",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-018",
-    "name": "Material 018",
+    "name": "Material 18",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_018_label.jpg",
       "sample": "catalog/images/material_018_sample.jpg"
-    }
+    },
+    "raw_text": "Ox. ~ looring Ser 60.24\" \u20188mm ckin 22.72 sqft/b PCF a | SS os oS ene Y S \u00a3 & <= -\u00bb cc \u00a2 =. 8 a S P nea 8 \u00abaf at PC FLOORING i en ~~, WATERPROOF 5",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-019",
-    "name": "Material 019",
+    "name": "Material 19",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_019_label.jpg",
       "sample": "catalog/images/material_019_sample.jpg"
-    }
+    },
+    "raw_text": "8MM*9\u201d\"*60\u201dPLANK 22.72sqft/box ff o. 2s 5 \u00a3 Lt 9] Ee + ats se o) z es fe) ie) \u201caf iL oO a. 77) LL (eo) fe) a Qo. \u00a9 i < = So oO bh el = = oO Ww VW S is i& ig : UES [] WEAR LAYER: DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-020",
-    "name": "Material 020",
+    "name": "Material 20",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_020_label.jpg",
       "sample": "catalog/images/material_020_sample.jpg"
-    }
+    },
+    "raw_text": "nM aca pee elie 2 fl ye RO As x Se a ce ewe Scr Pitan a eaaemonn te gs oS Series 06\u201d k Thickness: 8mm 22.72 saft/box . * Plank Length: Pla 2 3 he \u00a9 5 nS n _ Packing",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-021",
-    "name": "Material 021",
+    "name": "Material 21",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "9mm",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_021_label.jpg",
       "sample": "catalog/images/material_021_sample.jpg"
-    }
+    },
+    "raw_text": "ring x QPC Floo Plank Width 9.06\" 60.24\" Plank Length * * Plank Thickness: 9mm 22 = - - king \u00a5 Pac ine em ry elt ce \u201ctm onal ye ee \u2014 we Pee Tam GD. cwcetiia ng 1 tr . qe ge cg ae Wd X \u201c ne die 0",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-022",
-    "name": "Material 022",
+    "name": "Material 22",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_022_label.jpg",
       "sample": "catalog/images/material_022_sample.jpg"
-    }
+    },
+    "raw_text": "9.06\" Plank Width Ickness: Imm < bo x = AS QO. Packing: 22.72 Sqft/box . A hae nag PEN, + aches ag rae eee se SoS cee te oat : pane EEA DORAL. QB ee a : ee SE NN pe SARE cate NRT te ee ane SS \u201c0 nel agate iy aie ee ae PEARS : S",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-023",
-    "name": "Material 023",
+    "name": "Material 23",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
       "wear_layer": "20 mil",
@@ -457,296 +638,416 @@
     "images": {
       "label": "catalog/images/material_023_label.jpg",
       "sample": "catalog/images/material_023_sample.jpg"
-    }
+    },
+    "raw_text": "* \u2018 tl 8MM*9\"*60\u201dPLANK 22.7 2sqft/box Z20MIL are ~O PACKING: WEAR LAYER: WATERPROOF SPC FLOORING. (6.5+1.5mm IXPE) DESCRIPTION:8MM 100% So",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-024",
-    "name": "Material 024",
+    "name": "Material 24",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_024_label.jpg",
       "sample": "catalog/images/material_024_sample.jpg"
-    }
+    },
+    "raw_text": "OR a = aae (AdXI WtUS\"}+S6\u00b09) \u2018\u201cNINOOT4 Dds JOONdHALYM TIWOZ xoq/ubsz/ \"zz MNV1d..09\u00ab..6.INING COLAM 00+ WINS-NOILLdIyoDSaa -ASAV1 YVAM \u2018OINIMOVd -AZIS : JOOS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-025",
-    "name": "Material 025",
+    "name": "Material 25",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_025_label.jpg",
       "sample": "catalog/images/material_025_sample.jpg"
-    }
+    },
+    "raw_text": "i\u00a2 ; if ag | , si . ; f pier j } j i ; 4 int Pe Tg ars : if { ' { * : : Sig | if Hl j bith} } f ' tid : } i } | By f pal } j \u2018 ; ; UB . } ! ; ; 4 a , j : i \u2018 ; { a0 ij \u2018 | : j j i i i) fed fd { I { 1% f ; na | PS j i ; | ; f Hy f ian j if i / ( fa Ry Y : . j phe yy | j i FLT ABA) ' $ 7 j | 1 { 5 t i j j 4 } } { } j cb ' ; ; } i f | fi eit hie tae a i; { ; si) ' j pdt) ea i ' i ; i 5 j : / } 4 p f } \u00a5 i ti ? i i ; f / fy | ; i af i ij i i } aii ) 1] : \u2018 \" i ; ; x f i : |] j { } { : . } : fi et f . 4 f k aif iat j ! I : FY i j : j i i} Panis i i ! : ; t 4} I : # i \u00a5 gieh id PRS rg ' { SPR GH a | DOF & F a Ssey Peasy Opry ag ars JOOUd? ONINOO 14 OdS 1dX] WiwG'L+s\u20189",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-026",
-    "name": "Material 026",
+    "name": "Material 26",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_026_label.jpg",
       "sample": "catalog/images/material_026_sample.jpg"
-    }
+    },
+    "raw_text": "PRISHuy roparyog al I \\SdX1 WWg\"}+\u00a26\u00b09) \"ONINOOT4 IdS JOONdHALYM 001 WIN8-NOILdINoSaa ~r220 WNOZ = \u2018MSAVT Va xoq/ybseg'zz \u2018ONIMOVd PUghs vL8D : JOJOD ONINOO14 TANIA DdS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-027",
-    "name": "Material 027",
+    "name": "Material 27",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_027_label.jpg",
       "sample": "catalog/images/material_027_sample.jpg"
-    }
+    },
+    "raw_text": "08 & 7 ae JdXi Wig\u2019) +S\u00b09) \u201cONINOO Td DdS AOONdYALYM 001 WINS: NOLLdINOSa' TINO? \u2018ads i \\/ xoq/YOsEg ZZ ONIM ANV1d..09+6xANING IZIS ZL89 10jOD",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-028",
-    "name": "Material 028",
+    "name": "Material 28",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_028_label.jpg",
       "sample": "catalog/images/material_028_sample.jpg"
-    }
+    },
+    "raw_text": "sae tat ates e aD een at cere mee me SRN RREORRLLANN Op Santa eee eee ee semen is 8 Wm seca tn ene anne ( WDOBa 7 Bae SRasHuy PPIsHuy HEY em, S39 NZ dX! WWs\"}+S\u00b09) \u201cONINOOT4 Dds JOONdYALYM 001 WINS:NOLLdINDS3qd TNOZ xoq/ybseg zz MNV1d..09.62NWS SL89D -GSAVT YVSM -OINIMOVd -4AZIS > JOJOD i, A Ids",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-029",
-    "name": "Material 029",
+    "name": "Material 29",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_029_label.jpg",
       "sample": "catalog/images/material_029_sample.jpg"
-    }
+    },
+    "raw_text": "\\Sd XI WIS\"L+S\u00b09) \u201cONINOOT4 DdS JOONdYALYM 001 WINS:NOLLdINDSaa0 oni, WAO = \u2018YSAVTYVSM ete oe\" *e, om grt, xoq/ybs\u00a2eg'zz \u2018ONIMOVd so0r | Ae 9 oe MANV1d..09%.6xAING -4ZIS LL8D : JOJO INIYOO14 TANIA OdS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-030",
-    "name": "Material 030",
+    "name": "Material 30",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_030_label.jpg",
       "sample": "catalog/images/material_030_sample.jpg"
-    }
+    },
+    "raw_text": "| Mw 08a 2 sae -Y5AAV1 YVAM -INIMOVd EVR Ee onesniy PrIspuy *HeKeToms S89NF ey BUMMER \u00ab\u00a9 (34XI WUIG\"L+5\u00b09) \u201cQNIUOOTS DdS JOONGNALYM \"001 WINS:NOLLdIyDSaa \\ aaa : IWO? vor \\ wi a. ste, xO seg\u2019 bah | Ban 3100s GBOSEO \"CT CU Ga ee 6L89 -AZIS > JOJO",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-031",
-    "name": "Material 031",
+    "name": "Material 31",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "wear_layer": "22 mil",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_031_label.jpg",
       "sample": "catalog/images/material_031_sample.jpg"
-    }
+    },
+    "raw_text": "ss mo dag deg il Pape ne ere ag Sept OG at gems teats ae en re loom ae f He ae wa St Pe? ay mata pn at 22MIL Lu 0. 2s E E 19 1 re 2 O ze ac fo) O awed LL. O o. 6p) Eu fo) fe) ag al or Ee < = S \u00a9 2 = = 12.2) 1500x232x8mm 18.73sqft/box WEAR LAYER DESCRIPTION SIZE",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-032",
-    "name": "Material 032",
+    "name": "Material 32",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "wear_layer": "22 mil",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_032_label.jpg",
       "sample": "catalog/images/material_032_sample.jpg"
-    }
+    },
+    "raw_text": "ng iailenmmnnnepereee ab VP naiialeietleiiaaitetcatont 22MIL fm) OW Pas E E \u20189 \"5 wD ves O) < Oo O fe) col LL O Ou op) LL O O ie al or Ee <x = \u00a9 S ss = \u00a9 1500x232x8mm 18.73sqft/box WEARLAYER Te ARN tpl op sapeenpendipaneiemiaiemneane. = aioe SIZE DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-033",
-    "name": "Material 033",
+    "name": "Material 33",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_033_label.jpg",
       "sample": "catalog/images/material_033_sample.jpg"
-    }
+    },
+    "raw_text": "ence: pam paren naan aes eens: ~e eeu eee. ara my Sterne meee recta eas ee eee, Pers es eee i I | i / ; i \u00a2 BR) : i Rive ; ; ; Pin fig : ate i 3 ay ag Ee | { Bit } : | j i Bie} f) 4 tei j \u2018 ; } j j ; j | | ; ; BuQPs NS Lan N TINZZN3AVT YVAM xoqAjbsez-9) YVSA 0 WLUSXZEZXOOS L -4ZIS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-034",
-    "name": "Material 034",
+    "name": "Material 34",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_034_label.jpg",
       "sample": "catalog/images/material_034_sample.jpg"
-    }
+    },
+    "raw_text": "\u2018iim Pe mestiney (dX! WWS\"L+S\u00b09) \u201cQNINOOT JdS JOOUdYALWM %O0L WN8:NOILdINOS3qG ame ae me TWZ%?:YSAV1 VAM xoq/ybsez\"9) Jooy> eS =e WWUBXZESXOOGL :3ZIS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-035",
-    "name": "Material 035",
+    "name": "Material 35",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_035_label.jpg",
       "sample": "catalog/images/material_035_sample.jpg"
-    }
+    },
+    "raw_text": "eNNespuy 8 pPIsHuy (Sd XI WWS\"}+S\"9) \u201cONINOOTd IdS AJOONdHALYM %O00L WINS:NOLLdINDS3qd _ WNO? = -Y3SAVT VSM xoq/ybseg zz \u201cONIMOVd NV 1d..09%.u6x NIN \u2018-3ZIS 7 9L89 : JOJOD",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-036",
-    "name": "Material 036",
+    "name": "Material 36",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_036_label.jpg",
       "sample": "catalog/images/material_036_sample.jpg"
-    }
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-037",
-    "name": "Material 037",
+    "name": "Material 37",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_037_label.jpg",
       "sample": "catalog/images/material_037_sample.jpg"
-    }
+    },
+    "raw_text": "(alleen =< igepremaremten DOR es FF ae onesnuy prisnuy HMeNedoms S89NA (3dXI WWg\"}+6\u00b09) \u201cONINOO 1d DdS JOONdHALYM 4001 WINS-NOILdIYDS3d WWOZ =\u2018YSAVTYVSM xoq/ybs\u00a2eg ZZ -ONIMOVd YANV1d..09%.6xINNS a 741 LL89 _ + sojog ONINOO 14 TANIA DdS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-038",
-    "name": "Material 038",
+    "name": "Material 38",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
       "wear_layer": "20 mil",
@@ -757,38 +1058,54 @@
     "images": {
       "label": "catalog/images/material_038_label.jpg",
       "sample": "catalog/images/material_038_sample.jpg"
-    }
+    },
+    "raw_text": "a Spe a O = a 8MM*9\"*60\u201dPLANK 22.63sqft/box 20MIL EN685 FireBehavior Antiskid Antistatic 8MM 100\u00b0, WATERPROOF SPC FLOORING. (6.5+1.5mm IXPE) SPC VINYL FLOO WEAR LAYER PACKING DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-039",
-    "name": "Material 039",
+    "name": "Material 39",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_039_label.jpg",
       "sample": "catalog/images/material_039_sample.jpg"
-    }
+    },
+    "raw_text": "(3dX1 WUIG\"L+S\u00b09) \"ONINOO Td OdS JOONdHALYM | Sa OT fw ES OVsHuy pyspuy MeWsHem, S89 NA 001 WIN8-NOILdI\u00a5DS3aa WOZ = \u00a7=\u2018MYSAVT VSM xoq/ybseg\u00b0zz [INIMOVd YNV1d..09%.6x NING \u20183ZIS OL8D - JOJOD seomses eer 25) sete, 3100S : JOO}} D + *resas\u00ae bas Sits ONINOO14 TANIA Dd",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-040",
-    "name": "Material 040",
+    "name": "Material 40",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
       "core": "SPC Core",
       "waterproof": true,
@@ -797,38 +1114,54 @@
     "images": {
       "label": "catalog/images/material_040_label.jpg",
       "sample": "catalog/images/material_040_sample.jpg"
-    }
+    },
+    "raw_text": "230%1530x6.5mm SIZE 20MIL 6.5MM 100% WATER PROOF SPC FLOORING (5.0+1.5 IXPI 22.73sqft/box WEAR LAYER DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-041",
-    "name": "Material 041",
+    "name": "Material 41",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_041_label.jpg",
       "sample": "catalog/images/material_041_sample.jpg"
-    }
+    },
+    "raw_text": "dX! S1+0\u00b0S) SNNINOO1S OdS JOONd YSLVM %OOL WWS'9 -(NOILdINDSAG MWOZ? :YAAVT YVAM XOG/YbsEes\u2018z7z WWUG'9xOEGLxOETZ : AZIS Seovues (EOD TOS, \u2018ae oma atta, * \u2019 31ODS JOO} Ss9D i ? ib He Ged VT | J } | j iT \\\\ \\\\ \\ wat =",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-042",
-    "name": "Material 042",
+    "name": "Material 42",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
       "core": "SPC Core",
       "waterproof": true,
@@ -837,218 +1170,306 @@
     "images": {
       "label": "catalog/images/material_042_label.jpg",
       "sample": "catalog/images/material_042_sample.jpg"
-    }
+    },
+    "raw_text": "SIZE 230x1530x6.5mmM 20MIL 6.5MM 100% WATER PROOF SPC FLOORING (5.0+1.5 \\XPE e e or Lu > < a a < Lu S x O O ~ i. Ly Y) ~) I N N Z O k O a O Y) Lu al",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-043",
-    "name": "Material 043",
+    "name": "Material 43",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_043_label.jpg",
       "sample": "catalog/images/material_043_sample.jpg"
-    }
+    },
+    "raw_text": "we avd 00+ | 9 9 (U) 4 a @ O seal wer sa apeedae ak oe\u00bb at VY) LL O O ow yet age Hiny SW of Ae se Lu & \u201cties oe e a = MD) ee Ke O Ge i m a uN N N LJ YN A \u2014 =",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-044",
-    "name": "Material 044",
+    "name": "Material 44",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_044_label.jpg",
       "sample": "catalog/images/material_044_sample.jpg"
-    }
+    },
+    "raw_text": "XI S'1L+0\u00b0S) SDNINOO14 OdS AOOUd YSALVM %OOL WWS'9 :NOILdINOSIAG SmAUeS JEGOID SIS aioe MWO? :YAAVI UVAM XOG/YbSEL\u20187Z WILWUG\"9xOEGLxOEZ : AZIS 1 POW RHR rene",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-045",
-    "name": "Material 045",
+    "name": "Material 45",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "6.5mm",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_045_label.jpg",
       "sample": "catalog/images/material_045_sample.jpg"
-    }
+    },
+    "raw_text": "230x1530x6.5mm 22.73sqft/box WEAR LAYER DESCRIPTION e e SIZE = > O N rt x< : Ww) 4 of 2 O z ag g : O | Jf O al Y) Oo. O OF OW ag Lu = < = Ss O Oo = = ut) Ne)",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-046",
-    "name": "Material 046",
+    "name": "Material 46",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_046_label.jpg",
       "sample": "catalog/images/material_046_sample.jpg"
-    }
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-047",
-    "name": "Material 047",
+    "name": "Material 47",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_047_label.jpg",
       "sample": "catalog/images/material_047_sample.jpg"
-    }
+    },
+    "raw_text": "Pe renietannaee 3 >) @) is el xopAeyam OTT hee opersnuy PP \u2018ONINOO 14d OdS JOONdMALYM 90001 WINS:NOLLdIdOS3G (4d XI WtUg\"}+S\u00b09) SB2y0s9s 1\u20acqO1D SIS J MIND assies, xoq/ybsZ 2\u00b027 \u00e9 JOO}} YNV1d.09%.6xNING eC SOLAM TUSAVTYVaM -ONMOVd \u2018AZIS JIO\\OX)",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-048",
-    "name": "Material 048",
+    "name": "Material 48",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_048_label.jpg",
       "sample": "catalog/images/material_048_sample.jpg"
-    }
+    },
+    "raw_text": "OR & = 1 @ (WG t4+P) \u201cONINOO 14 DdS JOONdHSALYM \u00b0: 001 WINS S:NOILdI4OS3aG TAZ) -YSAVT VSM XxOq/WOS/L'O0S *-ONIMOVd YNV1d.09s.6xNING'S *4ZIS LOOAH -10/09",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-049",
-    "name": "Material 049",
+    "name": "Material 49",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_049_label.jpg",
       "sample": "catalog/images/material_049_sample.jpg"
-    }
+    },
+    "raw_text": "ay RIsHuy = prsHmy rorAeyog eI S89 NF (4dXI Wg\", 4+\u00a2g\u00b09) \u2018ONINOO14 Dds AOONdHALVM \u201cOOL WINS:NOLLdIyoSsaq somone gy NAO? \u2018SAV YVAM ag ondiiwa> xOq/ybsz7,- ~ 31056 GOST) \u00b07Z ONMOVd JOO} ANV1d..09+..6xNINQ AS ZOLAM - dOjOD Preis",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-050",
-    "name": "Material 050",
+    "name": "Material 50",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "1.5mm",
       "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_050_label.jpg",
       "sample": "catalog/images/material_050_sample.jpg"
-    }
+    },
+    "raw_text": ". (5+1.5MM) Y8005 6.5MM\"9.13\"*59.1\u201d\"PLANK 20MIL e COLOR WEAR LAYER \u00a9 = OS S| iL O a Sp) Le O O ao fat. to fF: < = oN 2 S ro = ra Oo . . o SIZE 22.48saft/box DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-051",
-    "name": "Material 051",
+    "name": "Material 51",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_051_label.jpg",
       "sample": "catalog/images/material_051_sample.jpg"
-    }
+    },
+    "raw_text": "Uniclic Glueless Locking Technology flo SCO QT services zB E i i",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-052",
-    "name": "Material 052",
+    "name": "Material 52",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_052_label.jpg",
       "sample": "catalog/images/material_052_sample.jpg"
-    }
+    },
+    "raw_text": "4 Fa Fihi NAF niet | , 4 a i | i | : } 1] | | : 1) / WE \u2019 bit | hvu VWs} ' \\ | i} 1 eA } it | i i fi | . | | 1} ait HT) | i | i i} | | Nias ae Re Hol OO a eh | Wei | | \\| | } il | \\) ii i 1 fares Ti ooud 4 USL %OOL WWS'9 :-NO (4dXI S'1+0'S) ONINOO 14 OdS 4 sBHAIBS [EOI SIS; ag olduNa> ontne Pos fe; FQJO2s ,JOOKf GS9D ialdOsad FJIWOZ YSAV1 UVAM xoq/WOSEL TT UUIWUG'9xOEGLXOET : AZIS",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-053",
-    "name": "Material 053",
+    "name": "Material 53",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
       "core": "SPC Core",
       "waterproof": true,
@@ -1057,39 +1478,55 @@
     "images": {
       "label": "catalog/images/material_053_label.jpg",
       "sample": "catalog/images/material_053_sample.jpg"
-    }
+    },
+    "raw_text": "4 E 0 + 2 WATERPROOF SPC FLOORING. Antiskid Antistatic EN 685 Fire Behavior SIZE: 6.5MM*9.13\u00b0*59.1\u201dPLANK PACKING: 22.48saft/box WEAR LAYER: 20MIL DESCRIPTION:6.5MM 100",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-054",
-    "name": "Material 054",
+    "name": "Material 54",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_054_label.jpg",
       "sample": "catalog/images/material_054_sample.jpg"
-    }
+    },
+    "raw_text": "Uniclic Glueless | Locking Technology | ( 100% Virgin PVC 9 2 a 7 2 \u00a9 = CERTIEVED By BSCS Global Services SOLOVA",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-055",
-    "name": "Material 055",
+    "name": "Material 55",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "7mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -1097,239 +1534,335 @@
     "images": {
       "label": "catalog/images/material_055_label.jpg",
       "sample": "catalog/images/material_055_sample.jpg"
-    }
+    },
+    "raw_text": "FLOORING GOLDEN EAGLE DMITED RESIDENTIAL WARRANTY E s i = e Ss 5) WATERPROOF SPC FLOORING . (5+2 IXPE) 7MM 100% . . DESCRIPTION ; , } frat \u2018 Pt yy ar hi",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-056",
-    "name": "Material 056",
+    "name": "Material 56",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_056_label.jpg",
       "sample": "catalog/images/material_056_sample.jpg"
-    }
+    },
+    "raw_text": "Ty 100% waterpfoof a a |",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-057",
-    "name": "Material 057",
+    "name": "Material 57",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_057_label.jpg",
       "sample": "catalog/images/material_057_sample.jpg"
-    }
+    },
+    "raw_text": "eo opeispuy Pppispuy 7Meued ont (3dXI Wilug\"}+6\u00b09) \"ONINOO1d OdS JOONdHSALVM 00) WINS:NOILdIHOSaG oe, TMWOZ? -dSAVI YVSaM \u2018 xoq/ybs\u00a2eg' zz -\u201cONIMOVd ANV1d.09%.6.ININS -AZIS 9189 > LOJOD ONIYOOT4 TANIA Dd",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-058",
-    "name": "Material 058",
+    "name": "Material 58",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
-      "installation": "Click-Lock"
+      "installation": "Glue Down"
     },
     "images": {
       "label": "catalog/images/material_058_label.jpg",
       "sample": "catalog/images/material_058_sample.jpg"
-    }
+    },
+    "raw_text": "UNICLIC | edly Uniclic Glueless ocking Technology an 2} 100% Virgin PVC 100% S e 2 \u00a9 ES",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-059",
-    "name": "Material 059",
+    "name": "Material 59",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_059_label.jpg",
       "sample": "catalog/images/material_059_sample.jpg"
-    }
+    },
+    "raw_text": "F es } \\ t \u2018 Be 4 \\ 1 | aut 14 bani * : 14 3 1 DEF S&S PF & & OpesHuy Pasyuy orMAeyoqeomy S89 NF (WILUS\"L +S) \u201cONINOO 14 DdS AOONdYALYM \u201c\u201c00L WINS 9:\u2018NOLLdINOS3G WZ ?HAAVT EVAN xoqMosey'te :ONIMOVd \u00a9 NV Id. l 6S..\u20ac1'6.WNS'9 =4ZIS f008A -10]09 sar | ONINOOT TANIA Dds",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-060",
-    "name": "Material 060",
+    "name": "Material 60",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_060_label.jpg",
       "sample": "catalog/images/material_060_sample.jpg"
-    }
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-061",
-    "name": "Material 061",
+    "name": "Material 61",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_061_label.jpg",
       "sample": "catalog/images/material_061_sample.jpg"
-    }
+    },
+    "raw_text": "_ xogjubsep Ze DNIMD Ve \u201cINOz. \u201cMAAVT UWS INV Ida 6x6. CWS 2315 ai Re LOOBA\\ :10105",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-062",
-    "name": "Material 062",
+    "name": "Material 62",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_062_label.jpg",
       "sample": "catalog/images/material_062_sample.jpg"
-    }
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-063",
-    "name": "Material 063",
+    "name": "Material 63",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_063_label.jpg",
       "sample": "catalog/images/material_063_sample.jpg"
-    }
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-064",
-    "name": "Material 064",
+    "name": "Material 64",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "6.5mm",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_064_label.jpg",
       "sample": "catalog/images/material_064_sample.jpg"
-    }
+    },
+    "raw_text": "9.05\u201d $ = x ca = oO 60.23\u201d . \u00b0 Plank Length 6.5mm. . \u00bb Plank Thickness IXPE padding . .",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-065",
-    "name": "Material 065",
+    "name": "Material 65",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_065_label.jpg",
       "sample": "catalog/images/material_065_sample.jpg"
-    }
+    },
+    "raw_text": "IOF & onershey. PPISH z0yAeyag erty S89 NA (WIWS\"L+S) \u201cONINOO14 9dS JOONdHALYM 001 WINS'9:NOlidiNoSsaa eit WWO? -YSAVI HVS ate, xog/ubser: \u2018 Paioos. vibe og CC ie & hs \u201ci JOO}} ANW1diub 6Sx\u20acb 6.INWS'9 -AZIS ie ZOO8A :10}05 ONIYOOT4 TANIA Das 4, i",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-066",
-    "name": "Material 066",
+    "name": "Material 66",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_066_label.jpg",
       "sample": "catalog/images/material_066_sample.jpg"
-    }
+    },
+    "raw_text": "SIZE: 6.5MM*9.13\"*59.4 \"PLANK PACKING: 22.48sqft/box OBST vce: WEAR LAYER: 20MIL E = i - w oO Z ao {e) oO a z oO o. w os ie) fe) ja o m~ i <x = DESCRIPTION:6.5MM 100 Antiskid Antistatic EN685 Fire Behavior",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-067",
-    "name": "Material 067",
+    "name": "Material 67",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "65mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -1337,18 +1870,26 @@
     "images": {
       "label": "catalog/images/material_067_label.jpg",
       "sample": "catalog/images/material_067_sample.jpg"
-    }
+    },
+    "raw_text": "S > \u00a2 \u00a2 floor score ribte, & 2 & = E S \u2014_~ Lu yO e \u2014 + \u00a9 Ke) ed O z \u2018ali Deere ee 2OMIL ee ad eee eee oe 6805 6 es Gee eeeee ery sre ve ee oe ee Sasa e ed eeare ene ee ayeveeeeree aeeaeesee\u00ae en\u00a5ee . aA Seve ee ee eeees eae>\u2019* \u201ceee heehee ee ee ee*** epee P a eeyssees see eee eeneee aasaeeesee\u00ae WEAR LAYER 65MM 100% WATER PROOF SPC FLOORI Saeseyeeses* eae a Lae 230x1530x6.5mm 22.73saft/box DESCRIPTION SIZE",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-068",
-    "name": "Material 068",
+    "name": "Material 68",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
       "core": "SPC Core",
       "waterproof": true,
@@ -1357,139 +1898,195 @@
     "images": {
       "label": "catalog/images/material_068_label.jpg",
       "sample": "catalog/images/material_068_sample.jpg"
-    }
+    },
+    "raw_text": "230x1530x6.5mMM SIZE 20MIL WATER PROOF SPC FLOORING (5.0+1.5 IXPE) R 22.73sqft/box WEAR LAYE 6.5MM 100% DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-069",
-    "name": "Material 069",
+    "name": "Material 69",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "wear_layer": "22 mil",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_069_label.jpg",
       "sample": "catalog/images/material_069_sample.jpg"
-    }
+    },
+    "raw_text": "ORS RESIDENTIAL = | =A | 3 | hr siover \u20ach: 6) AEs: 8mm Xury viny 22 mil ear layer Package:5 Pcs",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-070",
-    "name": "Material 070",
+    "name": "Material 70",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_070_label.jpg",
       "sample": "catalog/images/material_070_sample.jpg"
-    }
+    },
+    "raw_text": "\u201c ins 0 ~ ae ae \u2014 OO w& ONeIsHUY PHIsyuy orAeyeq ery S99 NF (Jd XI WWG\"}+5\u00b09) \u201cONINOO 14 DdS AOONdHALYM \u201cO01 WINS: NOILdi4oSsaad we Seca Woz = =\u201cMsaAvT VAN nn XogAbszs-zz \u201cONIMOVd YNV1d.09x.6xNW9 zis GOLAM : J0]09",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-071",
-    "name": "Material 071",
+    "name": "Material 71",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_071_label.jpg",
       "sample": "catalog/images/material_071_sample.jpg"
-    }
+    },
+    "raw_text": "\\ q } : . Fs 1 H & \\ i } \u00ab j f if : | ' t : i : } \u2018 | ; - f | j ; Hef : , | | : if : as / i : F] : : + ; ' 4 ik ; \u2018 } - \u00e9 | j : } ; $ \u2018fe tadXl WWG\"L+S\u00b09) \u201cONINGO14 dS JSOOUdYALVM 7001 WW8:NOILdIdOSaa A \u00a9 sromses nero 25) } - ees, : te ee + . \u201ctags WAZZ-MSAVI VAM xogj~ibsey'9, WWUXZEZXOOS| -AZIS en ees 2 se enlist",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-072",
-    "name": "Material 072",
+    "name": "Material 72",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "",
       "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_072_label.jpg",
       "sample": "catalog/images/material_072_sample.jpg"
-    }
+    },
+    "raw_text": "nn soememncciamnieeiene a ae . See ee eet een Tire. aT Neel SE eee. caramel tene cm ~ na ~ Benen wns Sis ~ \u201c sere ~~, \u201c G eS meeaaliinete anes Se Sa ~\u2014 tee i 2 = Nena dea. amend 2 ee eens Antiskid Antistatic uM e 5 \u2014 3S at 5 Pe EN 685 22.48sqft/box EAR LAYER: 20MIL y= E \u201d + rte) o) = & fs) \\e) a ke O ou 122) L fe) \u2018e) jag a a Lu < S \u00b0 \u00b0 = = Te) \u00a9 DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-073",
-    "name": "Material 073",
+    "name": "Material 73",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_073_label.jpg",
       "sample": "catalog/images/material_073_sample.jpg"
-    }
+    },
+    "raw_text": "al ybs Teg :ea1y SOq G:o8eyoeg Tr? FART Iea py Ht 8 \u00a9,90\u00b06 X58 6S:0z15 [AUTA AINXN] wure",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-074",
-    "name": "Material 074",
+    "name": "Material 74",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_074_label.jpg",
       "sample": "catalog/images/material_074_sample.jpg"
-    }
+    },
+    "raw_text": "9\u201dX60\"X6.5mm SIZE 20MIL 22.53sqft/box WEAR LAYER ft) oO. 2s = = rs) \u2014 a. o) = oc fo) fo) wey LL O Oo (dp) LL ) fo) 7 a ar a x = 6.5MM 100 DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-075",
-    "name": "Material 075",
+    "name": "Material 75",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "7mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -1497,19 +2094,27 @@
     "images": {
       "label": "catalog/images/material_075_label.jpg",
       "sample": "catalog/images/material_075_sample.jpg"
-    }
+    },
+    "raw_text": "9\"X48\"X7mm (1220x230mm) SIZE 30 YEAR 15 YEAR LIMITED RESIDENTIAL LIGHT COMMERCIAL h WARRANTY WARRANTY 7MM 100% WATERPROOF SPC FLOORING. (5+2 IXPE) Ao fe Li O OW \u2018S) > \u2014_ pa QO \u2014 \u00ae ok QO pee \u201d x fe) OQ = oO w\u201c) oO ies =\u2014 N DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-076",
-    "name": "Material 076",
+    "name": "Material 76",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "7mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -1517,39 +2122,55 @@
     "images": {
       "label": "catalog/images/material_076_label.jpg",
       "sample": "catalog/images/material_076_sample.jpg"
-    }
+    },
+    "raw_text": "(Bt d LOORING 7MM 100% WATERPROOF SPC F 4 stalation Cliek-Lock i Ant-Scaid a x > po E a= Te S = je) CO 21.13sqft/box. Supper Duty QPC Finish SIZE: 9\"X48\"X7mm (1220x230mm) DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-077",
-    "name": "Material 077",
+    "name": "Material 77",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_077_label.jpg",
       "sample": "catalog/images/material_077_sample.jpg"
-    }
+    },
+    "raw_text": "Gluetess Locking Technology \u2014~ 100% ES e 2 o s SCS Gtobat Services Crna wy",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-078",
-    "name": "Material 078",
+    "name": "Material 78",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "1.5mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -1557,19 +2178,27 @@
     "images": {
       "label": "catalog/images/material_078_label.jpg",
       "sample": "catalog/images/material_078_sample.jpg"
-    }
+    },
+    "raw_text": "\u2018prmenstiliiivetci \u2014 wrNremacia. Wii - NY) fo) WATERPROOF SPC FLOORING. (4+1.5mm) Antiskid Antistatic 5.5MM 100 EN 685 Fire Behavior DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-079",
-    "name": "Material 079",
+    "name": "Material 79",
     "collection": "365 Days Collection",
-    "type": "Luxury Vinyl Plank",
+    "type": "SPC Flooring",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
+      "thickness": "7mm",
+      "wear_layer": "",
       "core": "SPC Core",
       "waterproof": true,
       "installation": "Click-Lock"
@@ -1577,126 +2206,2697 @@
     "images": {
       "label": "catalog/images/material_079_label.jpg",
       "sample": "catalog/images/material_079_sample.jpg"
-    }
+    },
+    "raw_text": "rf \"= = on) = \u2014) i) a feo fon a) posse om oe & i Cc) (99) MN x <2 N ex & & nN yas oe) << rep] Lu iN ) << Ly = Lt O (x Se) a eo Q \u2014 @ gor ow as Y) x O fo \u2014 r= Se A o9 ms ca N ee ntec Technology Pate 3 ESCRIPTION:7MM 100% WATERPROOF SPC FLOORING. (5+2 IXPE) | Tr L/S",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-080",
-    "name": "Material 080",
+    "name": "Material 80",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "6mm",
+      "wear_layer": "22 mil",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_080_label.jpg",
       "sample": "catalog/images/material_080_sample.jpg"
-    }
+    },
+    "raw_text": "en ean es WARRANTY . a g E FLOORING. (4 Spee eee ne en pach onaicpamnaeeys 22MIL TERPROOF SP Syren \u2014 WA 6MM 100% jm - fren apts Ss } PONE dy \u2018e iar ee ; 9\u00b0X48\"X6mm 24 02sqft/box WEAR LAYER ee QO. 7 fy",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-081",
-    "name": "Material 081",
+    "name": "Material 81",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_081_label.jpg",
       "sample": "catalog/images/material_081_sample.jpg"
-    }
+    },
+    "raw_text": "preere ay I) \u00a9 & (WIG) +5) \u00b0 rowaeyag eatz S89 Na opNeshnuy PPIsnuy OQNINOO 14 DdS JOONdHSALVM .OOL WINS'9:NOILdI49S3aG WWOZ = YSAV1 YVaM aan xoq/Ubser'ze :ONIMOWd _ ANWIdib 6S b CxWNING GO = AZIS | 9008A -4J0jOD",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-082",
-    "name": "Material 082",
+    "name": "Material 82",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_082_label.jpg",
       "sample": "catalog/images/material_082_sample.jpg"
-    }
+    },
+    "raw_text": "B DO & \"| @\u00ae ONeysnuy pPysnTy 7Meyeqery S89 NA (4dXI WWIG'L+S\u00b09) \u2018\u201cONINOO 14d OdS JOONdHALVM \u201c001 WANS: NOILLdIe crowns name 25 \u201cUWO? \u2018SAV HVS | xoq/ybsz/\" : de a icae G/AYOSCL CS IND \u2018 JOO}} ANV1d..09+.6\u00abININS | COLAM # \\ ray\u2019",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-083",
-    "name": "Material 083",
+    "name": "Material 83",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "7mm",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_083_label.jpg",
       "sample": "catalog/images/material_083_sample.jpg"
-    }
+    },
+    "raw_text": "\u2014_ a ana \u2014\u2014~ Ss & =) N x \u00a9 N N we ~~ GE 002 9\u00b0X48\u2019X7mm SIZE",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-084",
-    "name": "Material 084",
+    "name": "Material 84",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_084_label.jpg",
       "sample": "catalog/images/material_084_sample.jpg"
-    }
+    },
+    "raw_text": "DOF ws FF WS onesnuy prisnuy 7oOMeued ott $39 Na (wiwg\"}+5) \u201cONINOO 1d dS JOONdYALVM 00} WINS 9-NOlL dl ad OSSGa JIWOZ > YaAV1 UVaAA xoqbsgr' zz > ONIMOWe YNWIdiul 6x1 6.NNG'9 *SZise 6008A :40j}O5m",
+    "color_tone": "light",
+    "style_category": "modern"
   },
   {
     "id": "MAT-085",
-    "name": "Material 085",
+    "name": "Material 85",
     "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "description": "Premium flooring material with exceptional durability and style.",
-    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
     "specifications": {
-      "thickness": "8mm",
+      "thickness": "6.5mm",
       "wear_layer": "20 mil",
-      "core": "SPC Core",
+      "core": "",
       "waterproof": true,
       "installation": "Click-Lock"
     },
     "images": {
       "label": "catalog/images/material_085_label.jpg",
       "sample": "catalog/images/material_085_sample.jpg"
-    }
+    },
+    "raw_text": "Antistatic Antiski E & 5 + ww) ) = o fe) e) al LL. O oH \u201dn Li. 9 \u00b0 ~ o or be < F= r 20MIL EN685 Fire Behavior YER =(-| 22 A8saft/box 6.5MM 100\u00b0 Me",
+    "color_tone": "light",
+    "style_category": "modern"
+  },
+  {
+    "id": "MAT-086",
+    "name": "Material 86",
+    "collection": "365 Days Collection",
+    "type": "SPC Flooring",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "6.5mm",
+      "wear_layer": "0 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_086_label.jpg",
+      "sample": "catalog/images/material_086_sample.jpg"
+    },
+    "raw_text": "22. 48sait/box 2Z0MIL . . R 6.5MM 100: 1.5mm 5+ FLOORING SPC \u00a2 WATERPROOF Antistatic Antiskid EN685 Fire Behavior",
+    "color_tone": "light",
+    "style_category": "modern"
+  },
+  {
+    "id": "MAT-087",
+    "name": "Material 87",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_087_label.jpg",
+      "sample": "catalog/images/material_087_sample.jpg"
+    },
+    "raw_text": "\u20ac | = My 5 : w = & ~ \u00ae = =< oS = \u2014 . * 4 ing ank Th addi REI aay ee st GOEL, ah Rae ace eee 2 2 RE elle pages ie * loor < OPC I",
+    "color_tone": "light",
+    "style_category": "modern"
+  },
+  {
+    "id": "MAT-088",
+    "name": "Material 88",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "Rigid Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_088_label.jpg",
+      "sample": "catalog/images/material_088_sample.jpg"
+    },
+    "raw_text": "=< ate aN q Wi | . ey, ad ed we \u2014\u2014 ~ seat re > fi, L 8 100% waterpfoof 1 00% Virgin PVC Uhiclic Glueless Locking Technology ring xury Vinyl Rigid Floo 4 4 Item Code: K5/71~ Sagi 9057\" 60,23\" Plank Thickness IXPE padding Total thickness Plank Width Plank Length Click System 5 Samat UNILIN : Yl ee Pad a = et F * e\u00a5 aa \u2122~* \u00a9 a ; oO . > Q. -= ae c=) ~\u201d > ~ = \u00a9 ~ oO < -",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-089",
+    "name": "Material 89",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_089_label.jpg",
+      "sample": "catalog/images/material_089_sample.jpg"
+    },
+    "raw_text": ". em ewe Query eR eet 4\u201d \u2014\u2014 Levee \u2018ws ss cgansvenoon ounce",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-090",
+    "name": "Material 90",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "4.0mm",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_090_label.jpg",
+      "sample": "catalog/images/material_090_sample.jpg"
+    },
+    "raw_text": "Co a ee ae ae Agee eateeteattwecse oy Ala eaten 100% waterpfoof | K573 . a dth Item Code Plank W - 9.05\u201d 60.23\u201d Plank Thickness: 4.0mm Plank Length 1,5mm xy & ickness x IXPE padd 5.5mm UNILIN t Total th ft per carton \u00ae- te . : 2 9330.3 Click System ae \u2014 ~ =",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-091",
+    "name": "Material 91",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_091_label.jpg",
+      "sample": "catalog/images/material_091_sample.jpg"
+    },
+    "raw_text": "3 >) 6) ws Ds xoTAeYag O11 I S39 Na opneysyuy PPISHUY (wiwig\u2019}+S) \u201cONINOO 1d OdS JOONdHALYM 004 WWS 9-NOILdid9S30 JIWOZ 7 HSAV1 UVSM xoqbser'Z~ \u201cONIMOVd YNV dub 6Sx.\u20ac1'6.WIS'9 :azIs 9006A :40109",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-092",
+    "name": "Material 92",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_092_label.jpg",
+      "sample": "catalog/images/material_092_sample.jpg"
+    },
+    "raw_text": "EN685 Fire Behavior Antiskid Antistatic w U G: cc",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-093",
+    "name": "Material 93",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_093_label.jpg",
+      "sample": "catalog/images/material_093_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-094",
+    "name": "Material 94",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_094_label.jpg",
+      "sample": "catalog/images/material_094_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-095",
+    "name": "Material 95",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_095_label.jpg",
+      "sample": "catalog/images/material_095_sample.jpg"
+    },
+    "raw_text": "S @OCcE Yg 7% 2 be | | :",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-096",
+    "name": "Material 96",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_096_label.jpg",
+      "sample": "catalog/images/material_096_sample.jpg"
+    },
+    "raw_text": "Unictic \u00a2 Locking Technios an S|} 100% Virgin PVC Br $1 y 100% waterpfoof ot a 7 Vf tennen a SS Sahat Servic; SOLOVA \u2018 my Sher acy items: wee os ieee ee a a een, oa \u2014_ ee \u2014 x Bs ~ ie : : <a . Sv gremmmet - 3 ~ a ay a we \u2014 . ee, : es a ~ \u2014\u2014 = \u2014 \u201c= 5 = \u2014\u2014 nae \u2014\u2014 oas nee \u2014 Kae \u2014 =",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-097",
+    "name": "Material 97",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "6.5mm",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_097_label.jpg",
+      "sample": "catalog/images/material_097_sample.jpg"
+    },
+    "raw_text": "6.5mm 8.0mm UNILIN 18.94 sq.ft per carton 1.5mm 60.23\u201d Plank Thickness IXPE padding 9.057 :K868 ing Total thickness Click System Plank Length Pack Item Code Plank Width J , a fe \u2014 eR Ee \u2014 = me as oN \u2014 = \u201c wel Seal = ~ 3 - a =e ener a - A Sates ee ose = = \u00a5 = - ee \u2014 \u2014 - . = rn = = Pes ee ee a AAR. one \u2014\u2014\u2014 _ aa \u2014 . \u201cs ea gr nnn \u2014_ ae og ad eS = -_ - = a =",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-098",
+    "name": "Material 98",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_098_label.jpg",
+      "sample": "catalog/images/material_098_sample.jpg"
+    },
+    "raw_text": "=. ti mptone >, rey ee ~ 28 sew 7c - i>. Pa Fo: mage een ; ois ae - . - a 4 4 \u2018I ne = -_ vm , ommene a eal Ne er \u2014 5 soe Bs ee pee. ae aa S4 \u2014\u2014 7 4 2 aoe eee ner oats ne Pe * ~~ peeeeey ss = a 2. \u2014 ee - \u2014 & (fe rae? \u2014\u2014 * ~ \u00bb GE - \u2014 - \u2014 \u2014\u2014 ~ ww ee Bee. s -~ =",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-099",
+    "name": "Material 99",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_099_label.jpg",
+      "sample": "catalog/images/material_099_sample.jpg"
+    },
+    "raw_text": "~<a Oey ee a ~\u00ab \u2018 mye venous penteb iD a a A se egncneniue shielding : \u201cie ewe \u2014 a _ pad ieilint fe ee sn ee * Cee ere . Dee gS + 3 - - PPwmteediae 4 - - * . re A \" - Veet ney ensapgeen a 4S _ Pee. NA PN, NE re erty, in, NLR NE~e~ ange nmeranimal st gore Wd wateipnbions Sn a > ce ee : = : iid ~ - ; \u2014 ee eae 2 me \u2018 oe \u00a2 \" PILE 0 att ry a np teak See ae 5 one enim: a oe \u2014 \u201c ~~ - i . . * - ed 4 =<. adh 3 Heme: \u2014 rs RNS Ohne : ag ag ee ~ a . - \u2014\u2014\u2014 \u2014 ee ee ae (At, reeds \u201c yrs ~ _ \u2018 med \u2019 - me ~ ~ \u00e9 - ate in * - \u2018 ~ i <item a \u201can ~ = - Tal ei a ce ee \u2018 - fs \u2014 ann wee ot \u2014 op tn Ne et ty x = m \u2014",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-100",
+    "name": "Material 100",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_100_label.jpg",
+      "sample": "catalog/images/material_100_sample.jpg"
+    },
+    "raw_text": "~Pw, ~~ ty} = \u2014 Srey Pie,",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-101",
+    "name": "Material 101",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "6.5mm",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_101_label.jpg",
+      "sample": "catalog/images/material_101_sample.jpg"
+    },
+    "raw_text": "c% d Flooring y | Rigi 9.05\u201d Plank Width Plank Length 60.23\u201d . . 6.5mm w o & = = roar a oO a x 1.5mm a ee. 8.0mm i o Coke Bg L2G => = ee bats oOo = ke YU D = G Ng UNILIN > 18.94 sq.ft per carton on te: \u2014 . _ : ~ - ett a oe ~) ty, ae - = . ok - \u2014 \u2014 ae % 4 \u2014 a _e ~ \u201c< : ms sa ~reee - x \u201cWa, ee. - bd ~w -\u2014~ Oats Matte ew naan \u2014~ 7 Mien . wk TP Gm cy , e + ieee ~ entitle \u2014\u2014 : HY en peering a \u201d ~*~ vo \u2014 ers > Aten Me \u2014* \u2018ie z el ta . . a= \u201cat Ate ~ RN: oo. ee remeeaety ei Aenean x ty 4 andrea\u00bb = iy =} ~ a ee - . ane ewe =- \u201d - - oe A etree . ]) ns itty: \u2014 en. \u2014\u2122, me ie ee icici \u2018 \u2014 ei baie Sie a aoe re Wistecien es 2 a xs ewes = mee as ee \u2014_ ee em, I ORecane ate ake \u2014",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-102",
+    "name": "Material 102",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "6.5mm",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_102_label.jpg",
+      "sample": "catalog/images/material_102_sample.jpg"
+    },
+    "raw_text": "d Floor} v igi Luxury Vinyl R ing K867 Plank Width Plank Length ' \u2018 ltem Code 9.05\u201d 60,23\u201d 6.5mm 1.5mm Plank Thickness IXPE padding 8.0mm UNILIN Packing: 18.94 sq.ft per carton \u2018 . Total thickness Click System",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-103",
+    "name": "Material 103",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_103_label.jpg",
+      "sample": "catalog/images/material_103_sample.jpg"
+    },
+    "raw_text": "ey Spey oa x ws eed =< eae sa ar ees aa ka gle a ale amg ee \u00a3 =a ants ree < * = \u00ab Se i _ (4dXI S'1+0\u00b0S) NNINOO14 DdS JOONd YALVM %OOL WWS'9 :NOLLd!IdOS3q ins, JIWOZ :MSAVI UVAM XOG/YOSEL'TZ 9109s 3 | JOO|} WWG'9xO0EGLXOETC - AZIS *, *, Feaas",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-104",
+    "name": "Material 104",
+    "collection": "365 Days Collection",
+    "type": "SPC Flooring",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "5mm",
+      "wear_layer": "22 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_104_label.jpg",
+      "sample": "catalog/images/material_104_sample.jpg"
+    },
+    "raw_text": "pm Tete ere Pe (3 S \u00a9 OE OA, S 22MIL 5MM 100% WATERPROOF spc FLOORING. (4+2mm IXPE) > \u00ab serene linet Se eee 9\u00b0X48\"X6mm we pees + eee AR Renee MOR Ne! \u00ae DESCRIPTION schegnten eine 24 2sqfbox WEAR LAYER SIZE",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-105",
+    "name": "Material 105",
+    "collection": "365 Days Collection",
+    "type": "SPC Flooring",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "1.5mm",
+      "wear_layer": "22 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_105_label.jpg",
+      "sample": "catalog/images/material_105_sample.jpg"
+    },
+    "raw_text": "SPC FLOORING. (6.5+1.5mm IXP 22MIL irom teen me \u201c panna Capt . . a a LL O O a : a a ul << = NS Oo Sa = = co 1500x232x8mm 18.73saft/box WEAR LAYER SIZE DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-106",
+    "name": "Material 106",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_106_label.jpg",
+      "sample": "catalog/images/material_106_sample.jpg"
+    },
+    "raw_text": "IO & PR ti Gee OMeBsHUy prsyuy 7oeysq ory S89 NZ QUILWUG\"L+S) \u201cONINOO TA SdS JOONdHALVM \"00 WWS'9:NOILdIdDSaa WO? *YSAV1 YVSaM xoq/ubsgrZZ =ONIMOVd ANW Idub 6S.) 6.INING'S <4ZI1S 6008A -10/09",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-107",
+    "name": "Material 107",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "442mm",
+      "wear_layer": "22 mil",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_107_label.jpg",
+      "sample": "catalog/images/material_107_sample.jpg"
+    },
+    "raw_text": "\u00bb \u2019 floor score yethta, g 15 ae. 22MIL 24.2saqft/box WEAR LAYER . (442mm IXPE) ORING O aa re O [as op) Le \u00a9 O a am a a < = oN ro) S = = To) DESCRIPTION",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-108",
+    "name": "Material 108",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_108_label.jpg",
+      "sample": "catalog/images/material_108_sample.jpg"
+    },
+    "raw_text": "WASTED PRESENT n* Fs = \u00a9 oD GN x \u00a9 N N = a ~< cO <r x \u00a9) 21.13sqft/box Supper Duty QPC Finish SIZE",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-109",
+    "name": "Material 109",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_109_label.jpg",
+      "sample": "catalog/images/material_109_sample.jpg"
+    },
+    "raw_text": "awe NTRS terest wpe: ihr Nem Oe a satin sees \u2014 ~~ \u2014 =a ane - ees 2 awe a S a ~ acres \u2014_\u2014 > Seal + ee ee ee SO RS Oe pie. a \u2014_ ts oe - SI ton Arn ee) Se sana? i be ng j { \u2019 na) Hi i } iGo \\ t , j ] j ee | \u2018 3 i 7 q q 5 f : } \\ } ee | a a 1 dwad er , hb i f F j 5 4 i { LS : i i { p A \u2018 \u2018 ) ta: \u00a9 \u2018i. Fert ; j } Wag ) \u00e9 a ! A Raw ee A! by, ' i iT 4 any sates. wr ssten, HOAs 7 Bee OneIsHUy PHrspuy *rAeGoqory S89 NA (UIUG\"L+\u00a5) \u201cONINOO 1d DdS JOONdYALYM 004 WINS\u2019S:NOILdidDSaa Le WWZL *YSAV1 MVSM Peri | xOq/UDS/L'0\u20ac -ONIMODWd MNV1d.09%.6xWIS'S :4zIS- LOOAH -40/05 7 |",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-110",
+    "name": "Material 110",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_110_label.jpg",
+      "sample": "catalog/images/material_110_sample.jpg"
+    },
+    "raw_text": "Ail) uoyed Jed ybs 6'9| :\u2018Bupjoey NITINA :wayshs 4921/5 WWW)'g :SSO8U5IY} je}O] e uis:) \u2018uipped aX! WLU\"? \u2018sseUxd!4] YURI q \"\u00a3709 :436ue7 uel 1506 :YUIPIA 4UeI e GQ9>| '2P\u00b0D wey q my neay ais tee \u2018I bins jooydueyem %O01 ; mn SLD VAQN1OS of",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-111",
+    "name": "Material 111",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_111_label.jpg",
+      "sample": "catalog/images/material_111_sample.jpg"
+    },
+    "raw_text": "ae) ee | NbN 5 ws , \u00a2 \u00a35 ee 2c \u00a7 sae\" 5 g g\u00a2 \u00a38 2 De $8 ena kos | ie Ci AS Ge lie. stil Seat \u201cme PR",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-112",
+    "name": "Material 112",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_112_label.jpg",
+      "sample": "catalog/images/material_112_sample.jpg"
+    },
+    "raw_text": "\u2014 age =e oe we \u2014 NIINN \u2018waists 451)> WW\" :ssauydiy} [P10] WU\") :Buipped 34) \u2018 WIWUG\"S *SSOUNDIY] yuelY = \u00bb\u20ac7'09 :y:6uaq yuely | Biel te \u00bb80\u00b06 \u2018YaPIM yuUeIg SS8> P05 wey",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-113",
+    "name": "Material 113",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_113_label.jpg",
+      "sample": "catalog/images/material_113_sample.jpg"
+    },
+    "raw_text": "; ; 1\\4 ; ' j : i i ; ; | } : \\ ; 7 | ; ; | ; ' j ' i } ' / ; } / ; ; | | : | | | ; | | i ; al i | \u00a7 } : i\" J] } ; \u2018 | j ] nu | | j i j { \u00e9 i} | \u2018 vit j i ; : . ; ] | i} 4 | ( Abe 10] i Ser ; PAYA 41 le id | } } | jooydueyem %001 a re ee eae",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-114",
+    "name": "Material 114",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_114_label.jpg",
+      "sample": "catalog/images/material_114_sample.jpg"
+    },
+    "raw_text": "| : dx! S'1+0\u00b0S) SNINOOT14 DdS 4OONd qdLVM %OOL WWS'9 :NOILdINyDS3aqg te TIWOZ -YAAVT1 UVAM XOG/UbsEs'7Z WIWUG'9xOEGIxOET 3ZIS | |",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-115",
+    "name": "Material 115",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_115_label.jpg",
+      "sample": "catalog/images/material_115_sample.jpg"
+    },
+    "raw_text": "(AdX1 +S) \u201cONINOO14 OdS JOOYNdHALVM %OOL WWZ:NOILdINOSad ABojouyse, payuajyed ape |STTINN SN USIUIS Odd Ang Jaddns xoga~jbs\u00a2e}-1z ~ on ol : ~ r Fi 2 WORBETO BON Wunder me Ci (WES xOZTL) (WLULX.8>X..6 -AZIS MIU HOS) ose hll",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-116",
+    "name": "Material 116",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_116_label.jpg",
+      "sample": "catalog/images/material_116_sample.jpg"
+    },
+    "raw_text": "\u2018 ABojouyseL pawajed a SIIDINN Yysiul4 Odd Ajng Jeddns xoqaybse 1\u00b0 1.z 3109S i) or 2JOOH c =) (WWOETxOZZL) WWWX. 8PX..6 -4ZIS PlosueiS 700 AD",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-117",
+    "name": "Material 117",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_117_label.jpg",
+      "sample": "catalog/images/material_117_sample.jpg"
+    },
+    "raw_text": "%00l WWZ:NOILdIdOSAG (3dXI Z+S) \u201cONINOOT1S OdS AOONdYALVM ABOJOUYIOL PSJUTLd : gn oN Ee | ) RD A\u00ae USIUI-] Dd Ajng seddns xoq~jbse1 Lz (WWOETxOZTL) WWLX.87X.6 -AZIS P10JxO \u00a300 AD :",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-118",
+    "name": "Material 118",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "6.5mm",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_118_label.jpg",
+      "sample": "catalog/images/material_118_sample.jpg"
+    },
+    "raw_text": "9.05\u201d Plank Width 6.5mm Plank Thickness IXPE padding Was 1.5mm Total thickness: 8.0mm Click System: UNILIN 18.94 sq.ft per carton Packing",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-119",
+    "name": "Material 119",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_119_label.jpg",
+      "sample": "catalog/images/material_119_sample.jpg"
+    },
+    "raw_text": "a a oo YSIUL4} Odd Aing xoq/ybs\u00a2 | \u201cLZ 3109S ywowsmne2 vpn wuaoey cain JOO}: S eS (WWOEZxOZZL) WWLX.8P7X.6 :AZIS [euszoy) 110 AD",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-120",
+    "name": "Material 120",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_120_label.jpg",
+      "sample": "catalog/images/material_120_sample.jpg"
+    },
+    "raw_text": "L-NOILdIdDSAG (3dxX! z+5) \u201cONINOO 14 DdS 4JOOUdYALYM \u2018 %001 WW ee ee Sa OO \u00a9 @\u00ae \u00a9 usiul4 Odd Ang seddng xoq~ybsEe} \"LZ &) ea) & (WWOETxOZZL) WWLX.8P7X.6 -AZIS [feusoyy [10 AD",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-121",
+    "name": "Material 121",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_121_label.jpg",
+      "sample": "catalog/images/material_121_sample.jpg"
+    },
+    "raw_text": "uoved Jed y'bs 76\u00b098 :Bupjoey \u2018 iy { j \u2018ae lit NITINA :waishs 491|5 | \u00bb 5 woh ei feng jit WW0'g :ssauxdI4} |e}O] | a bie 4 i ie wig\" | \u2018Bulpped 3dx\\ PEER A] = wus'9 :sseuyoiy) yuelg SORTER Het Mee Bt ie v\u20ac7 09 \u20184,6u97 4Ue\\\u00a24 be os PRG & SOREN LS9> \u20182p0D wey ok an te \u2014 was ng ae",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-122",
+    "name": "Material 122",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_122_label.jpg",
+      "sample": "catalog/images/material_122_sample.jpg"
+    },
+    "raw_text": "NITINA :warsks 41/9 WWQ'g :SSOU%IIY} |e}O] wug\"| \u20186uipped 3dxX\\ 658] \u2018ePoD wer",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-123",
+    "name": "Material 123",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_123_label.jpg",
+      "sample": "catalog/images/material_123_sample.jpg"
+    },
+    "raw_text": "< oe = = = = = > i",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-124",
+    "name": "Material 124",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_124_label.jpg",
+      "sample": "catalog/images/material_124_sample.jpg"
+    },
+    "raw_text": "AINOZ/ININS 0745 YNV 1d .09+.6+N 6008A \u2018wO1O9 | anette arnnt oe \u2014 Byer D veya usd 6B C) Hoot DD (st? FF | | voor osi_ ~ SNOW SATAN",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-125",
+    "name": "Material 125",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_125_label.jpg",
+      "sample": "catalog/images/material_125_sample.jpg"
+    },
+    "raw_text": "\\ Ny ae iF : ; \\ | i i . ; 4 ; ' : { ai t I 4 a j { + \u2019 \u2018 $ \u00bb } j Tih ' ' { / . } ( ; {} 1 i | ee \u00e9 : \u2018io ; 4 youer sed bs 76\u00b081 \u201cOupPed NITINA :warshs 4PHD wwig\u2019g :sseurxrtyt jEsOL wwig | \u2018Suipped 3dXI UWS :sseUyPYL AUEld \u00a3709 -y36ueq 4ueld S06 \u201cUIPIM AYEld 099\u00bb :2Pe wen \u2014 eel t + Buisooj4 piBiy jAuia Aanxny",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-126",
+    "name": "Material 126",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_126_label.jpg",
+      "sample": "catalog/images/material_126_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-127",
+    "name": "Material 127",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_127_label.jpg",
+      "sample": "catalog/images/material_127_sample.jpg"
+    },
+    "raw_text": "he o;-He eee",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-128",
+    "name": "Material 128",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_128_label.jpg",
+      "sample": "catalog/images/material_128_sample.jpg"
+    },
+    "raw_text": "(WINS'1+S) ONINOOTS OdS JOONPYALVM %OOL WINS 9-NOLLdIYOSSG TIAO?C:YSAVTUWSM = XOG/Ybserzz MNV dub 6GxuEL 6sINING 9:4ZIS LTOO8A -YO1OD eal \u201ca Pyg \u2018 7 i ty \" ge my: si \u201c \u2122 : = in i y Fi v - ecg mre ~ 4 . =~ \u00e9 aa e",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-129",
+    "name": "Material 129",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_129_label.jpg",
+      "sample": "catalog/images/material_129_sample.jpg"
+    },
+    "raw_text": "(3dXI +5) \u201cONINOO TA OdS JOONdYALVM %00l WWZ:NOILdIMOSAG ABojouyse, payuajeg Groen = rs No 4 Fea nm, . (ma USI DLO Aynq seddns xog/ybs\u00a2 1\u00b0 Lz (WWOEZx0ZZ] ) WW)X.89X.6 -4zIS 9SPLIQUIeD 70) 75",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-130",
+    "name": "Material 130",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_130_label.jpg",
+      "sample": "catalog/images/material_130_sample.jpg"
+    },
+    "raw_text": "Patented Technology waterproof Ki) 100% Water \u201cowe ~ ws teat Qo 7) \u2014 nom i) SS 7) 7) = \u2014_ oS ome] Jalal eo) E = \u00a9 o \u2122N x \u00a9 N eS E \u00a3 a as os o>) SIZE",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-131",
+    "name": "Material 131",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_131_label.jpg",
+      "sample": "catalog/images/material_131_sample.jpg"
+    },
+    "raw_text": "KG iS 2",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-132",
+    "name": "Material 132",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_132_label.jpg",
+      "sample": "catalog/images/material_132_sample.jpg"
+    },
+    "raw_text": "(SdXI 2+S) ONINOOTS Dds JSOONdYILVM %OOL WWZ: NOlLdi4osaa AB0)0uy429) pajudjeg pe [same-tas lone ves 203-4 \u2014bnin = \u00a9 \u00a9 @ @ \u00a2 ae a YS|U|-J Odd Ajng 4addns Recibet te) Off \\avaasi (a (WLUOEZx0ZZL) WX 8PX.6 \u20183ZIS eSPLIGMILD 700 FD \u201cbm a a \u201d ty wag, hae",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-133",
+    "name": "Material 133",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_133_label.jpg",
+      "sample": "catalog/images/material_133_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-134",
+    "name": "Material 134",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_134_label.jpg",
+      "sample": "catalog/images/material_134_sample.jpg"
+    },
+    "raw_text": "J \u2014 coal = Ai AaB",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-135",
+    "name": "Material 135",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_135_label.jpg",
+      "sample": "catalog/images/material_135_sample.jpg"
+    },
+    "raw_text": "ONIYOOT14 OdS JOOUd \u00a5slLVM %O00L WWS9 \u2018NOILdINDS3AG (4dxI G'1+0'S) qIWO? (MSAV1 UVaM xog/YbseEL Cc? LULUG'9xOESLXOET : AZIS",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-136",
+    "name": "Material 136",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_136_label.jpg",
+      "sample": "catalog/images/material_136_sample.jpg"
+    },
+    "raw_text": "\u00e9 at",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-137",
+    "name": "Material 137",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_137_label.jpg",
+      "sample": "catalog/images/material_137_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-138",
+    "name": "Material 138",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "7mm",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_138_label.jpg",
+      "sample": "catalog/images/material_138_sample.jpg"
+    },
+    "raw_text": "G) Omm) is ee > a = co > eC S > \u2014 O by QPC Fin =< a>; 7MM 100% 3\u00b0X48'X7mm (122023 > 21.13sqft/box Supper Dy \u2014\u2014\u2014, TION: SIZE eS) == DESCRIP i",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-139",
+    "name": "Material 139",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_139_label.jpg",
+      "sample": "catalog/images/material_139_sample.jpg"
+    },
+    "raw_text": "Dera F fe onuouy prmoyuy FATTO Oy 669 NJ \"004 WINS\u2019 9:NOLUdIYOSAG (wiws'}+S) ONINOOT1S Ods JOONdYALYM MWOG -YsAV 1 adVAM beommaker\u2014-\\- 9) witty xoq/ybsgr 2c \u2018ONIMOVd (49 Ss | tans di Ot MNV 1d. '69-.\u20ac 6.NWWS9 -3ZIS oe Z008A -49/90D ee, Geen ee ei ee ts } 14 TANIA 9dS ; ; - A TT AOA SAY Ree Os Newer Semmen 6. oud : tt at anh cy teas! Vk A",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-140",
+    "name": "Material 140",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_140_label.jpg",
+      "sample": "catalog/images/material_140_sample.jpg"
+    },
+    "raw_text": "(4dXI Z+S) \u201cONINOOTZ IdS JOONdYALVM %00L WINZ:\u2018NOILdIMOSsSsa ae ree & By yma se>. | (Cxomesiei 2S ES Se eee en |STTDINN| oS OO @ a 4 Ta fe) 21095 (a 4SIUI4 dO Aing Jeddns xoqyybs\u00a2g1\u00b01,z JOO; IKDC, | (WILUOEZxOZZL) WWWX, 8bX.6 -AZIS EIquUn[oOD) 200 AD : ME er \u2122 = 2 , ary. ~ ~ * : . \u00ae age Ty * a = ,",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-141",
+    "name": "Material 141",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_141_label.jpg",
+      "sample": "catalog/images/material_141_sample.jpg"
+    },
+    "raw_text": "nV PPM mwarqeqang {99 NX (anu SL+y) \u2018ONIMOO TI IdS JOOUdYALVM \u00b0: 00L WING'S \u2018NOILdIMIS3AG TIN OZ * Y3AVT1 HVAM ANV1d,,00'8P \u00abLZ LININGS \u20183ZIS TANIA 3dS LC) \u2018 : ~~ ~ . 3 \u2018 \u00bb Za .\u00ab \u00bb _\u2014 oe. oa _ at er",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-142",
+    "name": "Material 142",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_142_label.jpg",
+      "sample": "catalog/images/material_142_sample.jpg"
+    },
+    "raw_text": "UVIA OF HVHA SI TWOP lade) OlLSMA ybs Zy'gp:vary SOq C:odvyNorg [Mu CE F1QKvy ava py munrg X ,90\u00b06 X ,S8\u00b06S:9zI5 [Aura Ainxny] UIE",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-143",
+    "name": "Material 143",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_143_label.jpg",
+      "sample": "catalog/images/material_143_sample.jpg"
+    },
+    "raw_text": "VOR a 7 ms @ opuspry Pprisnuy OONdYALYM \u201c> 00L WING S-NOILLdIHDS30 Sets Ag AAV UVAM oe xO S/ | (9109S qjabsZ 108 *ONIMOVd JOO} YNV1di09+.6.NG 'S \u2018A4ZIS sojaunod O11Ld 289 Na (wmius't+p) ONINOOTJ Ids J 800AH -49/99",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-144",
+    "name": "Material 144",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_144_label.jpg",
+      "sample": "catalog/images/material_144_sample.jpg"
+    },
+    "raw_text": "voue iad y\u2019bs 76\u00b091 \u2018Guppy : NITINA 7 Weiss 49115 | LULUQ'B :SS@UNDIYY jejO] wig) :Buipped 3Y4x| WUIG'D :SSOUHIIY) YUL) w\u20acZ'09 :Yyybuay yuUe}q wG0'6 *YIPIM AuUelY Z9BM \u2018POD wo} /Gorapn Brow COR PA 4 | \u00e9 Pe ' e @ 4 is j c ie \" : ; \u2019 ? aN \u201c\u00ab dhe Y 25 if t : ; A ,, % radbbr Aap _\u2014\u2014~\u2014 TAT ET TTT \u2014 (ei iiie rm oy ~~ iT on ca aa: TTT 7 4 teow Te Pare te a mathe og yay - /",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-145",
+    "name": "Material 145",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_145_label.jpg",
+      "sample": "catalog/images/material_145_sample.jpg"
+    },
+    "raw_text": "yours Jed y'bs 6 gt /Bujyoey NITINA \u2018Weishg 494/59 UL 'B SSBUYIIY) Je10) wlug*, \u2018Bulpped 94x] UILUG 9 /9SOUNIIY| yULY-Y -\u00a3Z09 :yiGu07 xuL/d 0806 *4IPIM ULI ESE\u00bb p09 wow",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-146",
+    "name": "Material 146",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_146_label.jpg",
+      "sample": "catalog/images/material_146_sample.jpg"
+    },
+    "raw_text": "YOURS Jad hs 96'81 :Buyoe, NITINN \u2018uweysks 4215 408 *S8QUHD14) je}o) \"Sb Bupped ayy, MLUG*D \u2018ssauNoiy) Yury Steg ole, \u2018yj6u07 4UCfY #S0\u00b06 \u2018YWIPIM Jue;g Ess\u00bb \u201cBPO way)",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-147",
+    "name": "Material 147",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_147_label.jpg",
+      "sample": "catalog/images/material_147_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-148",
+    "name": "Material 148",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_148_label.jpg",
+      "sample": "catalog/images/material_148_sample.jpg"
+    },
+    "raw_text": "VOLO JO YDS pA | /Bupyouy NUINA wawag 991/17) WLWO'E eHAUNO)YD WiOD UY p Oupped pay mebel M MLL LTD LILI B NUL) T2009 Bue} yyy HO DIA YUtiTY : \\ PERN POS wor ~ { | i 1a Ou | \u20184 I), 1900/4 pyByy JAUIA Aanxn4 HH *X ne pe wtoves ta a | . Wo) ti Ii i My | {. I) ' ; WA iW nh | j",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-149",
+    "name": "Material 149",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_149_label.jpg",
+      "sample": "catalog/images/material_149_sample.jpg"
+    },
+    "raw_text": "oppaeyuy prurray ee Ome ch (3dx) Ws lL+S\u00b09) ONIYOO 14 DdS AOONdHALVM 300 WWE: NOILdIYOSIC ~m2 \u201cIHIWOZ? YHAIAV 1 doVvAaM xOqg/YDsZ/ ZZ ONIMOVd (Se (i) Gs YNWV1d.09+.6-WING -471S Se. VOLANA - JOJOD",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-150",
+    "name": "Material 150",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_150_label.jpg",
+      "sample": "catalog/images/material_150_sample.jpg"
+    },
+    "raw_text": "IO B& = Tee onvinneyY = pMsnoy 0OL WWS'9-NOLLdINDS3a ILS t+8) ONINOO 14 DdS JOOUdHALYM UNO? -Y3AV1 YvaM \u2014emoratic 0) xOqNMDOsSer ez ONINOVd 3109S gh Jooy YNV1d.1'6S..61 6.WIWS'9 -3ZIS 8008A \u201c10]}05",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-151",
+    "name": "Material 151",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_151_label.jpg",
+      "sample": "catalog/images/material_151_sample.jpg"
+    },
+    "raw_text": "; ; ; ; . ; : . fil | } \\ : hi i Wy | 4 ; ! Th Li / i i. SAWN} i Hil), 25) (Be. \") DOB Ss F FTE 7 ; ommensy propo setog ony uD NF ; ; aay 1 i } (WwWws LeP) \u201cDNIYOO1S I4S JOON 7:00! WSS NOLLdIHIS30 Vea ft JINZL 'YSAV1YVAM ! Hi ale xoq;ybSZL'0& \u201cONINOWd TAWA JOO} MNV1d.09..6-WW9'S -SZIS Vive 900AH \u201840/99",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-152",
+    "name": "Material 152",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_152_label.jpg",
+      "sample": "catalog/images/material_152_sample.jpg"
+    },
+    "raw_text": "DOR ea = =e onesnay =P \u2018NOUdINISAG ws Lep) \u2018DNIMOOTS OdS JOOUMYALVM OOF NVIS S WAZt \u00abYaAvT evSM xoqnjbs/L\u20180E ONIMOWd \u2018JIZ(S (waives S @ aS! NV 1d.09..6.NNS S LO0AH 40199 a 9 . ete sl Lue ee 7 ee ee PE EE",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-153",
+    "name": "Material 153",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_153_label.jpg",
+      "sample": "catalog/images/material_153_sample.jpg"
+    },
+    "raw_text": "PJOVSea F TLE opreoyey vena \u00a7 reyomeng SID ACI (Wiles Ley) ONINOO1d OdS JOONdMYSLVM .00L MWS G-NO}LdINYIS50 eit JIWZL \u00b0YSAVT VSM xoq/ybs7106 ONINOWd (2199s (482 MNW1d.09..6-WNSS -3ZIS 900AH -10109 Y omer ie wai ole in eas",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-154",
+    "name": "Material 154",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_154_label.jpg",
+      "sample": "catalog/images/material_154_sample.jpg"
+    },
+    "raw_text": "DWABe BF HH@ opeecsray \u00a7\u00abopryoyuy \u00ab= OpAPHoq ong 699 ICI (ung $29) ONIYOOTS 9d8 JOOUNMUALVM 001 WHS S NOILdS/NISIC MWe = YSAV) HVS \u2014nr20O XOq/OE/AL OF ONIMOWd 31095 @ (us YNV1d.09,.6-WWSS J3zZIS hy ZOOAH 40109 ININOO14 TANIA Dds",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-155",
+    "name": "Material 155",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_155_label.jpg",
+      "sample": "catalog/images/material_155_sample.jpg"
+    },
+    "raw_text": "VDEeea * 2 Oo pemay PprasisTy ulng2~p) \u201cONIMOO14 Id8 JOONdHALYM *.00b WAS '3'NOLLd Y9D830 MINZL \u2018YSAVT YVaM EW xoqyjybs/L 0\u20ac -ONINMOVd (sgiawaa S @ 282 YNV1d.09..6-WING'S \u00a93ZIS SOOAH (10109 NINOOTd TANIA JdS",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-156",
+    "name": "Material 156",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_156_label.jpg",
+      "sample": "catalog/images/material_156_sample.jpg"
+    },
+    "raw_text": "7 \u2014_ Se ~ DEB we * we @ caveney piuepoy 7g ong fe0 AC Wis Ler) DNAOOTd Od JOONANTIVM *.00b HOWS'S' NOU YIBIO MAZE -YSAV) YVAM xOoqYbDS/. OC -ONINOWd (Gish) 255 : Ser) YANW1d.00-.6:kWINS S -3ZIS ZOOAH 40/09",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-157",
+    "name": "Material 157",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_157_label.jpg",
+      "sample": "catalog/images/material_157_sample.jpg"
+    },
+    "raw_text": "ALIS. SE =) 0 aa may () 3a)]d/ybsorer XOq/Ybss\"ez \u2018Bulyoeq 69\u00b065 :Yj3ua7 4yue}Y MIND NITINN :twa3sks 415 uS0\u00b06 \u2018YApIM yuejg MitNS\"G \u2018SSOUAPIUL HUCId ss TS YcaleNY Way] SUuLIOO) 4 ozeurwme7 Ainxn7",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-158",
+    "name": "Material 158",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_158_label.jpg",
+      "sample": "catalog/images/material_158_sample.jpg"
+    },
+    "raw_text": "ae SO & yoyed/ybs96g\u00b07Z0r | xog/Ubs9T\u20196T SuJx22d 169\u00b06S 74 dud] YUC id Y917D NINN :Wa3sAs AND usc 6 74APIM AUB Id LuULUE ZT -SSOU4IIY I YUCld ZOOTM OWEN Wa] SULIOO) 4 9JEUILUET Aunxny VA\u00a91@S",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-159",
+    "name": "Material 159",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_159_label.jpg",
+      "sample": "catalog/images/material_159_sample.jpg"
+    },
+    "raw_text": "\u00a9 @ 6 ==) @ ta) Ed/ybsorer xoq/ubss\"ez \u2018Buy2eq \u2014469\u00b06S *433uU9] yUue}Y 431719 NINN :wayshs yO1]5 nSv\"6 \u2018YApIM Yue} UIUIS \"6 \u2018sSaUyIIY| Yue] SI861M \u2018owen way, SUuLIOO} 4 e7eulwe7 Ainxn7",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-160",
+    "name": "Material 160",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_160_label.jpg",
+      "sample": "catalog/images/material_160_sample.jpg"
+    },
+    "raw_text": "",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-161",
+    "name": "Material 161",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_161_label.jpg",
+      "sample": "catalog/images/material_161_sample.jpg"
+    },
+    "raw_text": "/ ; { Ah) S @ 6 & & za ed/YybsoTet xoq/ybsg-ez \u2018Sulyjoed 41696 :4Sus] YUe}d MIITD NITNN :wayshs 4219 S06 <YUAPIM 4UP}d WUILUG*G :\u2018SSeUyDIY | YUP} Z8617M :QweN Wey] SuLioopy azeurmey Ainxny",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-162",
+    "name": "Material 162",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_162_label.jpg",
+      "sample": "catalog/images/material_162_sample.jpg"
+    },
+    "raw_text": "{ : A fi ' ; ti : Wi ay | | ; 7 : . : ALS \u00a9 O == @& wped/ybsgrer xoq/ybss\"ez Buyyoed \u20144.69\u00b06\u00a7 :4)3Ud7 yurlq M9119 NITINN 2tuU12)shs 4>}]5 uS?\u20196 \u2018UApIAA YURI} WLS \u00b0G SSOUYDYI YULI E861M eweN wa)}| SULIO0) 4 aJeulwe7 Aunxn7 WA@ 18S",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-163",
+    "name": "Material 163",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_163_label.jpg",
+      "sample": "catalog/images/material_163_sample.jpg"
+    },
+    "raw_text": "yoy} Cd/ybsorer xog/ybss\"ez Aujyreg \u20144,69\u00b06S :)BuUd7 yUL}Yg ADIT MITINN Warshs 49). Sh \u2018UAPIN, HUI LULU 'G 25SOU4>)(|) YURI T8GIM \u2018oWeN wa) duloo}4 ayeuiwe 7 Aunxn7 VA@1@S",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-164",
+    "name": "Material 164",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_164_label.jpg",
+      "sample": "catalog/images/material_164_sample.jpg"
+    },
+    "raw_text": "AS \u00a9 O =a) \u00ae yoyyed/ybs96\u00b07Z0T xog/YbsOL'GT \u2018BUIYIEd 11696 IHU] YUC}d MIITD NIINN :waIshs 431) St 6 \u2018YAP]M UR ld wWILUs ZT :SSAUyHIIJY | YUP]d \u00a3007M :sweN wea} sulioo)4 azeuiwe 7] Ainxny",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-165",
+    "name": "Material 165",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_165_label.jpg",
+      "sample": "catalog/images/material_165_sample.jpg"
+    },
+    "raw_text": "Fh) & & @ (suas) 3a) ed/ybsgrTer xaq/ybss'ez \u2018Buiyseg =, 69\u00b0F WAUuay yuelg uS?\u00b06 UADIM Yue Id MDITD NINN :ua)sAs 421)D WULUG \"6G \u2018SSOUIIY | YUL EVE TM 2uen UWla)) Susoo}4 azeulwey Ainxny WA\u00a91@S",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-166",
+    "name": "Material 166",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_166_label.jpg",
+      "sample": "catalog/images/material_166_sample.jpg"
+    },
+    "raw_text": "ASS O == jzoppod/ybsorter xoq/ybss*ez Bujystd =, 69\u00b06S *4JHUa] HULId uSb\u20196 \u2018YAPIM AUe}d 9179 NITINN :124ShS 49119 WLS *G \u2018SSOUxI/Y YUL}d S867TM aweN uWa}| Sulioo} 4 azeuIWe 7] Ainxn 7] VA @ 1658",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-167",
+    "name": "Material 167",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_167_label.jpg",
+      "sample": "catalog/images/material_167_sample.jpg"
+    },
+    "raw_text": "VA@] Al) S \u00a9 86 &= m 39))}ud/ybs96\u2019\u00b0ZZ0T = xoqg/YbsoT er Buyy2ed =, 696 F Yu] yue}d MIITD NUINN -tulayshs 4>)/5 uSZ\u20196 \u2018YAp/M 4uUr}d wu E\u2019 ZT -SSOUHI}Y | YUE} 8001M \u2018aweN Wad}} Sulioo} 4 azeutwie7 Ainxn7 oS ke oT yey 1)",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-168",
+    "name": "Material 168",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_168_label.jpg",
+      "sample": "catalog/images/material_168_sample.jpg"
+    },
+    "raw_text": "AS @ @ =x) @ zayjed/ybs96'ZZL0L xoq/Yybs9T'6T \u2018SU}x2ed 469\u00b06S '4}9Ua] Yue Id nSz\u20196 :YApIM Ue }d YOIT2 NINA :Wayshs 49119 WWE \"ZT \u2018SSAUyIIY J YU)d GOOTM :aWeN Wa] Sulioo}4 a3eurwe 7] Ainxn7] VAO1@S",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-169",
+    "name": "Material 169",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_169_label.jpg",
+      "sample": "catalog/images/material_169_sample.jpg"
+    },
+    "raw_text": "Alle \u00a9 O = & zayjed/ybsorer XOq/YHSS\"EZ BUJYIPd 469\u00b0 GF 7YYSUT] YUL} MDITD NITINN :Wayshs 49))/9 uSv\u20196 \u2018YADIM 4Ue}d WILUG G6 -SSAUYIJY] YUPTd PS61M :2WeN Way) SULOO} a2euIWIET Aanxn7 VA@ 16S",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-170",
+    "name": "Material 170",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_170_label.jpg",
+      "sample": "catalog/images/material_170_sample.jpg"
+    },
+    "raw_text": "HISSO=@\u00ae yoyed/ybsoter xog/ybssez Bujy3ed 69\u00b065 \u00b04BU97 YUe}d WDI1D NITING :wayshks 41D uSt\u00b0G YAPIM XU }\u00a2 UILUS\"G \u2018SSaUHIIY] YUL} TE6 IM \u2018OWeN ual] SuUL400}4 a3eulwWe7} Ainxn 7]",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-171",
+    "name": "Material 171",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_171_label.jpg",
+      "sample": "catalog/images/material_171_sample.jpg"
+    },
+    "raw_text": "a f ' Th i} , FI [6] \u00a9 \u00a9 \u00a9 =z) @) 39)}ed/ybs9g*ZZ01 ; Xoq/Ybsgr\u00b06T :SUIy26&q .69\u00b06S :4y)SUa7 YUBId M3172 NIINN :Wa3shs y31)5 uSZ&\u20196 -YApIM Yue} WLUE*ZT :ssauyajy) YU} POOTM \u2018dWeRN wa}; JULOO)4 a}eulLUe 7 Aanxn7",
+    "color_tone": "dark",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-172",
+    "name": "Material 172",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_172_label.jpg",
+      "sample": "catalog/images/material_172_sample.jpg"
+    },
+    "raw_text": "SNSSO=@ \u2014 yayed/ybsotet SSS = xog/ybss\"\u20acz :sunj2eq ,,69\u00b06S -ySUS] YUL}q WIMP NITINN :wayshs YD. SG :UADIM YURI WILUG\"G :SSCUIIY] YULId 886 TM -SwWeN Wa} Zul00}4 a}eulwie7 Ainxn]",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-173",
+    "name": "Material 173",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_173_label.jpg",
+      "sample": "catalog/images/material_173_sample.jpg"
+    },
+    "raw_text": "te | | ee | ie it | 1p | Pum my had j an 4 . f . / ; \u00e9 it ; a } . . ; : . eri] ; ; | ; VAR | | . mH ; ' i : ; : ; i] i if aH il HT Hie } | f || A ae id W / ; j 1) 2H ih ; | ; ) ; ; ; : : ii ; HAI ful yl ae hi pi} . * i ; | } ; lif t : 7 7 if | i | ff | if Fa i : : if ' if an lj ; ) ; : aa : i | | Bil | i | yy] area ete * 3 Reed ~ typi ipa tet hpi atahy Aik . Jl) & @ =a) 30)/ed/ubsorer xoq/ybss*ez \u2018BUIY2Ed 446 9\u00b06\u00a7 :49BUAT YU} \u00a53113 NITINA \u2018wWaysks yO1D un S\u00b06 :YADIM Yue} WUWIG\"G :SSIUYDIY | YUL T8S61M \u2018oweN Way Suloo}4 a}eulwe Ainxn VA@ 16S",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-174",
+    "name": "Material 174",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_174_label.jpg",
+      "sample": "catalog/images/material_174_sample.jpg"
+    },
+    "raw_text": "ager A | | ; ; | iti | . thal | | / af | | | . | | \u2019 | fed : . \u2014Sa a Oe The \u00a9 6 =a @ | ! yoned/ybsotet xoq/ybssg\u00b0EZ \u2018BUJY2ed ~44.69\u00b06\u00a7 :U}SUa] Yue} | 43179 NITINN :WWa3shs 4211 SG :UAPIM yUR}d | WILUG\"G SSOUYIIY{ YUId P86 TM :eweN Way Sulioo}4 ayeurwe7 Ainxny . 42",
+    "color_tone": "light",
+    "style_category": "classic"
+  },
+  {
+    "id": "MAT-175",
+    "name": "Material 175",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium 100% waterproof flooring with superior durability.",
+    "features": [
+      "100% Waterproof",
+      "Scratch Resistant",
+      "Easy Installation",
+      "Durable"
+    ],
+    "specifications": {
+      "thickness": "",
+      "wear_layer": "",
+      "core": "",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_175_label.jpg",
+      "sample": "catalog/images/material_175_sample.jpg"
+    },
+    "raw_text": "ASSO @ 301] ed/ybs96\u00b0ZL0T SSS xog/YybsOT'6T -sujyIed =, 696 \u00a7 \u2018YJdua7 YUL YD11D NIANN :Wa}sAs 91/9 u8Z\u00b06 \u2018YApIM Ue} WWE\u2019 ZT \u2018ssauydjY| YUP] ZOO TM \u2018oWeN Ws} Sulioo) 4 azeurwe7 Ainxn7y",
+    "color_tone": "dark",
+    "style_category": "classic"
   }
 ]
