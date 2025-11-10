@@ -3,163 +3,148 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>365 Days Flooring — Premium Flooring Materials</title>
+  <title>365 Days Flooring — Home Renovation</title>
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
 
-  <!-- Preload critical resources -->
-  <link rel="preload" href="data/materials.json" as="fetch" crossorigin>
-
   <link rel="stylesheet" href="styles.css" />
-  <script src="script.js" defer></script>
+  <script src="script.js"></script>
+
+  <!-- Fallback if JS is disabled: show site immediately -->
+  <noscript>
+    <style>
+      .splash{display:none!important}
+      .site-header,.site{opacity:1!important;transform:none!important}
+    </style>
+  </noscript>
 </head>
 <body>
-  <!-- Header -->
+  <!-- ===============================
+       SPLASH / SIGNATURE OPENER
+       =============================== -->
+  <div class="splash" aria-hidden="true">
+    <div class="plaque">
+      <div class="plaque__border"></div>
+
+      <div class="mark-365" role="img" aria-label="365 Days Flooring">
+        <span class="mark-365__numbers">365</span>
+        <span class="mark-365__days">Days</span>
+      </div>
+
+      <div class="mark-365__subtitle">FLOORING</div>
+      <div class="mark-365__contact">
+        <a href="tel:18188001358" class="mark-365__phone">818.800.1358</a>
+        <span class="mark-365__name">Julian Jimenez</span>
+      </div>
+
+      <!-- Gold dust overlay -->
+      <canvas id="dust" class="dust"></canvas>
+    </div>
+
+    <div class="splash__sub">Every day, a new possibility.</div>
+  </div>
+
+  <!-- ===============================
+       SITE HEADER
+       =============================== -->
   <header class="site-header">
-    <a class="site-logo" href="index.html"><span class="brand-365">365</span> Days Flooring</a>
+    <a class="site-logo" href="#"><span class="brand-365">365</span> Days Flooring</a>
     <nav class="site-nav">
-      <a href="index.html" aria-current="page">Catalog</a>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#adu">ADU & Real Estate</a>
+      <a href="./catalog.html">Catalog</a>
       <a class="phone" href="tel:18188001358">818.800.1358</a>
     </nav>
   </header>
 
-  <!-- Main Site Content -->
-  <div class="site">
-    <!-- Hero Section -->
-    <section class="section">
-      <div class="hero__content">
-        <div class="hero__title">
-          <h1>Material <span class="brand-365">Catalog</span></h1>
-          <p class="hero__subtitle">
-            Premium flooring materials for your project. Browse our extensive collection of luxury vinyl planks, laminates, and more.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <!-- Search & Filter Section -->
-    <section class="section">
-      <div class="search-filter-container">
-        <!-- Main Search -->
-        <div class="search-wrapper">
-          <input 
-            type="text" 
-            id="search-input" 
-            placeholder="Search by material name, ID, or type..." 
-            class="search-input"
-          />
-          <div id="search-suggestions" class="search-suggestions"></div>
-        </div>
-
-        <!-- Quick Filter Tags -->
-        <div class="quick-filters">
-          <button class="quick-filter active" data-filter="all">All Materials</button>
-          <button class="quick-filter" data-filter="light" title="Light colored materials">☀️ Light</button>
-          <button class="quick-filter" data-filter="dark" title="Dark colored materials">🌙 Dark</button>
-          <button class="quick-filter" data-filter="modern" title="Modern contemporary styles">🏢 Modern</button>
-          <button class="quick-filter" data-filter="classic" title="Classic traditional styles">🏛️ Classic</button>
-        </div>
-
-        <!-- Results Summary -->
-        <div class="results-summary" id="results-summary">
-          <span id="results-count">175</span> materials found
-          <button class="clear-filters" id="clear-filters">Clear All Filters</button>
-        </div>
-      </div>
-    </section>
-
-    <!-- Material Grid -->
-    <section class="section">
-      <div id="material-grid" class="material-grid">
-        <!-- Materials will be loaded here by JavaScript -->
-      </div>
-      
-      <!-- No Results Message -->
-      <div id="no-results-message" class="no-results-message" style="display: none;">
-        <div class="no-results-content">
-          <h3>🔍 No Materials Found</h3>
-          <p>Sorry, we don't currently have materials matching your search criteria.</p>
-          <p class="coming-soon">New materials <span class="gold-text">coming soon!</span></p>
-          <button onclick="clearAllFilters()" class="btn-clear-all">Clear All Filters</button>
-        </div>
-      </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="section" style="margin-top: 4rem; text-align: center; color: var(--muted);">
-      <p>&copy; <span id="year">2025</span> 365 Days Flooring. All rights reserved.</p>
+  <!-- ===============================
+       MAIN CONTENT
+       =============================== -->
+  <main class="site">
+    <!-- Hero / About -->
+    <section id="about" class="section hero">
+      <h1>Precision floors & full home renovation</h1>
       <p>
-        <a href="tel:18188001358" style="color: var(--gold);">818.800.1358</a> | 
-        <strong>Julian Jimenez</strong> | Licensed & Insured
+        365 Days Flooring, led by <strong>Julian Jimenez</strong>, delivers craftsmanship
+        you can count on—from premium hardwood installs to complete home updates.
       </p>
-    </footer>
-  </div>
+      <div class="hero-cta">
+        <!-- Primary path is the Catalog estimate flow -->
+        <a class="btn" href="./catalog.html">Start Your Estimate</a>
+        <a class="btn outline" href="mailto:JulianJimenez53@yahoo.com">Email us</a>
+        <a class="btn outline" href="./catalog.html">Browse Catalog</a>
+      </div>
+    </section>
 
-  <!-- Material Detail Modal (populated by JavaScript) -->
-  <div id="material-modal" class="material-modal" style="display: none;"></div>
+    <!-- Services -->
+    <section id="services" class="section grid">
+      <article class="card">
+        <h3>Flooring</h3>
+        <ul class="list">
+          <li>Hardwood Floor</li>
+          <li>Vinyl & Laminate</li>
+          <li>Baseboards & Crowns</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>Carpentry</h3>
+        <ul class="list">
+          <li>Kitchen Cabinets</li>
+          <li>Closets & Built-ins</li>
+          <li>Counter Tops</li>
+        </ul>
+      </article>
+      <article class="card">
+        <h3>Finishing</h3>
+        <ul class="list">
+          <li>Paint & Trim</li>
+          <li>Repairs & Touch-ups</li>
+          <li>Detail-oriented cleanup</li>
+        </ul>
+      </article>
+    </section>
 
-  <!-- Estimate: floating bar + modal -->
-  <style>
-    .estimate-bar{position:fixed;right:24px;bottom:24px;display:none;background:#0d0d0d;color:#f4f3ef;border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:12px 14px;gap:10px;align-items:center;z-index:50}
-    .estimate-pill{background:#1a1a1a;border:1px solid rgba(255,255,255,.08);padding:6px 10px;border-radius:999px;font:600 12px/1 Inter}
-    .btn{appearance:none;border:1px solid rgba(255,255,255,.08);background:#131313;color:#f4f3ef;padding:10px 12px;border-radius:12px;cursor:pointer;font:600 13px/1 Inter}
-    .btn.gold{background:linear-gradient(180deg,#f7d774,#d4af37);color:#111;border:none}
-    .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;z-index:60}
-    .estimate-modal{width:min(720px,92vw);background:#0d0d0d;border:1px solid rgba(255,255,255,.08);border-radius:20px;overflow:hidden}
-    .estimate-modal header,.estimate-modal footer{padding:16px 18px;border-bottom:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;align-items:center}
-    .estimate-modal footer{border-top:1px solid rgba(255,255,255,.08);border-bottom:none;justify-content:flex-end;gap:10px}
-    .estimate-modal h2{font:800 18px/1 Inter;color:#f4f3ef;margin:0}
-    .estimate-content{padding:18px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
-    .estimate-content .full{grid-column:1/-1}
-    .field{display:flex;flex-direction:column;gap:6px}
-    .field label{font:600 12px/1 Inter;color:#c5bfae}
-    .field input,.field textarea{background:#121212;border:1px solid rgba(255,255,255,.08);border-radius:12px;color:#f4f3ef;padding:10px 12px;font:400 14px/1.2 Inter}
-    .items-box{background:#0f0f0f;border:1px dashed rgba(255,255,255,.12);border-radius:12px;padding:10px;max-height:220px;overflow:auto;font:400 12px/1.4 Inter;color:#e6e4dc}
-    .add-estimate-btn,.remove-estimate-btn{margin-top:10px}
-  </style>
-
-  <div class="estimate-bar" id="estimateBar" aria-live="polite">
-    <span class="estimate-pill" id="estimateCount">0 selected</span>
-    <button class="btn" id="viewEstimateBtn" type="button">View</button>
-    <button class="btn gold" id="requestEstimateBtn" type="button">Request Estimate</button>
-  </div>
-
-  <div class="modal-backdrop" id="estimateModalBackdrop" aria-hidden="true">
-    <div class="estimate-modal" role="dialog" aria-modal="true" aria-labelledby="estimateTitle">
-      <header>
-        <h2 id="estimateTitle">Request Estimate</h2>
-        <button class="btn" id="closeEstimateModalBtn" type="button">Close</button>
-      </header>
-      <div class="estimate-content">
-        <div class="field">
-          <label for="custName">Name</label>
-          <input id="custName" placeholder="Your full name" />
-        </div>
-        <div class="field">
-          <label for="custEmail">Email</label>
-          <input id="custEmail" placeholder="you@example.com" />
-        </div>
-        <div class="field">
-          <label for="custPhone">Phone</label>
-          <input id="custPhone" placeholder="(xxx) xxx-xxxx" />
-        </div>
-        <div class="field full">
-          <label>Selected Materials</label>
-          <div class="items-box" id="estimateItemsList"></div>
-        </div>
-        <div class="field full">
-          <label for="custNotes">Notes</label>
-          <textarea id="custNotes" rows="4" placeholder="Room sizes, timeline, removal/install needs, etc."></textarea>
+    <!-- ADU -->
+    <section id="adu" class="section two-col">
+      <div>
+        <h2>ADU Design & Build</h2>
+        <p>
+          Layout, permits, and finishes for income-producing or multigenerational
+          spaces—done right with expert craftsmanship.
+        </p>
+        <h3 class="mt">Real Estate Assistance</h3>
+        <p>
+          Pre-list refreshes and make-ready upgrades that maximize property value.
+        </p>
+      </div>
+      <div class="card highlight">
+        <div class="big-phone">
+          <a href="tel:18188001358">818.800.1358</a>
+          <small>Call/Text — Julian Jimenez</small>
+          <small><a class="email" href="mailto:JulianJimenez53@yahoo.com">JulianJimenez53@yahoo.com</a></small>
         </div>
       </div>
-      <footer>
-        <button class="btn" id="clearEstimateBtn" type="button">Clear</button>
-        <button class="btn" id="emailEstimateBtn" type="button">Send</button>
-      </footer>
-    </div>
-  </div>
+    </section>
+
+    <!-- Bottom CTA replaces old contact form -->
+    <section id="cta" class="section highlight">
+      <div class="big-phone">
+        <a class="btn" href="./catalog.html">Open Catalog & Send Estimate</a>
+        <small class="muted">Pick materials, add measurements & use, and send your estimate.</small>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===============================
+       FOOTER
+       =============================== -->
+  <footer class="site-footer">
+    <p>© <span id="year"></span> 365 Days Flooring · All rights reserved.</p>
+  </footer>
 </body>
 </html>
+

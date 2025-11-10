@@ -4,12 +4,111 @@
 // ==============================
 
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize catalog
+    // Initialize based on what page we're on
     if (document.getElementById('material-grid')) {
+        // We're on catalog page
         initializeCatalog();
+    } else if (document.querySelector('.splash')) {
+        // We're on homepage with splash
+        initializeHomepage();
     }
     setupFooter();
 });
+
+// ==============================
+// HOMEPAGE FUNCTIONALITY
+// ==============================
+
+function initializeHomepage() {
+    initializeSplash();
+    initializeSparks();
+}
+
+function initializeSplash() {
+    const splash = document.querySelector('.splash');
+    const siteHeader = document.querySelector('.site-header');
+    const site = document.querySelector('.site');
+    if (!splash) return;
+
+    setTimeout(() => {
+        splash.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+        splash.style.opacity = '0';
+        splash.style.transform = 'translateY(-8px) scale(0.98)';
+        splash.style.pointerEvents = 'none';
+        document.body.classList.add('enter');
+        if (siteHeader) {
+            siteHeader.style.transition = 'opacity 0.6s ease 0.2s, transform 0.7s ease 0.2s';
+            siteHeader.style.opacity = '1';
+            siteHeader.style.transform = 'translateY(0)';
+        }
+        if (site) {
+            site.style.transition = 'opacity 0.6s ease 0.3s, transform 0.7s ease 0.3s';
+            site.style.opacity = '1';
+            site.style.transform = 'translateY(0)';
+        }
+        setTimeout(() => { splash.style.display = 'none'; }, 1000);
+    }, 1500);
+}
+
+function initializeSparks() {
+    const canvas = document.getElementById('dust');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    let particles = [];
+    let animationId;
+
+    function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    }
+    resizeCanvas();
+    window.addEventListener('resize', resizeCanvas);
+
+    class Particle {
+        constructor() {
+            this.x = Math.random() * canvas.width;
+            this.y = Math.random() * canvas.height;
+            this.size = Math.random() * 3 + 1;
+            this.speedX = (Math.random() - 0.5) * 0.5;
+            this.speedY = (Math.random() - 0.5) * 0.5;
+            this.opacity = Math.random() * 0.8 + 0.2;
+            this.life = Math.random() * 300 + 100;
+            this.age = 0;
+        }
+        update() {
+            this.x += this.speedX;
+            this.y += this.speedY;
+            this.age++;
+            this.opacity = Math.max(0, 1 - (this.age / this.life));
+            if (this.x > canvas.width) this.x = 0;
+            if (this.x < 0) this.x = canvas.width;
+            if (this.y > canvas.height) this.y = 0;
+            if (this.y < 0) this.y = canvas.height;
+            return this.opacity > 0;
+        }
+        draw() {
+            ctx.save();
+            ctx.globalAlpha = this.opacity;
+            ctx.fillStyle = '#DAA520';
+            ctx.shadowBlur = 10;
+            ctx.shadowColor = '#DAA520';
+            ctx.beginPath();
+            ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.restore();
+        }
+    }
+
+    function createParticles() { for (let i = 0; i < 50; i++) particles.push(new Particle()); }
+    function animate() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        particles = particles.filter(p => { p.update(); p.draw(); return p.opacity > 0; });
+        if (Math.random() < 0.1 && particles.length < 60) particles.push(new Particle());
+        animationId = requestAnimationFrame(animate);
+    }
+    createParticles(); animate();
+    setTimeout(() => { if (animationId) cancelAnimationFrame(animationId); }, 4000);
+}
 
 // ==============================
 // CATALOG FUNCTIONALITY
