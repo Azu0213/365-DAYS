@@ -8,7 +8,7 @@
 # Temporary processing files
 extracted_photos/
 temp_images/
-*.tmp
+# Note: catalog/images/*.jpg files ARE tracked (needed for website)
 
 # Development files
 script-old.js

@@ -1,4412 +1,1702 @@
 [
   {
-    "id": "MAT001",
-    "name": "Gunstock Oak",
-    "collection": "Classic Series",
+    "id": "MAT-001",
+    "name": "Material 001",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT001_sample.jpg",
-      "label": "catalog/images/MAT001_label.jpg"
-    }
-  },
-  {
-    "id": "MAT002",
-    "name": "Natural Hickory",
-    "collection": "Modern Collection",
-    "type": "Laminate",
-    "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT002_sample.jpg",
-      "label": "catalog/images/MAT002_label.jpg"
-    }
-  },
-  {
-    "id": "MAT003",
-    "name": "Smokehouse Oak",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT003_sample.jpg",
-      "label": "catalog/images/MAT003_label.jpg"
-    }
-  },
-  {
-    "id": "MAT004",
-    "name": "Antique Cherry",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT004_sample.jpg",
-      "label": "catalog/images/MAT004_label.jpg"
-    }
-  },
-  {
-    "id": "MAT005",
-    "name": "Honeytone Maple",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT005_material_fixed.jpg",
-      "label": "catalog/images/MAT005_label.jpg"
-    }
-  },
-  {
-    "id": "MAT006",
-    "name": "Spice Cherry",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT006_material_fixed.jpg",
-      "label": "catalog/images/MAT006_label.jpg"
-    }
-  },
-  {
-    "id": "MAT007",
-    "name": "Coffee Bean",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_001_label.jpg",
+      "sample": "catalog/images/material_001_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-002",
+    "name": "Material 002",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT007_sample.jpg",
-      "label": "catalog/images/MAT007_label.jpg"
-    }
-  },
-  {
-    "id": "MAT008",
-    "name": "Saddle",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT008_sample.jpg",
-      "label": "catalog/images/MAT008_label.jpg"
-    }
-  },
-  {
-    "id": "MAT009",
-    "name": "Red Oak Natural",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT009_sample.jpg",
-      "label": "catalog/images/MAT009_label.jpg"
-    }
-  },
-  {
-    "id": "MAT010",
-    "name": "Butterscotch",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT010_sample.jpg",
-      "label": "catalog/images/MAT010_label.jpg"
-    }
-  },
-  {
-    "id": "MAT011",
-    "name": "Mocha",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT011_sample.jpg",
-      "label": "catalog/images/MAT011_label.jpg"
-    }
-  },
-  {
-    "id": "MAT012",
-    "name": "Provincial",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_002_label.jpg",
+      "sample": "catalog/images/material_002_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-003",
+    "name": "Material 003",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT012_sample.jpg",
-      "label": "catalog/images/MAT012_label.jpg"
-    }
-  },
-  {
-    "id": "MAT013",
-    "name": "Special Walnut",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT013_sample.jpg",
-      "label": "catalog/images/MAT013_label.jpg"
-    }
-  },
-  {
-    "id": "MAT014",
-    "name": "English Chestnut",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT014_sample.jpg",
-      "label": "catalog/images/MAT014_label.jpg"
-    }
-  },
-  {
-    "id": "MAT015",
-    "name": "Jacobean",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT015_sample.jpg",
-      "label": "catalog/images/MAT015_label.jpg"
-    }
-  },
-  {
-    "id": "MAT016",
-    "name": "Ebony",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT016_sample.jpg",
-      "label": "catalog/images/MAT016_label.jpg"
-    }
-  },
-  {
-    "id": "MAT017",
-    "name": "Classic Gray",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT017_sample.jpg",
-      "label": "catalog/images/MAT017_label.jpg"
-    }
-  },
-  {
-    "id": "MAT018",
-    "name": "Weathered Oak",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT018_material_fixed.jpg",
-      "label": "catalog/images/MAT018_label.jpg"
-    }
-  },
-  {
-    "id": "MAT019",
-    "name": "Aged Bark",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT019_sample.jpg",
-      "label": "catalog/images/MAT019_label.jpg"
+      "label": "catalog/images/material_003_label.jpg",
+      "sample": "catalog/images/material_003_sample.jpg"
     }
   },
   {
-    "id": "MAT020",
-    "name": "Driftwood",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT020_material_fixed.jpg",
-      "label": "catalog/images/MAT020_label.jpg"
-    }
-  },
-  {
-    "id": "MAT021",
-    "name": "Spice",
-    "collection": "Classic Series",
+    "id": "MAT-004",
+    "name": "Material 004",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT021_sample.jpg",
-      "label": "catalog/images/MAT021_label.jpg"
-    }
-  },
-  {
-    "id": "MAT022",
-    "name": "Classic Gray",
-    "collection": "Modern Collection",
-    "type": "Laminate",
-    "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT022_material_fixed.jpg",
-      "label": "catalog/images/MAT022_label.jpg"
-    }
-  },
-  {
-    "id": "MAT023",
-    "name": "Weathered Oak",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT023_sample.jpg",
-      "label": "catalog/images/MAT023_label.jpg"
-    }
-  },
-  {
-    "id": "MAT024",
-    "name": "Aged Bark",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT024_sample.jpg",
-      "label": "catalog/images/MAT024_label.jpg"
-    }
-  },
-  {
-    "id": "MAT025",
-    "name": "Driftwood",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT025_material_fixed.jpg",
-      "label": "catalog/images/MAT025_label.jpg"
-    }
-  },
-  {
-    "id": "MAT026",
-    "name": "Smokehouse",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT026_sample.jpg",
-      "label": "catalog/images/MAT026_label.jpg"
-    }
-  },
-  {
-    "id": "MAT027",
-    "name": "Antique Brown",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_004_label.jpg",
+      "sample": "catalog/images/material_004_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-005",
+    "name": "Material 005",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT027_sample.jpg",
-      "label": "catalog/images/MAT027_label.jpg"
-    }
-  },
-  {
-    "id": "MAT028",
-    "name": "Vintage",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT028_material_fixed.jpg",
-      "label": "catalog/images/MAT028_label.jpg"
-    }
-  },
-  {
-    "id": "MAT029",
-    "name": "Rustic",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT029_sample.jpg",
-      "label": "catalog/images/MAT029_label.jpg"
-    }
-  },
-  {
-    "id": "MAT030",
-    "name": "Distressed",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT030_sample.jpg",
-      "label": "catalog/images/MAT030_label.jpg"
-    }
-  },
-  {
-    "id": "MAT031",
-    "name": "Hand-Scraped",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT031_material_fixed.jpg",
-      "label": "catalog/images/MAT031_label.jpg"
-    }
-  },
-  {
-    "id": "MAT032",
-    "name": "Dark Natural Oak",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_005_label.jpg",
+      "sample": "catalog/images/material_005_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-006",
+    "name": "Material 006",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT032_material_fixed.jpg",
-      "label": "catalog/images/MAT032_label.jpg"
-    }
-  },
-  {
-    "id": "MAT033",
-    "name": "Dark Red Oak",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT033_material_fixed.jpg",
-      "label": "catalog/images/MAT033_label.jpg"
-    }
-  },
-  {
-    "id": "MAT034",
-    "name": "Dark White Oak",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT034_material_fixed.jpg",
-      "label": "catalog/images/MAT034_label.jpg"
-    }
-  },
-  {
-    "id": "MAT035",
-    "name": "Dark Hickory Natural",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT035_sample.jpg",
-      "label": "catalog/images/MAT035_label.jpg"
-    }
-  },
-  {
-    "id": "MAT036",
-    "name": "Dark Maple Natural",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT036_material_fixed.jpg",
-      "label": "catalog/images/MAT036_label.jpg"
-    }
-  },
-  {
-    "id": "MAT037",
-    "name": "Dark Cherry Natural",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_006_label.jpg",
+      "sample": "catalog/images/material_006_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-007",
+    "name": "Material 007",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT037_sample.jpg",
-      "label": "catalog/images/MAT037_label.jpg"
-    }
-  },
-  {
-    "id": "MAT038",
-    "name": "Dark Walnut Natural",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT038_material_fixed.jpg",
-      "label": "catalog/images/MAT038_label.jpg"
-    }
-  },
-  {
-    "id": "MAT039",
-    "name": "Dark Ash Natural",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT039_sample.jpg",
-      "label": "catalog/images/MAT039_label.jpg"
-    }
-  },
-  {
-    "id": "MAT040",
-    "name": "Dark Birch Natural",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT040_sample.jpg",
-      "label": "catalog/images/MAT040_label.jpg"
-    }
-  },
-  {
-    "id": "MAT041",
-    "name": "Dark Pine Natural",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT041_sample.jpg",
-      "label": "catalog/images/MAT041_label.jpg"
-    }
-  },
-  {
-    "id": "MAT042",
-    "name": "Dark Gunstock",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_007_label.jpg",
+      "sample": "catalog/images/material_007_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-008",
+    "name": "Material 008",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT042_sample.jpg",
-      "label": "catalog/images/MAT042_label.jpg"
-    }
-  },
-  {
-    "id": "MAT043",
-    "name": "Dark Provincial",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT043_sample.jpg",
-      "label": "catalog/images/MAT043_label.jpg"
-    }
-  },
-  {
-    "id": "MAT044",
-    "name": "Dark Special Walnut",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT044_sample.jpg",
-      "label": "catalog/images/MAT044_label.jpg"
-    }
-  },
-  {
-    "id": "MAT045",
-    "name": "Dark English Chestnut",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT045_sample.jpg",
-      "label": "catalog/images/MAT045_label.jpg"
-    }
-  },
-  {
-    "id": "MAT046",
-    "name": "Dark Jacobean",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT046_sample.jpg",
-      "label": "catalog/images/MAT046_label.jpg"
-    }
-  },
-  {
-    "id": "MAT047",
-    "name": "Dark Ebony",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_008_label.jpg",
+      "sample": "catalog/images/material_008_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-009",
+    "name": "Material 009",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT047_sample.jpg",
-      "label": "catalog/images/MAT047_label.jpg"
-    }
-  },
-  {
-    "id": "MAT048",
-    "name": "Dark Coffee Bean",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT048_sample.jpg",
-      "label": "catalog/images/MAT048_label.jpg"
-    }
-  },
-  {
-    "id": "MAT049",
-    "name": "Dark Saddle",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT049_sample.jpg",
-      "label": "catalog/images/MAT049_label.jpg"
-    }
-  },
-  {
-    "id": "MAT050",
-    "name": "Dark Butterscotch",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT050_sample.jpg",
-      "label": "catalog/images/MAT050_label.jpg"
-    }
-  },
-  {
-    "id": "MAT051",
-    "name": "Dark Honeytone",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT051_sample.jpg",
-      "label": "catalog/images/MAT051_label.jpg"
-    }
-  },
-  {
-    "id": "MAT052",
-    "name": "Dark Spice",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_009_label.jpg",
+      "sample": "catalog/images/material_009_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-010",
+    "name": "Material 010",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT052_sample.jpg",
-      "label": "catalog/images/MAT052_label.jpg"
-    }
-  },
-  {
-    "id": "MAT053",
-    "name": "Dark Classic Gray",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT053_sample.jpg",
-      "label": "catalog/images/MAT053_label.jpg"
-    }
-  },
-  {
-    "id": "MAT054",
-    "name": "Dark Weathered Oak",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT054_sample.jpg",
-      "label": "catalog/images/MAT054_sample.jpg"
-    }
-  },
-  {
-    "id": "MAT055",
-    "name": "Dark Aged Bark",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT055_sample.jpg",
-      "label": "catalog/images/MAT055_label.jpg"
-    }
-  },
-  {
-    "id": "MAT056",
-    "name": "Dark Driftwood",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT056_sample.jpg",
-      "label": "catalog/images/MAT056_sample.jpg"
-    }
-  },
-  {
-    "id": "MAT057",
-    "name": "Dark Smokehouse",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_010_label.jpg",
+      "sample": "catalog/images/material_010_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-011",
+    "name": "Material 011",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT057_sample.jpg",
-      "label": "catalog/images/MAT057_label.jpg"
-    }
-  },
-  {
-    "id": "MAT058",
-    "name": "Dark Antique Brown",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT058_sample.jpg",
-      "label": "catalog/images/MAT058_label.jpg"
-    }
-  },
-  {
-    "id": "MAT059",
-    "name": "Dark Vintage",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT059_sample.jpg",
-      "label": "catalog/images/MAT059_label.jpg"
-    }
-  },
-  {
-    "id": "MAT060",
-    "name": "Dark Rustic",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT060_sample.jpg",
-      "label": "catalog/images/MAT060_label.jpg"
-    }
-  },
-  {
-    "id": "MAT061",
-    "name": "Dark Distressed",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT061_sample.jpg",
-      "label": "catalog/images/MAT061_label.jpg"
-    }
-  },
-  {
-    "id": "MAT062",
-    "name": "Dark Hand-Scraped",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_011_label.jpg",
+      "sample": "catalog/images/material_011_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-012",
+    "name": "Material 012",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT062_sample.jpg",
-      "label": "catalog/images/MAT062_label.jpg"
-    }
-  },
-  {
-    "id": "MAT063",
-    "name": "Light Natural Oak",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT063_sample.jpg",
-      "label": "catalog/images/MAT063_label.jpg"
-    }
-  },
-  {
-    "id": "MAT064",
-    "name": "Light Red Oak",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT064_sample.jpg",
-      "label": "catalog/images/MAT064_label.jpg"
-    }
-  },
-  {
-    "id": "MAT065",
-    "name": "Light White Oak",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT065_sample.jpg",
-      "label": "catalog/images/MAT065_label.jpg"
-    }
-  },
-  {
-    "id": "MAT066",
-    "name": "Light Hickory Natural",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT066_sample.jpg",
-      "label": "catalog/images/MAT066_label.jpg"
-    }
-  },
-  {
-    "id": "MAT067",
-    "name": "Light Maple Natural",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_012_label.jpg",
+      "sample": "catalog/images/material_012_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-013",
+    "name": "Material 013",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT067_sample.jpg",
-      "label": "catalog/images/MAT067_label.jpg"
-    }
-  },
-  {
-    "id": "MAT068",
-    "name": "Light Cherry Natural",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT068_sample.jpg",
-      "label": "catalog/images/MAT068_label.jpg"
-    }
-  },
-  {
-    "id": "MAT069",
-    "name": "Light Walnut Natural",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT069_sample.jpg",
-      "label": "catalog/images/MAT069_label.jpg"
-    }
-  },
-  {
-    "id": "MAT070",
-    "name": "Light Ash Natural",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT070_sample.jpg",
-      "label": "catalog/images/MAT070_label.jpg"
-    }
-  },
-  {
-    "id": "MAT071",
-    "name": "Light Birch Natural",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT071_sample.jpg",
-      "label": "catalog/images/MAT071_label.jpg"
-    }
-  },
-  {
-    "id": "MAT072",
-    "name": "Light Pine Natural",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_013_label.jpg",
+      "sample": "catalog/images/material_013_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-014",
+    "name": "Material 014",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT072_sample.jpg",
-      "label": "catalog/images/MAT072_label.jpg"
-    }
-  },
-  {
-    "id": "MAT073",
-    "name": "Light Gunstock",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT073_sample.jpg",
-      "label": "catalog/images/MAT073_label.jpg"
-    }
-  },
-  {
-    "id": "MAT074",
-    "name": "Light Provincial",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT074_sample.jpg",
-      "label": "catalog/images/MAT074_label.jpg"
-    }
-  },
-  {
-    "id": "MAT075",
-    "name": "Light Special Walnut",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT075_sample.jpg",
-      "label": "catalog/images/MAT075_label.jpg"
-    }
-  },
-  {
-    "id": "MAT076",
-    "name": "Light English Chestnut",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT076_sample.jpg",
-      "label": "catalog/images/MAT076_label.jpg"
-    }
-  },
-  {
-    "id": "MAT077",
-    "name": "Light Jacobean",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_014_label.jpg",
+      "sample": "catalog/images/material_014_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-015",
+    "name": "Material 015",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT077_sample.jpg",
-      "label": "catalog/images/MAT077_label.jpg"
-    }
-  },
-  {
-    "id": "MAT078",
-    "name": "Light Ebony",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT078_sample.jpg",
-      "label": "catalog/images/MAT078_label.jpg"
-    }
-  },
-  {
-    "id": "MAT079",
-    "name": "Light Coffee Bean",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT079_sample.jpg",
-      "label": "catalog/images/MAT079_label.jpg"
-    }
-  },
-  {
-    "id": "MAT080",
-    "name": "Light Saddle",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT080_sample.jpg",
-      "label": "catalog/images/MAT080_label.jpg"
-    }
-  },
-  {
-    "id": "MAT081",
-    "name": "Light Butterscotch",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT081_sample.jpg",
-      "label": "catalog/images/MAT081_label.jpg"
-    }
-  },
-  {
-    "id": "MAT082",
-    "name": "Light Honeytone",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_015_label.jpg",
+      "sample": "catalog/images/material_015_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-016",
+    "name": "Material 016",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT082_sample.jpg",
-      "label": "catalog/images/MAT082_label.jpg"
-    }
-  },
-  {
-    "id": "MAT083",
-    "name": "Light Spice",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT083_material_fixed.jpg",
-      "label": "catalog/images/MAT083_label.jpg"
-    }
-  },
-  {
-    "id": "MAT084",
-    "name": "Light Classic Gray",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT084_sample.jpg",
-      "label": "catalog/images/MAT084_label.jpg"
-    }
-  },
-  {
-    "id": "MAT085",
-    "name": "Light Weathered Oak",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT085_sample.jpg",
-      "label": "catalog/images/MAT085_label.jpg"
-    }
-  },
-  {
-    "id": "MAT172",
-    "name": "Coffee Bean 5",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT172_sample.jpg",
-      "label": "catalog/images/MAT172_label.jpg"
-    }
-  },
-  {
-    "id": "MAT173",
-    "name": "Saddle 5",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_016_label.jpg",
+      "sample": "catalog/images/material_016_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-017",
+    "name": "Material 017",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT173_material_fixed.jpg",
-      "label": "catalog/images/MAT173_label.jpg"
-    }
-  },
-  {
-    "id": "MAT174",
-    "name": "Butterscotch 5",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT174_material_fixed.jpg",
-      "label": "catalog/images/MAT174_label.jpg"
-    }
-  },
-  {
-    "id": "MAT175",
-    "name": "Honeytone 5",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT175_material_fixed.jpg",
-      "label": "catalog/images/MAT175_label.jpg"
-    }
-  },
-  {
-    "id": "MAT176",
-    "name": "Twilight Grey",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT176_sample.jpg",
-      "label": "catalog/images/MAT176_label.jpg"
-    }
-  },
-  {
-    "id": "MAT177",
-    "name": "Dawn Light",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT177_material_fixed.jpg",
-      "label": "catalog/images/MAT177_label.jpg"
-    }
-  },
-  {
-    "id": "MAT178",
-    "name": "Moonbeam",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_017_label.jpg",
+      "sample": "catalog/images/material_017_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-018",
+    "name": "Material 018",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT178_sample.jpg",
-      "label": "catalog/images/MAT178_label.jpg"
-    }
-  },
-  {
-    "id": "MAT179",
-    "name": "Forest Floor",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT179_sample.jpg",
-      "label": "catalog/images/MAT179_label.jpg"
-    }
-  },
-  {
-    "id": "MAT180",
-    "name": "River Rock",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT180_sample.jpg",
-      "label": "catalog/images/MAT180_label.jpg"
-    }
-  },
-  {
-    "id": "MAT181",
-    "name": "Mountain Peak",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT181_sample.jpg",
-      "label": "catalog/images/MAT181_label.jpg"
-    }
-  },
-  {
-    "id": "MAT182",
-    "name": "Valley Oak",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT182_sample.jpg",
-      "label": "catalog/images/MAT182_label.jpg"
-    }
-  },
-  {
-    "id": "MAT183",
-    "name": "Prairie Wheat",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT183_sample.jpg",
-      "label": "catalog/images/MAT183_label.jpg"
-    }
-  },
-  {
-    "id": "MAT184",
-    "name": "Meadow Grass",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT184_sample.jpg",
-      "label": "catalog/images/MAT184_label.jpg"
-    }
-  },
-  {
-    "id": "MAT185",
-    "name": "Ocean Breeze",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT185_sample.jpg",
-      "label": "catalog/images/MAT185_label.jpg"
+      "label": "catalog/images/material_018_label.jpg",
+      "sample": "catalog/images/material_018_sample.jpg"
     }
   },
   {
-    "id": "MAT186",
-    "name": "Lake Shore",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT186_sample.jpg",
-      "label": "catalog/images/MAT186_label.jpg"
-    }
-  },
-  {
-    "id": "MAT187",
-    "name": "Country Cottage",
-    "collection": "Classic Series",
+    "id": "MAT-019",
+    "name": "Material 019",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT187_sample.jpg",
-      "label": "catalog/images/MAT187_label.jpg"
-    }
-  },
-  {
-    "id": "MAT188",
-    "name": "Urban Loft",
-    "collection": "Modern Collection",
-    "type": "Laminate",
-    "specifications": {
-      "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT188_sample.jpg",
-      "label": "catalog/images/MAT188_label.jpg"
-    }
-  },
-  {
-    "id": "MAT189",
-    "name": "Modern Metro",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT189_sample.jpg",
-      "label": "catalog/images/MAT189_label.jpg"
-    }
-  },
-  {
-    "id": "MAT190",
-    "name": "Classic Estate",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT190_sample.jpg",
-      "label": "catalog/images/MAT190_label.jpg"
-    }
-  },
-  {
-    "id": "MAT191",
-    "name": "Executive Suite",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT191_sample.jpg",
-      "label": "catalog/images/MAT191_label.jpg"
-    }
-  },
-  {
-    "id": "MAT192",
-    "name": "Designer Choice",
-    "collection": "Classic Series",
-    "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT192_sample.jpg",
-      "label": "catalog/images/MAT192_label.jpg"
-    }
-  },
-  {
-    "id": "MAT193",
-    "name": "Architect Select",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT193_sample.jpg",
-      "label": "catalog/images/MAT193_label.jpg"
-    }
-  },
-  {
-    "id": "MAT194",
-    "name": "Builder Grade",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT194_sample.jpg",
-      "label": "catalog/images/MAT194_label.jpg"
-    }
-  },
-  {
-    "id": "MAT195",
-    "name": "Residential Plus",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT195_sample.jpg",
-      "label": "catalog/images/MAT195_label.jpg"
+      "label": "catalog/images/material_019_label.jpg",
+      "sample": "catalog/images/material_019_sample.jpg"
     }
   },
   {
-    "id": "MAT196",
-    "name": "Commercial Pro",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT196_sample.jpg",
-      "label": "catalog/images/MAT196_label.jpg"
-    }
-  },
-  {
-    "id": "MAT197",
-    "name": "Luxury Collection",
-    "collection": "Classic Series",
+    "id": "MAT-020",
+    "name": "Material 020",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT197_sample.jpg",
-      "label": "catalog/images/MAT197_label.jpg"
-    }
-  },
-  {
-    "id": "MAT198",
-    "name": "Premium Select",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT198_sample.jpg",
-      "label": "catalog/images/MAT198_label.jpg"
-    }
-  },
-  {
-    "id": "MAT199",
-    "name": "Sandcastle Beige",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT199_sample.jpg",
-      "label": "catalog/images/MAT199_label.jpg"
-    }
-  },
-  {
-    "id": "MAT200",
-    "name": "Dune Grass",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT200_sample.jpg",
-      "label": "catalog/images/MAT200_label.jpg"
+      "label": "catalog/images/material_020_label.jpg",
+      "sample": "catalog/images/material_020_sample.jpg"
     }
   },
   {
-    "id": "MAT201",
-    "name": "Seashell White",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT201_material_fixed.jpg",
-      "label": "catalog/images/MAT201_label.jpg"
-    }
-  },
-  {
-    "id": "MAT202",
-    "name": "Coral Reef",
-    "collection": "Classic Series",
+    "id": "MAT-021",
+    "name": "Material 021",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT202_sample.jpg",
-      "label": "catalog/images/MAT202_label.jpg"
-    }
-  },
-  {
-    "id": "MAT203",
-    "name": "Tropical Tan",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT203_sample.jpg",
-      "label": "catalog/images/MAT203_label.jpg"
-    }
-  },
-  {
-    "id": "MAT204",
-    "name": "Island Breeze",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT204_material_fixed.jpg",
-      "label": "catalog/images/MAT204_label.jpg"
-    }
-  },
-  {
-    "id": "MAT205",
-    "name": "Sunset Beach",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT205_material_fixed.jpg",
-      "label": "catalog/images/MAT205_label.jpg"
+      "label": "catalog/images/material_021_label.jpg",
+      "sample": "catalog/images/material_021_sample.jpg"
     }
   },
   {
-    "id": "MAT206",
-    "name": "Ocean Foam",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT206_sample.jpg",
-      "label": "catalog/images/MAT206_label.jpg"
-    }
-  },
-  {
-    "id": "MAT207",
-    "name": "Mountain Lodge",
-    "collection": "Classic Series",
+    "id": "MAT-022",
+    "name": "Material 022",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT207_sample.jpg",
-      "label": "catalog/images/MAT207_label.jpg"
-    }
-  },
-  {
-    "id": "MAT208",
-    "name": "Alpine Pine",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT208_sample.jpg",
-      "label": "catalog/images/MAT208_label.jpg"
-    }
-  },
-  {
-    "id": "MAT209",
-    "name": "Glacier White",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT209_sample.jpg",
-      "label": "catalog/images/MAT209_label.jpg"
-    }
-  },
-  {
-    "id": "MAT210",
-    "name": "Summit Grey",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
     "images": {
-      "sample": "catalog/images/MAT210_sample.jpg",
-      "label": "catalog/images/MAT210_label.jpg"
+      "label": "catalog/images/material_022_label.jpg",
+      "sample": "catalog/images/material_022_sample.jpg"
     }
   },
   {
-    "id": "MAT211",
-    "name": "Valley Mist",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT211_sample.jpg",
-      "label": "catalog/images/MAT211_label.jpg"
-    }
-  },
-  {
-    "id": "MAT212",
-    "name": "Meadow Brook",
-    "collection": "Classic Series",
+    "id": "MAT-023",
+    "name": "Material 023",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT212_sample.jpg",
-      "label": "catalog/images/MAT212_label.jpg"
-    }
-  },
-  {
-    "id": "MAT213",
-    "name": "Forest Green",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT213_material_fixed.jpg",
-      "label": "catalog/images/MAT213_label.jpg"
-    }
-  },
-  {
-    "id": "MAT214",
-    "name": "Autumn Leaves",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT214_material_fixed.jpg",
-      "label": "catalog/images/MAT214_label.jpg"
-    }
-  },
-  {
-    "id": "MAT215",
-    "name": "Winter White",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Traditional",
     "images": {
-      "sample": "catalog/images/MAT215_material_fixed.jpg",
-      "label": "catalog/images/MAT215_label.jpg"
+      "label": "catalog/images/material_023_label.jpg",
+      "sample": "catalog/images/material_023_sample.jpg"
     }
   },
   {
-    "id": "MAT216",
-    "name": "Spring Rain",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT216_sample.jpg",
-      "label": "catalog/images/MAT216_label.jpg"
-    }
-  },
-  {
-    "id": "MAT217",
-    "name": "Summer Sun",
-    "collection": "Classic Series",
+    "id": "MAT-024",
+    "name": "Material 024",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT217_sample.jpg",
-      "label": "catalog/images/MAT217_label.jpg"
-    }
-  },
-  {
-    "id": "MAT218",
-    "name": "Fall Harvest",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT218_sample.jpg",
-      "label": "catalog/images/MAT218_label.jpg"
-    }
-  },
-  {
-    "id": "MAT219",
-    "name": "Morning Glory",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT219_sample.jpg",
-      "label": "catalog/images/MAT219_label.jpg"
-    }
-  },
-  {
-    "id": "MAT220",
-    "name": "Evening Star",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT220_sample.jpg",
-      "label": "catalog/images/MAT220_label.jpg"
+      "label": "catalog/images/material_024_label.jpg",
+      "sample": "catalog/images/material_024_sample.jpg"
     }
   },
   {
-    "id": "MAT221",
-    "name": "Midnight Moon",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT221_sample.jpg",
-      "label": "catalog/images/MAT221_label.jpg"
-    }
-  },
-  {
-    "id": "MAT222",
-    "name": "Dawn Break",
-    "collection": "Classic Series",
+    "id": "MAT-025",
+    "name": "Material 025",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT222_sample.jpg",
-      "label": "catalog/images/MAT222_label.jpg"
-    }
-  },
-  {
-    "id": "MAT223",
-    "name": "Twilight Hour",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT223_sample.jpg",
-      "label": "catalog/images/MAT223_label.jpg"
-    }
-  },
-  {
-    "id": "MAT224",
-    "name": "Sunset Glow",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT224_sample.jpg",
-      "label": "catalog/images/MAT224_label.jpg"
-    }
-  },
-  {
-    "id": "MAT225",
-    "name": "Moonlight Bay",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT225_sample.jpg",
-      "label": "catalog/images/MAT225_label.jpg"
+      "label": "catalog/images/material_025_label.jpg",
+      "sample": "catalog/images/material_025_sample.jpg"
     }
   },
   {
-    "id": "MAT226",
-    "name": "Starlight Silver",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT226_sample.jpg",
-      "label": "catalog/images/MAT226_label.jpg"
-    }
-  },
-  {
-    "id": "MAT227",
-    "name": "Rich Maple 140",
-    "collection": "Classic Series",
+    "id": "MAT-026",
+    "name": "Material 026",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT227_sample.jpg",
-      "label": "catalog/images/MAT227_label.jpg"
-    }
-  },
-  {
-    "id": "MAT228",
-    "name": "Warm Walnut 141",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT228_sample.jpg",
-      "label": "catalog/images/MAT228_label.jpg"
-    }
-  },
-  {
-    "id": "MAT229",
-    "name": "Cool Cherry 142",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT229_sample.jpg",
-      "label": "catalog/images/MAT229_label.jpg"
-    }
-  },
-  {
-    "id": "MAT230",
-    "name": "Deep Birch 143",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT230_sample.jpg",
-      "label": "catalog/images/MAT230_label.jpg"
+      "label": "catalog/images/material_026_label.jpg",
+      "sample": "catalog/images/material_026_sample.jpg"
     }
   },
   {
-    "id": "MAT231",
-    "name": "Light Oak 144",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT231_sample.jpg",
-      "label": "catalog/images/MAT231_label.jpg"
-    }
-  },
-  {
-    "id": "MAT232",
-    "name": "Medium Pine 145",
-    "collection": "Classic Series",
+    "id": "MAT-027",
+    "name": "Material 027",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT232_sample.jpg",
-      "label": "catalog/images/MAT232_label.jpg"
-    }
-  },
-  {
-    "id": "MAT233",
-    "name": "Dark Maple 146",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT233_sample.jpg",
-      "label": "catalog/images/MAT233_label.jpg"
-    }
-  },
-  {
-    "id": "MAT234",
-    "name": "Rich Walnut 147",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT234_sample.jpg",
-      "label": "catalog/images/MAT234_label.jpg"
-    }
-  },
-  {
-    "id": "MAT235",
-    "name": "Warm Cherry 148",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT235_sample.jpg",
-      "label": "catalog/images/MAT235_label.jpg"
+      "label": "catalog/images/material_027_label.jpg",
+      "sample": "catalog/images/material_027_sample.jpg"
     }
   },
   {
-    "id": "MAT236",
-    "name": "Cool Birch 149",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT236_sample.jpg",
-      "label": "catalog/images/MAT236_label.jpg"
-    }
-  },
-  {
-    "id": "MAT237",
-    "name": "Deep Oak 150",
-    "collection": "Classic Series",
+    "id": "MAT-028",
+    "name": "Material 028",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT237_sample.jpg",
-      "label": "catalog/images/MAT237_label.jpg"
-    }
-  },
-  {
-    "id": "MAT238",
-    "name": "Light Pine 151",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT238_material_fixed.jpg",
-      "label": "catalog/images/MAT238_label.jpg"
-    }
-  },
-  {
-    "id": "MAT239",
-    "name": "Medium Maple 152",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT239_sample.jpg",
-      "label": "catalog/images/MAT239_label.jpg"
-    }
-  },
-  {
-    "id": "MAT240",
-    "name": "Dark Walnut 153",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT240_material_fixed.jpg",
-      "label": "catalog/images/MAT240_label.jpg"
+      "label": "catalog/images/material_028_label.jpg",
+      "sample": "catalog/images/material_028_sample.jpg"
     }
   },
   {
-    "id": "MAT241",
-    "name": "Rich Cherry 154",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT241_material_fixed.jpg",
-      "label": "catalog/images/MAT241_label.jpg"
-    }
-  },
-  {
-    "id": "MAT242",
-    "name": "Warm Birch 155",
-    "collection": "Classic Series",
+    "id": "MAT-029",
+    "name": "Material 029",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT242_material_fixed.jpg",
-      "label": "catalog/images/MAT242_label.jpg"
-    }
-  },
-  {
-    "id": "MAT243",
-    "name": "Cool Oak 156",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT243_material_fixed.jpg",
-      "label": "catalog/images/MAT243_label.jpg"
-    }
-  },
-  {
-    "id": "MAT244",
-    "name": "Deep Pine 157",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Rustic",
-    "images": {
-      "sample": "catalog/images/MAT244_sample.jpg",
-      "label": "catalog/images/MAT244_label.jpg"
-    }
-  },
-  {
-    "id": "MAT245",
-    "name": "Light Maple 158",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT245_material_fixed.jpg",
-      "label": "catalog/images/MAT245_label.jpg"
+      "label": "catalog/images/material_029_label.jpg",
+      "sample": "catalog/images/material_029_sample.jpg"
     }
   },
   {
-    "id": "MAT246",
-    "name": "Medium Walnut 159",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT246_material_fixed.jpg",
-      "label": "catalog/images/MAT246_label.jpg"
-    }
-  },
-  {
-    "id": "MAT247",
-    "name": "Dark Cherry 160",
-    "collection": "Classic Series",
+    "id": "MAT-030",
+    "name": "Material 030",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Traditional",
-    "images": {
-      "sample": "catalog/images/MAT247_material_fixed.jpg",
-      "label": "catalog/images/MAT247_label.jpg"
-    }
-  },
-  {
-    "id": "MAT248",
-    "name": "Rich Birch 161",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT248_material_fixed.jpg",
-      "label": "catalog/images/MAT248_label.jpg"
-    }
-  },
-  {
-    "id": "MAT249",
-    "name": "Warm Oak 162",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT249_sample.jpg",
-      "label": "catalog/images/MAT249_label.jpg"
-    }
-  },
-  {
-    "id": "MAT250",
-    "name": "Cool Pine 163",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT250_sample.jpg",
-      "label": "catalog/images/MAT250_label.jpg"
+      "label": "catalog/images/material_030_label.jpg",
+      "sample": "catalog/images/material_030_sample.jpg"
     }
   },
   {
-    "id": "MAT251",
-    "name": "Deep Maple 164",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT251_sample.jpg",
-      "label": "catalog/images/MAT251_label.jpg"
-    }
-  },
-  {
-    "id": "MAT252",
-    "name": "Light Walnut 165",
-    "collection": "Classic Series",
+    "id": "MAT-031",
+    "name": "Material 031",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT252_sample.jpg",
-      "label": "catalog/images/MAT252_label.jpg"
-    }
-  },
-  {
-    "id": "MAT253",
-    "name": "Medium Cherry 166",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT253_sample.jpg",
-      "label": "catalog/images/MAT253_label.jpg"
-    }
-  },
-  {
-    "id": "MAT254",
-    "name": "Dark Birch 167",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
-    "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT254_sample.jpg",
-      "label": "catalog/images/MAT254_label.jpg"
-    }
-  },
-  {
-    "id": "MAT255",
-    "name": "Rich Oak 168",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT255_sample.jpg",
-      "label": "catalog/images/MAT255_label.jpg"
+      "label": "catalog/images/material_031_label.jpg",
+      "sample": "catalog/images/material_031_sample.jpg"
     }
   },
   {
-    "id": "MAT256",
-    "name": "Warm Pine 169",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
-    },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT256_sample.jpg",
-      "label": "catalog/images/MAT256_label.jpg"
-    }
-  },
-  {
-    "id": "MAT257",
-    "name": "Cool Maple 170",
-    "collection": "Classic Series",
+    "id": "MAT-032",
+    "name": "Material 032",
+    "collection": "365 Days Collection",
     "type": "Luxury Vinyl Plank",
-    "specifications": {
-      "thickness": "6mm",
-      "wear_layer": "20 mil",
-      "core": "SPC Stone Polymer Core",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Residential",
-      "finish": "Aluminum Oxide",
-      "texture": "Embossed in Register"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty"
-    ],
-    "style": "Classic",
-    "images": {
-      "sample": "catalog/images/MAT257_sample.jpg",
-      "label": "catalog/images/MAT257_label.jpg"
-    }
-  },
-  {
-    "id": "MAT258",
-    "name": "Deep Walnut 171",
-    "collection": "Modern Collection",
-    "type": "Laminate",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
       "thickness": "8mm",
-      "wear_layer": "AC4 Commercial Grade",
-      "core": "High Density Fiberboard",
-      "installation": "Click-Lock",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Textured",
-      "texture": "Embossed"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
+    "images": {
+      "label": "catalog/images/material_032_label.jpg",
+      "sample": "catalog/images/material_032_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-033",
+    "name": "Material 033",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
     "style": "Modern",
-    "images": {
-      "sample": "catalog/images/MAT258_sample.jpg",
-      "label": "catalog/images/MAT258_label.jpg"
-    }
-  },
-  {
-    "id": "MAT259",
-    "name": "Light Cherry 172",
-    "collection": "Premium Line",
-    "type": "SPC Flooring",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
-      "thickness": "7mm",
-      "wear_layer": "22 mil",
-      "core": "Stone Polymer Composite",
-      "installation": "Click-Lock",
-      "waterproof": true,
-      "warranty": "Lifetime Commercial",
-      "finish": "Urethane with Aluminum Oxide",
-      "texture": "Deep Embossed"
-    },
-    "features": [
-      "100% Waterproof",
-      "Lifetime Warranty",
-      "Commercial Grade"
-    ],
-    "style": "Versatile",
-    "images": {
-      "sample": "catalog/images/MAT259_sample.jpg",
-      "label": "catalog/images/MAT259_label.jpg"
-    }
-  },
-  {
-    "id": "MAT260",
-    "name": "Medium Birch 173",
-    "collection": "Signature Collection",
-    "type": "Engineered Wood",
-    "specifications": {
-      "thickness": "6mm",
+      "thickness": "8mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Rustic",
     "images": {
-      "sample": "catalog/images/MAT260_sample.jpg",
-      "label": "catalog/images/MAT260_label.jpg"
+      "label": "catalog/images/material_033_label.jpg",
+      "sample": "catalog/images/material_033_sample.jpg"
     }
   },
   {
-    "id": "MAT261",
-    "name": "Dark Oak 174",
-    "collection": "Elite Series",
-    "type": "Vinyl Tile",
+    "id": "MAT-034",
+    "name": "Material 034",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
     "specifications": {
-      "thickness": "6mm",
+      "thickness": "8mm",
       "wear_layer": "20 mil",
-      "core": "Premium Core",
-      "installation": "Click-Lock",
+      "core": "SPC Core",
       "waterproof": true,
-      "warranty": "25 Year Residential",
-      "finish": "Durable Finish",
-      "texture": "Textured"
+      "installation": "Click-Lock"
     },
-    "features": [
-      "100% Waterproof",
-      "25 Year Warranty"
-    ],
-    "style": "Versatile",
     "images": {
-      "sample": "catalog/images/MAT261_sample.jpg",
-      "label": "catalog/images/MAT261_label.jpg"
+      "label": "catalog/images/material_034_label.jpg",
+      "sample": "catalog/images/material_034_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-035",
+    "name": "Material 035",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_035_label.jpg",
+      "sample": "catalog/images/material_035_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-036",
+    "name": "Material 036",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_036_label.jpg",
+      "sample": "catalog/images/material_036_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-037",
+    "name": "Material 037",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_037_label.jpg",
+      "sample": "catalog/images/material_037_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-038",
+    "name": "Material 038",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_038_label.jpg",
+      "sample": "catalog/images/material_038_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-039",
+    "name": "Material 039",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_039_label.jpg",
+      "sample": "catalog/images/material_039_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-040",
+    "name": "Material 040",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_040_label.jpg",
+      "sample": "catalog/images/material_040_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-041",
+    "name": "Material 041",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_041_label.jpg",
+      "sample": "catalog/images/material_041_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-042",
+    "name": "Material 042",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_042_label.jpg",
+      "sample": "catalog/images/material_042_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-043",
+    "name": "Material 043",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_043_label.jpg",
+      "sample": "catalog/images/material_043_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-044",
+    "name": "Material 044",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_044_label.jpg",
+      "sample": "catalog/images/material_044_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-045",
+    "name": "Material 045",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_045_label.jpg",
+      "sample": "catalog/images/material_045_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-046",
+    "name": "Material 046",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_046_label.jpg",
+      "sample": "catalog/images/material_046_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-047",
+    "name": "Material 047",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_047_label.jpg",
+      "sample": "catalog/images/material_047_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-048",
+    "name": "Material 048",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_048_label.jpg",
+      "sample": "catalog/images/material_048_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-049",
+    "name": "Material 049",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_049_label.jpg",
+      "sample": "catalog/images/material_049_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-050",
+    "name": "Material 050",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_050_label.jpg",
+      "sample": "catalog/images/material_050_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-051",
+    "name": "Material 051",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_051_label.jpg",
+      "sample": "catalog/images/material_051_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-052",
+    "name": "Material 052",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_052_label.jpg",
+      "sample": "catalog/images/material_052_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-053",
+    "name": "Material 053",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_053_label.jpg",
+      "sample": "catalog/images/material_053_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-054",
+    "name": "Material 054",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_054_label.jpg",
+      "sample": "catalog/images/material_054_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-055",
+    "name": "Material 055",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_055_label.jpg",
+      "sample": "catalog/images/material_055_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-056",
+    "name": "Material 056",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_056_label.jpg",
+      "sample": "catalog/images/material_056_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-057",
+    "name": "Material 057",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_057_label.jpg",
+      "sample": "catalog/images/material_057_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-058",
+    "name": "Material 058",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_058_label.jpg",
+      "sample": "catalog/images/material_058_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-059",
+    "name": "Material 059",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_059_label.jpg",
+      "sample": "catalog/images/material_059_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-060",
+    "name": "Material 060",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_060_label.jpg",
+      "sample": "catalog/images/material_060_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-061",
+    "name": "Material 061",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_061_label.jpg",
+      "sample": "catalog/images/material_061_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-062",
+    "name": "Material 062",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_062_label.jpg",
+      "sample": "catalog/images/material_062_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-063",
+    "name": "Material 063",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_063_label.jpg",
+      "sample": "catalog/images/material_063_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-064",
+    "name": "Material 064",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_064_label.jpg",
+      "sample": "catalog/images/material_064_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-065",
+    "name": "Material 065",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_065_label.jpg",
+      "sample": "catalog/images/material_065_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-066",
+    "name": "Material 066",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_066_label.jpg",
+      "sample": "catalog/images/material_066_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-067",
+    "name": "Material 067",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_067_label.jpg",
+      "sample": "catalog/images/material_067_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-068",
+    "name": "Material 068",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_068_label.jpg",
+      "sample": "catalog/images/material_068_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-069",
+    "name": "Material 069",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_069_label.jpg",
+      "sample": "catalog/images/material_069_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-070",
+    "name": "Material 070",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_070_label.jpg",
+      "sample": "catalog/images/material_070_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-071",
+    "name": "Material 071",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_071_label.jpg",
+      "sample": "catalog/images/material_071_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-072",
+    "name": "Material 072",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_072_label.jpg",
+      "sample": "catalog/images/material_072_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-073",
+    "name": "Material 073",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_073_label.jpg",
+      "sample": "catalog/images/material_073_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-074",
+    "name": "Material 074",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_074_label.jpg",
+      "sample": "catalog/images/material_074_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-075",
+    "name": "Material 075",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_075_label.jpg",
+      "sample": "catalog/images/material_075_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-076",
+    "name": "Material 076",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_076_label.jpg",
+      "sample": "catalog/images/material_076_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-077",
+    "name": "Material 077",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_077_label.jpg",
+      "sample": "catalog/images/material_077_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-078",
+    "name": "Material 078",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_078_label.jpg",
+      "sample": "catalog/images/material_078_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-079",
+    "name": "Material 079",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_079_label.jpg",
+      "sample": "catalog/images/material_079_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-080",
+    "name": "Material 080",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_080_label.jpg",
+      "sample": "catalog/images/material_080_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-081",
+    "name": "Material 081",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_081_label.jpg",
+      "sample": "catalog/images/material_081_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-082",
+    "name": "Material 082",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_082_label.jpg",
+      "sample": "catalog/images/material_082_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-083",
+    "name": "Material 083",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_083_label.jpg",
+      "sample": "catalog/images/material_083_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-084",
+    "name": "Material 084",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_084_label.jpg",
+      "sample": "catalog/images/material_084_sample.jpg"
+    }
+  },
+  {
+    "id": "MAT-085",
+    "name": "Material 085",
+    "collection": "365 Days Collection",
+    "type": "Luxury Vinyl Plank",
+    "style": "Modern",
+    "description": "Premium flooring material with exceptional durability and style.",
+    "features": ["Waterproof", "Scratch Resistant", "Easy Installation"],
+    "specifications": {
+      "thickness": "8mm",
+      "wear_layer": "20 mil",
+      "core": "SPC Core",
+      "waterproof": true,
+      "installation": "Click-Lock"
+    },
+    "images": {
+      "label": "catalog/images/material_085_label.jpg",
+      "sample": "catalog/images/material_085_sample.jpg"
     }
   }
 ]

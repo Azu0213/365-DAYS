@@ -124,13 +124,16 @@ function setupFooter() {
     if (yearElement) yearElement.textContent = new Date().getFullYear();
 }
 
+// Global materials store for accurate filtering
+let allMaterials = [];
+
 async function loadCatalog() {
     try {
         const response = await fetch('data/materials.json?v=' + Date.now());
         if (!response.ok) throw new Error(`Failed to load materials: ${response.status}`);
-        const materials = await response.json();
-        if (!materials.length) return showEmptyState();
-        renderCatalog(materials);
+        allMaterials = await response.json();
+        if (!allMaterials.length) return showEmptyState();
+        renderCatalog(allMaterials);
     } catch (error) {
         console.error('Error loading catalog:', error);
         showErrorState(error.message);
@@ -166,10 +169,17 @@ function renderCatalog(materials) {
     
     materialsData = materials;
     container.innerHTML = '';
+    
+    // Use document fragment for better performance
+    const fragment = document.createDocumentFragment();
+    
     materials.forEach((material) => {
         const card = createMaterialCard(material);
-        container.appendChild(card);
+        fragment.appendChild(card);
     });
+    
+    // Append all cards at once for better performance
+    container.appendChild(fragment);
     setupInitialFilterState();
     updateResultsCount(materials.length);
 }
@@ -187,6 +197,7 @@ function setupInitialFilterState() {
 function createMaterialCard(material) {
     const card = document.createElement('div');
     card.className = 'material-card';
+    card.dataset.materialId = material.id;
     card.dataset.style = material.style || '';
     card.dataset.thickness = (material.specifications && material.specifications.thickness) || '';
     card.dataset.materialType = material.type || '';
@@ -209,7 +220,6 @@ function createMaterialCard(material) {
                     <div class="spec-item"><span class="spec-label">Thickness:</span><span class="spec-value">${s.thickness || 'N/A'}</span></div>
                     <div class="spec-item"><span class="spec-label">Wear Layer:</span><span class="spec-value">${s.wear_layer || 'N/A'}</span></div>
                     <div class="spec-item"><span class="spec-label">Core:</span><span class="spec-value">${s.core || 'N/A'}</span></div>
-                    <div class="spec-item"><span class="spec-label">Warranty:</span><span class="spec-value">${s.warranty || 'N/A'}</span></div>
                     <div class="spec-item"><span class="spec-label">Waterproof:</span><span class="spec-value ${s.waterproof ? 'waterproof-yes' : 'waterproof-no'}">${s.waterproof ? '100% GUARANTEED' : 'No'}</span></div>
                     <div class="spec-item"><span class="spec-label">Installation:</span><span class="spec-value">${s.installation || 'N/A'}</span></div>
                 </div>
@@ -222,7 +232,7 @@ function createMaterialCard(material) {
                 <span class="waterproof-icon">💧</span>
                 <span class="waterproof-text">100% WATERPROOF GUARANTEED</span>
             </div>
-            <img src="${material.images.sample}" alt="${material.name}" class="material-image" loading="lazy" onerror="this.src='${material.images.label}'">
+            <img src="${material.images.label}" alt="${material.name}" class="material-image" loading="lazy" decoding="async" onerror="handleImageError(this, '${material.images.sample}', '${material.id}')">
         </div>
         <div class="material-info">
             <h3 class="material-name">${material.name}</h3>
@@ -277,7 +287,7 @@ function showMaterialDetail(material) {
                             <span class="waterproof-icon-large">💧</span>
                             <div class="waterproof-guarantee-text">
                                 <h3>100% WATERPROOF GUARANTEE</h3>
-                                <p>This flooring is completely waterproof and backed by our lifetime warranty</p>
+                                <p>This flooring is completely waterproof and built to last with quality construction</p>
                             </div>
                             <span class="waterproof-checkmark">✓</span>
                         </div>
@@ -339,28 +349,40 @@ function handleAdvancedFilter(e) {
 function applyAllFilters() {
     const cards = document.querySelectorAll('.material-card');
     let visible = 0;
-    cards.forEach(card => {
-        const m = extractMaterialData(card);
-        let show = true;
-        if (currentFilters.search) {
-            const s = currentFilters.search;
-            const match = m.name.includes(s) || m.id.includes(s) || m.type.includes(s) || m.collection.includes(s);
-            if (!match) show = false;
-        }
-        if (currentFilters.quickFilter !== 'all') {
-            const f = m.features;
-            if (currentFilters.quickFilter === 'waterproof' && !f.includes('100% Waterproof')) show = false;
-            if (currentFilters.quickFilter === 'lifetime' && !f.includes('Lifetime Warranty')) show = false;
-            if (currentFilters.quickFilter === 'commercial' && !f.includes('Commercial Grade')) show = false;
-        }
-        if (currentFilters.materialType && !m.type.includes(currentFilters.materialType.toLowerCase())) show = false;
-        if (currentFilters.collection && !m.collection.includes(currentFilters.collection.toLowerCase())) show = false;
-        if (currentFilters.style && !m.style.includes(currentFilters.style.toLowerCase())) show = false;
-        if (currentFilters.thickness && !m.thickness.includes(currentFilters.thickness.toLowerCase())) show = false;
-        card.style.display = show ? 'flex' : 'none';
-        if (show) visible++;
+    
+    // Use requestAnimationFrame for better performance
+    requestAnimationFrame(() => {
+        cards.forEach(card => {
+            const materialId = card.dataset.materialId;
+            const material = allMaterials.find(m => m.id === materialId);
+            
+            if (!material) {
+                console.warn(`Material not found for ID: ${materialId}`);
+                card.style.display = 'none';
+                return;
+            }
+            
+            let show = true;
+            if (currentFilters.search) {
+                const s = currentFilters.search.toLowerCase();
+                const match = material.name.toLowerCase().includes(s) || 
+                             material.id.toLowerCase().includes(s) || 
+                             material.type.toLowerCase().includes(s) || 
+                             material.collection.toLowerCase().includes(s);
+                if (!match) show = false;
+            }
+            if (currentFilters.quickFilter !== 'all') {
+                if (currentFilters.quickFilter === 'premium' && !isPremiumMaterial(material)) show = false;
+            }
+            if (currentFilters.materialType && !material.type.toLowerCase().includes(currentFilters.materialType.toLowerCase())) show = false;
+            if (currentFilters.collection && !material.collection.toLowerCase().includes(currentFilters.collection.toLowerCase())) show = false;
+            if (currentFilters.style && !material.style.toLowerCase().includes(currentFilters.style.toLowerCase())) show = false;
+            if (currentFilters.thickness && !material.specifications.thickness.toLowerCase().includes(currentFilters.thickness.toLowerCase())) show = false;
+            card.style.display = show ? 'flex' : 'none';
+            if (show) visible++;
+        });
+        updateResultsCount(visible);
     });
-    updateResultsCount(visible);
 }
 
 function extractMaterialData(card) {
@@ -380,8 +402,7 @@ function updateSearchSuggestions(query) {
     const suggestions = [
         'Oak','Pine','Walnut','Maple','Cherry',
         'Luxury Vinyl Plank','Laminate','SPC Flooring',
-        'Waterproof','Lifetime Warranty','Commercial Grade',
-        'Premium','Classic','Modern','Signature'
+        'Premium','Classic','Thick','Modern','Signature'
     ].filter(s => s.toLowerCase().includes(query.toLowerCase())).slice(0,5);
     const box = document.getElementById('search-suggestions');
     if (!box) return;
@@ -396,6 +417,31 @@ function selectSuggestion(s) { const i = document.getElementById('search-input')
 function showSearchSuggestions() { const i = document.getElementById('search-input'); if (i?.value.length >= 2) updateSearchSuggestions(i.value); }
 function hideSearchSuggestions() { setTimeout(()=>{ const b=document.getElementById('search-suggestions'); if (b) b.style.display='none'; },200); }
 function toggleAdvancedFilters() { document.getElementById('advanced-filters')?.classList.toggle('show'); document.getElementById('filter-toggle')?.classList.toggle('active'); }
+
+// SIMPLE & ACCURATE FILTER SYSTEM  
+function isPremiumMaterial(material) {
+    // Premium = Solid Hardwood and premium engineered products
+    return material._metadata && material._metadata.is_premium;
+}
+
+function handleImageError(imgElement, fallbackSrc, materialId) {
+    // Try the label image first
+    if (imgElement.src !== fallbackSrc) {
+        console.log(`Sample image failed for ${materialId}, trying label image`);
+        imgElement.src = fallbackSrc;
+        return;
+    }
+    
+    // If label image also fails, use a placeholder
+    console.log(`Both images failed for ${materialId}, using placeholder`);
+    imgElement.style.backgroundColor = '#f0f0f0';
+    imgElement.style.display = 'flex';
+    imgElement.style.alignItems = 'center';
+    imgElement.style.justifyContent = 'center';
+    imgElement.innerHTML = '<span style="color: #666; font-size: 12px;">Image Loading...</span>';
+    imgElement.alt = 'Image not available';
+}
+
 function clearAllFilters() {
     currentFilters = { search: '', quickFilter: 'all', materialType: '', collection: '', style: '', thickness: '' };
     const i = document.getElementById('search-input'); if (i) i.value = '';
