@@ -25,6 +25,25 @@
       transition: none !important;
     }
   </style>
+  
+  <!-- Force catalog visibility on load -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.body.classList.add('enter');
+      // Force visibility
+      document.body.style.opacity = '1';
+      const header = document.querySelector('.site-header');
+      const site = document.querySelector('.site');
+      if (header) {
+        header.style.opacity = '1';
+        header.style.transform = 'translateY(0)';
+      }
+      if (site) {
+        site.style.opacity = '1';
+        site.style.transform = 'translateY(0)';
+      }
+    });
+  </script>
 </head>
 <body class="enter">
   <!-- Header -->
