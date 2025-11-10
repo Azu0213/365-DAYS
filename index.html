@@ -10,27 +10,17 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
 
+  <!-- Preload critical resources -->
+  <link rel="preload" href="data/materials.json" as="fetch" crossorigin>
+
   <link rel="stylesheet" href="styles.css" />
-  <script src="script.js"></script>
-
-  <!-- Page-scoped: ensure opener is skipped here -->
-  <style>
-    body.catalog .site-header,
-    body.catalog .site { opacity: 1 !important; transform: none !important; }
-  </style>
-
-  <noscript>
-    <style>.site-header,.site{opacity:1!important;transform:none!important}</style>
-  </noscript>
+  <script src="script.js" defer></script>
 </head>
-<body class="catalog">
+<body>
   <!-- Header -->
   <header class="site-header">
     <a class="site-logo" href="index.html"><span class="brand-365">365</span> Days Flooring</a>
     <nav class="site-nav">
-      <a href="index_old.html#about">About</a>
-      <a href="index_old.html#services">Services</a>
-      <a href="index_old.html#adu">ADU & Real Estate</a>
       <a href="index.html" aria-current="page">Catalog</a>
       <a class="phone" href="tel:18188001358">818.800.1358</a>
     </nav>
