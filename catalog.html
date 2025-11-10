@@ -16,13 +16,17 @@
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
   
-  <!-- Ensure catalog shows immediately -->
+  <!-- Ensure catalog shows immediately without splash animation -->
   <style>
     body .site-header,
-    body .site { opacity: 1 !important; transform: none !important; }
+    body .site { 
+      opacity: 1 !important; 
+      transform: translateY(0) !important; 
+      transition: none !important;
+    }
   </style>
 </head>
-<body>
+<body class="enter">
   <!-- Header -->
   <header class="site-header">
     <a class="site-logo" href="index.html"><span class="brand-365">365</span> Days Flooring</a>
