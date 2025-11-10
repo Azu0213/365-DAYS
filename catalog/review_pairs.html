@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Material Pairs Review - 365 Days Flooring</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: #0a0a0a;
+            color: #f4f3ef;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #d4af37;
+            font-size: 2.5rem;
+        }
+        .pairs-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            gap: 30px;
+        }
+        .pair {
+            background: #1a1a1a;
+            border: 2px solid #2a2a2a;
+            border-radius: 12px;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .pair-header {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #d4af37;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #333;
+        }
+        .image-container {
+            text-align: center;
+        }
+        .image-container h3 {
+            margin-bottom: 10px;
+            color: #c5bfae;
+            font-size: 1.1rem;
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            border: 1px solid #333;
+            background: #111;
+        }
+        @media (max-width: 768px) {
+            .pair {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>📸 Material Pairs Review</h1>
+    <div class="pairs-container" id="pairsContainer"></div>
+    
+    <script>
+        const container = document.getElementById('pairsContainer');
+        const totalPairs = 85;
+        
+        for (let i = 1; i <= totalPairs; i++) {
+            const pairNum = i.toString().padStart(3, '0');
+            const labelImg = `images/material_${pairNum}_label.jpg`;
+            const sampleImg = `images/material_${pairNum}_sample.jpg`;
+            
+            const pairDiv = document.createElement('div');
+            pairDiv.className = 'pair';
+            pairDiv.innerHTML = `
+                <div class="pair-header">Pair ${i} of ${totalPairs}</div>
+                <div class="image-container">
+                    <h3>📋 Label</h3>
+                    <img src="${labelImg}" alt="Material ${pairNum} Label" loading="lazy">
+                </div>
+                <div class="image-container">
+                    <h3>🎨 Material Sample</h3>
+                    <img src="${sampleImg}" alt="Material ${pairNum} Sample" loading="lazy">
+                </div>
+            `;
+            container.appendChild(pairDiv);
+        }
+    </script>
+</body>
+</html>

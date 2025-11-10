@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head><title>Debug</title></head>
+<body style="background:#000;color:#fff;padding:20px;">
+<h1>Debug Image Paths</h1>
+<div id="output"></div>
+<script>
+fetch('data/materials.json')
+  .then(r => r.json())
+  .then(materials => {
+    let html = `<p>Total materials: ${materials.length}</p>`;
+    html += `<h2>First 3 materials:</h2>`;
+    materials.slice(0,3).forEach(m => {
+      html += `
+        <div style="border:1px solid #333; padding:10px; margin:10px 0;">
+          <p><strong>${m.name}</strong> (${m.id})</p>
+          <p>Label path: ${m.images.label}</p>
+          <p>Sample path: ${m.images.sample}</p>
+          <img src="${m.images.label}" style="max-width:200px;border:2px solid #0f0;" 
+               onerror="this.style.borderColor='#f00';this.alt='FAILED: '+this.src">
+          <img src="${m.images.sample}" style="max-width:200px;border:2px solid #00f;" 
+               onerror="this.style.borderColor='#f00';this.alt='FAILED: '+this.src">
+        </div>`;
+    });
+    document.getElementById('output').innerHTML = html;
+  })
+  .catch(e => {
+    document.getElementById('output').innerHTML = `<p style="color:red;">Error: ${e}</p>`;
+  });
+</script>
+</body>
+</html>

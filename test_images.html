@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Test</title>
+    <style>
+        body { background: #111; color: #fff; padding: 20px; }
+        img { border: 2px solid #0f0; margin: 10px; max-width: 300px; }
+        .error { border-color: #f00; }
+    </style>
+</head>
+<body>
+    <h1>Image Loading Test</h1>
+    <h2>Test 1: Direct path</h2>
+    <img src="catalog/images/material_001_label.jpg" alt="Test 1">
+    <img src="catalog/images/material_001_sample.jpg" alt="Test 1 Sample">
+    
+    <h2>Test 2: Checking via JavaScript</h2>
+    <div id="results"></div>
+    
+    <script>
+        const img1 = new Image();
+        img1.onload = () => console.log('✅ Label image loaded successfully');
+        img1.onerror = () => console.error('❌ Label image failed to load');
+        img1.src = 'catalog/images/material_001_label.jpg';
+        
+        const img2 = new Image();
+        img2.onload = () => console.log('✅ Sample image loaded successfully');
+        img2.onerror = () => console.error('❌ Sample image failed to load');
+        img2.src = 'catalog/images/material_001_sample.jpg';
+        
+        // Test fetch
+        fetch('data/materials.json')
+            .then(r => r.json())
+            .then(data => {
+                document.getElementById('results').innerHTML = 
+                    `<p>✅ Loaded ${data.length} materials</p>
+                     <p>First material image paths:</p>
+                     <p>Label: ${data[0].images.label}</p>
+                     <p>Sample: ${data[0].images.sample}</p>`;
+            })
+            .catch(e => {
+                document.getElementById('results').innerHTML = 
+                    `<p style="color: red;">❌ Error: ${e.message}</p>`;
+            });
+    </script>
+</body>
+</html>
