@@ -199,7 +199,6 @@ function createMaterialCard(material) {
     card.className = 'material-card';
     card.dataset.materialId = material.id;
     card.dataset.style = material.style || '';
-    card.dataset.thickness = (material.specifications && material.specifications.thickness) || '';
     card.dataset.materialType = material.type || '';
     card.dataset.collection = material.collection || '';
 
@@ -217,9 +216,6 @@ function createMaterialCard(material) {
         specsHTML = `
             <div class="material-specs">
                 <div class="spec-grid">
-                    <div class="spec-item"><span class="spec-label">Thickness:</span><span class="spec-value">${s.thickness || 'N/A'}</span></div>
-                    <div class="spec-item"><span class="spec-label">Wear Layer:</span><span class="spec-value">${s.wear_layer || 'N/A'}</span></div>
-                    <div class="spec-item"><span class="spec-label">Core:</span><span class="spec-value">${s.core || 'N/A'}</span></div>
                     <div class="spec-item"><span class="spec-label">Waterproof:</span><span class="spec-value ${s.waterproof ? 'waterproof-yes' : 'waterproof-no'}">${s.waterproof ? '100% GUARANTEED' : 'No'}</span></div>
                     <div class="spec-item"><span class="spec-label">Installation:</span><span class="spec-value">${s.installation || 'N/A'}</span></div>
                 </div>
@@ -379,8 +375,7 @@ function extractMaterialData(card) {
         type: (card.querySelector('.material-type')?.textContent || '').toLowerCase(),
         collection: (card.querySelector('.material-collection')?.textContent || '').toLowerCase(),
         features: Array.from(card.querySelectorAll('.feature-badge')).map(badge => badge.textContent),
-        style: (card.dataset.style || '').toLowerCase(),
-        thickness: (card.dataset.thickness || '').toLowerCase()
+        style: (card.dataset.style || '').toLowerCase()
     };
 }
 
